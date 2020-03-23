@@ -19,9 +19,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/spf13/cobra"
-	"log"
 	"os"
-	"strings"
 )
 
 // generateNameCmd represents the generateName command
