@@ -19,7 +19,10 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/spf13/cobra"
+	"io/ioutil"
+	"math/rand"
 	"os"
+	"time"
 )
 
 // generateNameCmd represents the generateName command
@@ -41,19 +44,35 @@ var generateNameCmd = &cobra.Command{
 
 		fmt.Println("Successfully Opened cocktails.json")
 
-		// read our opened jsonFile as a byte array.
-		// byteValue, _ := ioutil.ReadAll(jsonFile)
-
-		// type Cocktail struct {
-		// 	Name  string `json:"Name"`
-		// 	Glass string `json:"Glass"`
-		// }
-
-		// type Cocktails struct {
-		// 	Cocktails []Cocktail `json:"cocktails"`
-		// }
 		// defer the closing of our jsonFile so that we can parse it later on
 		defer jsonFile.Close()
+
+		// read our opened jsonFile as a byte array.
+		byteValue, _ := ioutil.ReadAll(jsonFile)
+
+		type Cocktail struct {
+			Name  string `json:"Name"`
+			Glass string `json:"Glass"`
+		}
+
+		type Cocktails struct {
+			Cocktails []Cocktail `json:"cocktails"`
+		}
+
+		var _cocktails Cocktails
+
+		json.Unmarshal(byteValue, &_cocktails)
+
+		rand.Seed(time.Now().UnixNano())
+
+		fmt.Println("RANDOM Cocktail Name :", _cocktails.Cocktails[rand.Intn(len(_cocktails.Cocktails))])
+
+		// for i := 0; i < len(_cocktails.Cocktails); i++ {
+		// 	fmt.Println("Cocktail Name: " + _cocktails.Cocktails[i].Name)
+		// 	fmt.Println("Glass : " + _cocktails.Cocktails[i].Glass)
+
+		// }
+
 	},
 }
 
