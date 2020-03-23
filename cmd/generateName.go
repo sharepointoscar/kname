@@ -30,7 +30,6 @@ var generateNameCmd = &cobra.Command{
 	Short: "Generates the cluster name.",
 	Long:  `This addOn generates your EKS or GKE cluster name.`,
 	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Println("Ok we are onto something here... ")
 
 		// prob should go elsewhere but including it here for now.
 		// get an entry from the cocktails.json
