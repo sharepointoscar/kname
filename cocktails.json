@@ -1,0 +1,1084 @@
+{
+  "cocktails": [
+    {
+      "Name": "Highball Type",
+      "Glass": "Highball/Bucket with ice",
+      "Main Alcohol": "1oz",
+      "Other Alcohols": "No",
+      "Mixes": "Fill from the Speedgun",
+      "Garnish": "Rarely"
+    },
+    {
+      "Name": "Highball",
+      "Glass": "",
+      "Main Alcohol": "Bourbon",
+      "Other Alcohols": "",
+      "Mixes": "Gingerale",
+      "Garnish": ""
+    },
+    {
+      "Name": "Scotch and Soda",
+      "Glass": "",
+      "Main Alcohol": "Scotch",
+      "Other Alcohols": "",
+      "Mixes": "Soda",
+      "Garnish": ""
+    },
+    {
+      "Name": "7 & 7",
+      "Glass": "",
+      "Main Alcohol": "Seagram 7",
+      "Other Alcohols": "",
+      "Mixes": "7up",
+      "Garnish": ""
+    },
+    {
+      "Name": "Whiskey and Water",
+      "Glass": "",
+      "Main Alcohol": "Whiskey",
+      "Other Alcohols": "",
+      "Mixes": "Water",
+      "Garnish": ""
+    },
+    {
+      "Name": "Rum and Coke",
+      "Glass": "",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "",
+      "Mixes": "Coke",
+      "Garnish": ""
+    },
+    {
+      "Name": "Cuba Libre",
+      "Glass": "",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "",
+      "Mixes": "Coke",
+      "Garnish": "Squeeze and garnish with lime"
+    },
+    {
+      "Name": "Gin and Tonic",
+      "Glass": "",
+      "Main Alcohol": "Gin",
+      "Other Alcohols": "",
+      "Mixes": "Tonic",
+      "Garnish": "Lime"
+    },
+    {
+      "Name": "Presbyterian",
+      "Glass": "",
+      "Main Alcohol": "Bourbon",
+      "Other Alcohols": "",
+      "Mixes": "1/2 Soda 1/2 Gingerale",
+      "Garnish": ""
+    },
+    {
+      "Name": "Gin Rickey",
+      "Glass": "",
+      "Main Alcohol": "Gin",
+      "Other Alcohols": "",
+      "Mixes": "Soda",
+      "Garnish": "Lime"
+    },
+    {
+      "Name": "Old Fashioned",
+      "Glass": "",
+      "Main Alcohol": "Bourbon",
+      "Other Alcohols": "",
+      "Mixes": "Soda",
+      "Garnish": "1/2oz simple syrup or sugar, 2 dashes bitters, 1 orangle slice, 1 cherry all mashed. Flag"
+    },
+    {
+      "Name": "Juice Type",
+      "Glass": "Collins glass with ice",
+      "Main Alcohol": "1oz",
+      "Other Alcohols": "",
+      "Mixes": "Fill with juices mainly",
+      "Garnish": "Almost all"
+    },
+    {
+      "Name": "Bloody Mary",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "Tomato Juice",
+      "Garnish": "2 dashes salt, 2 dashes pepper, 2 dashes celery salt, 4 drops Worscestershire sauce, 1 drop Tabasco, celery stick or lime garnish"
+    },
+    {
+      "Name": "Bloody Maria",
+      "Glass": "",
+      "Main Alcohol": "Tequila",
+      "Other Alcohols": "",
+      "Mixes": "Tomato Juice",
+      "Garnish": "2 dashes salt, 2 dashes pepper, 2 dashes celery salt, 4 drops Worscestershire sauce, 1 drop Tabasco, celery stick or lime garnish"
+    },
+    {
+      "Name": "Greyhound",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "Grapefruit Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Salty Dog",
+      "Glass": "Salted rim",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "Grapefruit Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Screwdriver",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "Orange Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Harvey Wallbanger",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "1/2oz Galliano",
+      "Mixes": "Orange Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Tequila Sunrise",
+      "Glass": "",
+      "Main Alcohol": "Tequila",
+      "Other Alcohols": "",
+      "Mixes": "Orange Juice, 1/2oz Grenadine",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Cape Cod",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "Cranberry Juice",
+      "Garnish": "(Lime makes it a Cape Codder)"
+    },
+    {
+      "Name": "Sea Breeze",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "1/2 Cranberry 1/2 Grapefruit",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Bay Breeze",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "1/2 Cranberry 1/2 Pineapple",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Madras",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "1/2 Cranberry 1/2 Orange",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Sex On The Beach",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "1/2oz Peach Schnapps",
+      "Mixes": "1/2 Cranberry 1/2 Orange",
+      "Garnish": ""
+    },
+    {
+      "Name": "Slow Screw",
+      "Glass": "",
+      "Main Alcohol": "Sloe Gin",
+      "Other Alcohols": "",
+      "Mixes": "Orange Juice",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Slow Comfortable Screw",
+      "Glass": "",
+      "Main Alcohol": "Sloe Gin",
+      "Other Alcohols": "1/2oz Southern Comfort",
+      "Mixes": "Orange Juice",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Bocci Ball",
+      "Glass": "",
+      "Main Alcohol": "Amaretto",
+      "Other Alcohols": "",
+      "Mixes": "2oz Orange Juice, Soda",
+      "Garnish": ""
+    },
+    {
+      "Name": "Melon Ball",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "1/2oz Midori on top",
+      "Mixes": "Orange Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Fuzzy Navel",
+      "Glass": "",
+      "Main Alcohol": "Peach Schnapps",
+      "Other Alcohols": "",
+      "Mixes": "Orange Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Screaming Fuzzy Navel/Hairy Navel",
+      "Glass": "",
+      "Main Alcohol": "Peach Schnapps",
+      "Other Alcohols": "1/2oz Vodka on top",
+      "Mixes": "Orange Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Cream Drinks",
+      "Glass": "Cocktail/Highball",
+      "Main Alcohol": "Usually 1/2oz",
+      "Other Alcohols": "Usually 1/2oz",
+      "Mixes": "Cream and Juices",
+      "Garnish": "Rarely"
+    },
+    {
+      "Name": "Brandy Alexander",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "1/2oz Brandy",
+      "Other Alcohols": "1/2oz Brown Creme de Cacao",
+      "Mixes": "2oz Cream",
+      "Garnish": "Nutmeg"
+    },
+    {
+      "Name": "Golden Cadillac",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "1/2oz Galliano",
+      "Other Alcohols": "1/2oz White Creme de Cacao",
+      "Mixes": "2oz Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Banshee",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "1/2oz Creme de Banana",
+      "Other Alcohols": "1/2oz White Creme de Cacao",
+      "Mixes": "2oz Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Golden Dream",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "1/2oz Galliano",
+      "Other Alcohols": "1/2oz Triple-Sec",
+      "Mixes": "1/2oz Orange Juice, 1-1/2oz Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Pink Squirrel",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "1/2oz Creme de Almond",
+      "Other Alcohols": "1/2oz White Creme de Cacao",
+      "Mixes": "2oz Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Grasshopper",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "1/2oz Green Creme de Menthe",
+      "Other Alcohols": "1/2oz White Creme de Cacao",
+      "Mixes": "2oz Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Pink Lady",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "1oz Gin",
+      "Other Alcohols": "",
+      "Mixes": "1/2oz Grenadine, 1-1/2oz Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Dreamsickle",
+      "Glass": "Highball",
+      "Main Alcohol": "1oz Amaretto",
+      "Other Alcohols": "",
+      "Mixes": "1oz Orange Juice, 1oz Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Toasted Almond",
+      "Glass": "Highball",
+      "Main Alcohol": "1/2oz Amaretto",
+      "Other Alcohols": "1/2oz Kahlua",
+      "Mixes": "2oz Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Smith & Kerns",
+      "Glass": "Highball",
+      "Main Alcohol": "1oz Kahlua",
+      "Other Alcohols": "",
+      "Mixes": "2oz Cream, Soda",
+      "Garnish": ""
+    },
+    {
+      "Name": "Martinis",
+      "Glass": "Cocktail/Rocks",
+      "Main Alcohol": "2oz",
+      "Other Alcohols": "Vermouths",
+      "Mixes": "",
+      "Garnish": "Olive, Onion, Lemon Twist and Cherry"
+    },
+    {
+      "Name": "Martini",
+      "Glass": "",
+      "Main Alcohol": "Gin/Vodka",
+      "Other Alcohols": "6 drops Dry Vermouth",
+      "Mixes": "",
+      "Garnish": "Olive"
+    },
+    {
+      "Name": "Dry Martini",
+      "Glass": "",
+      "Main Alcohol": "Gin/Vodka",
+      "Other Alcohols": "3 drops Dry Vermouth",
+      "Mixes": "",
+      "Garnish": "Olive"
+    },
+    {
+      "Name": "Extra Dry Martini",
+      "Glass": "",
+      "Main Alcohol": "Gin/Vodka",
+      "Other Alcohols": "0-1 drops Dry Vermouth",
+      "Mixes": "",
+      "Garnish": "Olive"
+    },
+    {
+      "Name": "Gibson",
+      "Glass": "",
+      "Main Alcohol": "Gin/Vodka",
+      "Other Alcohols": "6 drops Dry Vermouth",
+      "Mixes": "",
+      "Garnish": "Onion"
+    },
+    {
+      "Name": "Manhattan",
+      "Glass": "",
+      "Main Alcohol": "Bourbon",
+      "Other Alcohols": "1/4oz Sweet Vermouth",
+      "Mixes": "",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Dry Manhattan",
+      "Glass": "",
+      "Main Alcohol": "Bourbon",
+      "Other Alcohols": "1/4oz Dry Vermouth",
+      "Mixes": "",
+      "Garnish": "Olive"
+    },
+    {
+      "Name": "Perfect Manhattan",
+      "Glass": "",
+      "Main Alcohol": "Bourbon",
+      "Other Alcohols": "1/8oz Dry Vermouth, 1/8oz Sweet Vermouth",
+      "Mixes": "",
+      "Garnish": "Lemon Twist"
+    },
+    {
+      "Name": "Rob Roy",
+      "Glass": "",
+      "Main Alcohol": "Scotch",
+      "Other Alcohols": "1/4oz Sweet Vermouth",
+      "Mixes": "",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Dry Rob Roy",
+      "Glass": "",
+      "Main Alcohol": "Scotch",
+      "Other Alcohols": "1/4oz Dry Vermouth",
+      "Mixes": "",
+      "Garnish": "Olive"
+    },
+    {
+      "Name": "Perfect Rob Roy",
+      "Glass": "",
+      "Main Alcohol": "Scotch",
+      "Other Alcohols": "1/8oz Dry Vermouth, 1/8oz Sweet Vermouth",
+      "Mixes": "",
+      "Garnish": "Lemon Twist"
+    },
+    {
+      "Name": "Southern Comfort Manhattan",
+      "Glass": "",
+      "Main Alcohol": "Southern Comfort",
+      "Other Alcohols": "1/4oz Dry Vermouth",
+      "Mixes": "",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Two Liquor Drinks",
+      "Glass": "Snifter, Rocks, Tall",
+      "Main Alcohol": "1-1/2oz",
+      "Other Alcohols": "1/2oz",
+      "Mixes": "Cream, Coke",
+      "Garnish": "Rarely"
+    },
+    {
+      "Name": "B&B",
+      "Glass": "Snifter",
+      "Main Alcohol": "3/4oz Brandy",
+      "Other Alcohols": "3/4oz Benedictine",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "French Connection/ Beautiful",
+      "Glass": "Snifter",
+      "Main Alcohol": "3/4oz Cognac",
+      "Other Alcohols": "3/4oz Grand Marnier",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Black Russian",
+      "Glass": "Rocks",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "Kahlua",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Dirty Mother",
+      "Glass": "Rocks",
+      "Main Alcohol": "Brandy",
+      "Other Alcohols": "Kahlua",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Brave Bull",
+      "Glass": "Rocks",
+      "Main Alcohol": "Tequila",
+      "Other Alcohols": "Kahlua",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "White Russian",
+      "Glass": "Tall",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "Kahlua",
+      "Mixes": "Fill with Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Dirty White Mother",
+      "Glass": "Tall",
+      "Main Alcohol": "Brandy",
+      "Other Alcohols": "Kahlua",
+      "Mixes": "Fill with Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "White Bull",
+      "Glass": "Tall",
+      "Main Alcohol": "Tequila",
+      "Other Alcohols": "Kahlua",
+      "Mixes": "Fill with Cream",
+      "Garnish": ""
+    },
+    {
+      "Name": "Godfather",
+      "Glass": "Rocks",
+      "Main Alcohol": "Scotch",
+      "Other Alcohols": "Amaretto",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Godmother",
+      "Glass": "Rocks",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "Amaretto",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Godchild",
+      "Glass": "Rocks",
+      "Main Alcohol": "Brandy",
+      "Other Alcohols": "Amaretto",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Gimlet",
+      "Glass": "Rocks",
+      "Main Alcohol": "Gin",
+      "Other Alcohols": "",
+      "Mixes": "1/2oz Lime Juice",
+      "Garnish": "Lime"
+    },
+    {
+      "Name": "Vodka Gimlet",
+      "Glass": "Rocks",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "1/2oz Lime Juice",
+      "Garnish": "Lime"
+    },
+    {
+      "Name": "Black Jamaican",
+      "Glass": "Rocks",
+      "Main Alcohol": "Myers' Rum",
+      "Other Alcohols": "Tia Maria",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Rusty Nail",
+      "Glass": "Rocks",
+      "Main Alcohol": "Scotch",
+      "Other Alcohols": "Drambuie",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Stinger",
+      "Glass": "Rocks",
+      "Main Alcohol": "Brandy",
+      "Other Alcohols": "White Creme de Menthe",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Colorado Bulldog",
+      "Glass": "Bucket",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "Kahlua",
+      "Mixes": "1-1/2oz Cream, Coke",
+      "Garnish": ""
+    },
+    {
+      "Name": "Rootbeer Float",
+      "Glass": "Tall",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "Kahlua, 1/2oz Galliano on top",
+      "Mixes": "1-1/2oz Cream, Coke",
+      "Garnish": "Whipped Cream, Cherry"
+    },
+    {
+      "Name": "Short Sours",
+      "Glass": "Bucket, Cocktail, Margarita",
+      "Main Alcohol": "1oz",
+      "Other Alcohols": "1/2oz when applicable",
+      "Mixes": "Sweet and Sour, Lime Juice",
+      "Garnish": "Lime, Cherry"
+    },
+    {
+      "Name": "Whiskey Sour",
+      "Glass": "Bucket",
+      "Main Alcohol": "Whiskey",
+      "Other Alcohols": "",
+      "Mixes": "2oz Sweet and Sour",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Daiquiri",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "",
+      "Mixes": "2oz Sweet and Sour",
+      "Garnish": "Lime"
+    },
+    {
+      "Name": "Bacardi Cocktail",
+      "Glass": "Cocktail stemmed",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "",
+      "Mixes": "2oz Sweet and Sour, 1/4oz Grenadine",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Margarita",
+      "Glass": "Bucket/Margarita",
+      "Main Alcohol": "Tequila",
+      "Other Alcohols": "1/2oz Triple-Sec",
+      "Mixes": "1/8oz Lime Juice, 2oz Sweet and Sour",
+      "Garnish": "Lime"
+    },
+    {
+      "Name": "Blue Margarita",
+      "Glass": "Bucket/Margarita",
+      "Main Alcohol": "Tequila",
+      "Other Alcohols": "1/2oz Blue Curacao",
+      "Mixes": "1/8oz Lime Juice, 2oz Sweet and Sour",
+      "Garnish": "Lime"
+    },
+    {
+      "Name": "Iced Teas/Lemonades",
+      "Glass": "Collins/Tall with ice",
+      "Main Alcohol": "Several",
+      "Other Alcohols": "Several",
+      "Mixes": "Sweet and Sour mainly",
+      "Garnish": "Always"
+    },
+    {
+      "Name": "Long Island Iced Tea",
+      "Glass": "",
+      "Main Alcohol": "1/2oz Vodka, 1/2oz Gin, 1/2oz Rum, 1/2oz Triple-Sec",
+      "Other Alcohols": "",
+      "Mixes": "2oz Sweet and Sour, Coke",
+      "Garnish": "Lemon wedge"
+    },
+    {
+      "Name": "Electric Iced Tea/Texas Tea",
+      "Glass": "",
+      "Main Alcohol": "1/2oz Vodka, 1/2oz Gin, 1/2oz Rum, 1/2oz Triple-Sec",
+      "Other Alcohols": "1/2oz Tequila",
+      "Mixes": "2oz Sweet and Sour, Coke",
+      "Garnish": "Lemon wedge"
+    },
+    {
+      "Name": "Long Beach Iced Tea",
+      "Glass": "",
+      "Main Alcohol": "1/2oz Vodka, 1/2oz Gin, 1/2oz Rum, 1/2oz Triple-Sec",
+      "Other Alcohols": "",
+      "Mixes": "2oz Sweet and Sour, Cranberry Juice, Soda",
+      "Garnish": "Lemon wedge"
+    },
+    {
+      "Name": "Tokyo Tea",
+      "Glass": "",
+      "Main Alcohol": "1/2oz Vodka, 1/2oz Gin, 1/2oz Rum, 1/2oz Triple-Sec",
+      "Other Alcohols": "1/2oz Midori",
+      "Mixes": "2oz Sweet and Sour, 7up",
+      "Garnish": "Lemon wedge"
+    },
+    {
+      "Name": "Lemonade",
+      "Glass": "",
+      "Main Alcohol": "1/2oz Vodka, 1/2oz Gin, 1/2oz Rum, 1/2oz Triple-Sec",
+      "Other Alcohols": "",
+      "Mixes": "2oz Sweet and Sour, 7up",
+      "Garnish": "Lemon wedge"
+    },
+    {
+      "Name": "Electric Lemonade",
+      "Glass": "",
+      "Main Alcohol": "1/2oz Vodka, 1/2oz Gin, 1/2oz Rum, 1/2oz Triple-Sec",
+      "Other Alcohols": "1/2oz Tequila",
+      "Mixes": "2oz Sweet and Sour, 7up",
+      "Garnish": "Lemon wedge"
+    },
+    {
+      "Name": "Electric Blue Lemonade/AMF",
+      "Glass": "",
+      "Main Alcohol": "1/2oz Vodka, 1/2oz Gin, 1/2oz Rum, 1/2oz Blue Curacao",
+      "Other Alcohols": "1/2oz Tequila",
+      "Mixes": "2oz Sweet and Sour, 7up",
+      "Garnish": "Lemon wedge"
+    },
+    {
+      "Name": "Adios",
+      "Glass": "",
+      "Main Alcohol": "1/2oz Vodka, 1/2oz Gin, 1/2oz Rum, 1/2oz Blue Curacao",
+      "Other Alcohols": "1/2oz Tequila, 1/2oz Bacardi 151",
+      "Mixes": "2oz Sweet and Sour, 7up",
+      "Garnish": "Lemon wedge"
+    },
+    {
+      "Name": "Lynchburg Lemonade",
+      "Glass": "",
+      "Main Alcohol": "1oz Jack Daniels",
+      "Other Alcohols": "1/2oz Triple-Sec",
+      "Mixes": "1oz Sweet and Sour, 7up",
+      "Garnish": "Lemon, Cherry"
+    },
+    {
+      "Name": "Collins/Fizzes",
+      "Glass": "Collins",
+      "Main Alcohol": "1oz",
+      "Other Alcohols": "",
+      "Mixes": "2oz Sweet and Sour, Soda",
+      "Garnish": "Cherry"
+    },
+    {
+      "Name": "Vodka Collins",
+      "Glass": "",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Tom Collins",
+      "Glass": "",
+      "Main Alcohol": "Gin",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Joe Collins",
+      "Glass": "",
+      "Main Alcohol": "Scotch",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "John Collins",
+      "Glass": "",
+      "Main Alcohol": "Bourbon",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Joan Collins",
+      "Glass": "",
+      "Main Alcohol": "Brandy",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Sloe Gin Fizz",
+      "Glass": "",
+      "Main Alcohol": "Sloe Gin",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Party Drinks",
+      "Glass": "Plastic Pitcher in freezer",
+      "Main Alcohol": "",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Frozen Daiquiri Slush",
+      "Glass": "",
+      "Main Alcohol": "2 cans Rum",
+      "Other Alcohols": "",
+      "Mixes": "6oz Lemonade, 1 can water, 1 can 7up",
+      "Garnish": ""
+    },
+    {
+      "Name": "Bourbolicious Slush",
+      "Glass": "",
+      "Main Alcohol": "1-1/2 cups Bourbon",
+      "Other Alcohols": "",
+      "Mixes": "6oz Lemonade, 1 can Oranje Juice, 1 cup sugar, 2-1/4 cups brewd tea, 6 cups water",
+      "Garnish": ""
+    },
+    {
+      "Name": "Exotic Drinks",
+      "Glass": "Collins/Specialty with ice",
+      "Main Alcohol": "1oz",
+      "Other Alcohols": "Varies",
+      "Mixes": "Juices",
+      "Garnish": "Flag, Pineapple Wedge/Cherry"
+    },
+    {
+      "Name": "Mai Tai",
+      "Glass": "",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "1/2oz Creme de Almond, 1/2oz Triple-Sec, 1/2oz Myers' Rum on top",
+      "Mixes": "1/2 Sweet and Sour, 1/2 Pineapple Juice",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Zombie",
+      "Glass": "",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "1/2oz Creme de Almond, 1/2oz Triple-Sec, 1/2oz Bacardi 151 on top",
+      "Mixes": "1/2 Sweet and Sour, 1/2 Orange Juice",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Green Zombie",
+      "Glass": "",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "1/2oz Blue Curacao, 1/2oz Amaretto, 1/2oz Bacardi 151 on top",
+      "Mixes": "1/2 Sweet and Sour, 1/2 Orange Juice",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Singapore Sling",
+      "Glass": "",
+      "Main Alcohol": "Gin",
+      "Other Alcohols": "1/2oz Blackberry Brandy/Cherry Brandy on top",
+      "Mixes": "1/2oz Grenadine, 2oz Sweet and Sour, Soda",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Fog Cutter",
+      "Glass": "",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "1/2oz Brandy, 1/2oz Gin",
+      "Mixes": "1/2 Sweet and Sour, 1/2 Orange Juice",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Blue Hawaiian",
+      "Glass": "",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "1/2oz Blue Curacao",
+      "Mixes": "2oz Pineapple Juice, 2oz Sweet and Sour",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Hurricane",
+      "Glass": "",
+      "Main Alcohol": "1oz Light Rum, 1oz Myers' Rum",
+      "Other Alcohols": "",
+      "Mixes": "1/4oz Lime Juice, 1/2 Sweet and Sour, 1/2 Orange Juice, 1/2oz Grenadine on top",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Planter's Punch",
+      "Glass": "",
+      "Main Alcohol": "1oz Myers' Rum",
+      "Other Alcohols": "",
+      "Mixes": "1/2 Sweet and Sour, 1/2 Orange Juice, 1/2oz Grenadine on top",
+      "Garnish": "2 dashes bitters, Flag"
+    },
+    {
+      "Name": "Rum Runner",
+      "Glass": "Hurricane/Specialty",
+      "Main Alcohol": "1/2oz Light Rum, 1/2oz Dark Rum",
+      "Other Alcohols": "1/2oz Blackberry Rum, 1/2oz Creme de Banana",
+      "Mixes": "1-1/2oz Sweet and Sour, Orange Juice, Grenadine on top",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Bahama Mama",
+      "Glass": "Hurricane/Specialty",
+      "Main Alcohol": "Malibu Rum",
+      "Other Alcohols": "",
+      "Mixes": "1/2oz Grenadine, 1/2 Pineapple Juice, 1/2 Oranje Juice",
+      "Garnish": "Flag"
+    },
+    {
+      "Name": "Pina Colada",
+      "Glass": "Hurricane/Specialty",
+      "Main Alcohol": "Light Rum",
+      "Other Alcohols": "",
+      "Mixes": "1oz Cream of Coconut Syrup, 2oz Pineapple Juice",
+      "Garnish": "Pineapple wedge/cherry"
+    },
+    {
+      "Name": "Chi Chi",
+      "Glass": "Hurricane/Specialty",
+      "Main Alcohol": "Vodka",
+      "Other Alcohols": "",
+      "Mixes": "1oz Cream of Coconut Syrup, 2oz Pineapple Juice",
+      "Garnish": "Pineapple wedge/cherry"
+    },
+    {
+      "Name": "Shots",
+      "Glass": "Shot glass",
+      "Main Alcohol": "1oz total alcohol",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "B-52",
+      "Glass": "",
+      "Main Alcohol": "Kahlua, Bailey's, Grand Marnier",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": "Layered"
+    },
+    {
+      "Name": "Mudslide",
+      "Glass": "",
+      "Main Alcohol": "Kahlua, Bailey's, Vodka",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": "Layered"
+    },
+    {
+      "Name": "Depth Charge",
+      "Glass": "",
+      "Main Alcohol": "Any liquor",
+      "Other Alcohols": "2/3 pint of beer",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Lemon Drop",
+      "Glass": "",
+      "Main Alcohol": "1oz Vodka, 1/2oz Tripe-Sec",
+      "Other Alcohols": "",
+      "Mixes": "Splash Lemon Juice",
+      "Garnish": "Sugar (Optional)"
+    },
+    {
+      "Name": "Kamakazi Shot",
+      "Glass": "",
+      "Main Alcohol": "1oz Vodka, 1/2oz Triple-Sec",
+      "Other Alcohols": "",
+      "Mixes": "1/4oz Lime Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Poppers/Slammers",
+      "Glass": "Rocks Glass no ice",
+      "Main Alcohol": "Any liquor",
+      "Other Alcohols": "",
+      "Mixes": "Splash 7up for dark alcohol, Coke for white alcohol",
+      "Garnish": ""
+    },
+    {
+      "Name": "Purple Hooter",
+      "Glass": "",
+      "Main Alcohol": "1oz Vodka",
+      "Other Alcohols": "1/2oz Chambord",
+      "Mixes": "Splash Sour Mix",
+      "Garnish": ""
+    },
+    {
+      "Name": "Orgasm",
+      "Glass": "",
+      "Main Alcohol": "Kahlua, Bailey's, Amaretto",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": "Layered"
+    },
+    {
+      "Name": "Screaming Orgasm",
+      "Glass": "",
+      "Main Alcohol": "Kahlua, Bailey's, Amaretto, Vodka",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": "Layered"
+    },
+    {
+      "Name": "Snakebite",
+      "Glass": "",
+      "Main Alcohol": "Yukon Jack",
+      "Other Alcohols": "",
+      "Mixes": "1/4oz Lime Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Slippery Nipple",
+      "Glass": "",
+      "Main Alcohol": "3/4oz Sambuca, 1/4oz Bailey's",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Butter Baby/Buttery Nipple/Butterfinger/Stiff Dick",
+      "Glass": "",
+      "Main Alcohol": "Bailey's, Butterscotch Schnapps",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Liquid Cocaine",
+      "Glass": "",
+      "Main Alcohol": "Jagermeister, Rumplemintz/Goldschlager, Bacardi 151",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Oatmeal Cookie",
+      "Glass": "",
+      "Main Alcohol": "Butterscotch Schnapps, Bailey's, Jagermeister, Goldschlager",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Blowjob",
+      "Glass": "",
+      "Main Alcohol": "Bailey's, Amaretto, Frangelico",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": "Layered"
+    },
+    {
+      "Name": "Cement Mixer",
+      "Glass": "",
+      "Main Alcohol": "Bailey's",
+      "Other Alcohols": "",
+      "Mixes": "Drop Lime Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Hot Shots",
+      "Glass": "",
+      "Main Alcohol": "Cinnamon Schnapps",
+      "Other Alcohols": "",
+      "Mixes": "Drop Tabasco",
+      "Garnish": ""
+    },
+    {
+      "Name": "Mind Eraser",
+      "Glass": "",
+      "Main Alcohol": "Kahlua, Vodka",
+      "Other Alcohols": "",
+      "Mixes": "Top with Soda",
+      "Garnish": "Layered"
+    },
+    {
+      "Name": "Silk Panties",
+      "Glass": "",
+      "Main Alcohol": "Peach Schnapps, Vodka",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": ""
+    },
+    {
+      "Name": "Pretty Pink Silk Panties",
+      "Glass": "",
+      "Main Alcohol": "Peach Schnapps, Vodka",
+      "Other Alcohols": "",
+      "Mixes": "Splash Cranberrie Juice",
+      "Garnish": ""
+    },
+    {
+      "Name": "Russian Rocketfuel",
+      "Glass": "",
+      "Main Alcohol": "2oz Vodka",
+      "Other Alcohols": "1/2oz Blue Curacao",
+      "Mixes": "Splash Energy Drink",
+      "Garnish": ""
+    },
+    {
+      "Name": "Chocolate Cake",
+      "Glass": "",
+      "Main Alcohol": "1-1/2oz Lemon flavoured Vodka, 1/2oz Frangelico",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": "Lemon wedge with sugar"
+    },
+    {
+      "Name": "Birthday Cake",
+      "Glass": "",
+      "Main Alcohol": "1-1/zoz Vanilla flavoured Vodka, 1/2oz Frangelico",
+      "Other Alcohols": "",
+      "Mixes": "",
+      "Garnish": "Lemon wedge with sugar"
+    }
+  ]
+}

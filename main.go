@@ -15,7 +15,9 @@ limitations under the License.
 */
 package main
 
-import "cocktail/cmd"
+import (
+	"github.com/sharepointoscar/cocktail/cmd"
+)
 
 func main() {
 	cmd.Execute()

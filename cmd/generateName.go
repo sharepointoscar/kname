@@ -16,18 +16,47 @@ limitations under the License.
 package cmd
 
 import (
+	"encoding/json"
 	"fmt"
-
 	"github.com/spf13/cobra"
+	"log"
+	"os"
+	"strings"
 )
 
 // generateNameCmd represents the generateName command
 var generateNameCmd = &cobra.Command{
-	Use:   "generateName",
+	Use:   "generate-name",
 	Short: "Generates the cluster name.",
 	Long:  `This addOn generates your EKS or GKE cluster name.`,
 	Run: func(cmd *cobra.Command, args []string) {
 		fmt.Println("Ok we are onto something here... ")
+
+		// prob should go elsewhere but including it here for now.
+		// get an entry from the cocktails.json
+		// Open our jsonFile
+		jsonFile, err := os.Open("cocktails.json")
+
+		// if we os.Open returns an error then handle it
+		if err != nil {
+			fmt.Println(err)
+		}
+
+		fmt.Println("Successfully Opened cocktails.json")
+
+		// read our opened jsonFile as a byte array.
+		// byteValue, _ := ioutil.ReadAll(jsonFile)
+
+		// type Cocktail struct {
+		// 	Name  string `json:"Name"`
+		// 	Glass string `json:"Glass"`
+		// }
+
+		// type Cocktails struct {
+		// 	Cocktails []Cocktail `json:"cocktails"`
+		// }
+		// defer the closing of our jsonFile so that we can parse it later on
+		defer jsonFile.Close()
 	},
 }
 
