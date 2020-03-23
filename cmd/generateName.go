@@ -42,8 +42,6 @@ var generateNameCmd = &cobra.Command{
 			fmt.Println(err)
 		}
 
-		fmt.Println("Successfully Opened cocktails.json")
-
 		// defer the closing of our jsonFile so that we can parse it later on
 		defer jsonFile.Close()
 
@@ -64,8 +62,10 @@ var generateNameCmd = &cobra.Command{
 		json.Unmarshal(byteValue, &_cocktails)
 
 		rand.Seed(time.Now().UnixNano())
+		var randomCocktail = _cocktails.Cocktails[rand.Intn(len(_cocktails.Cocktails))]
 
-		fmt.Println("RANDOM Cocktail Name :", _cocktails.Cocktails[rand.Intn(len(_cocktails.Cocktails))])
+		fmt.Println("Cocktail Name :", randomCocktail.Name+"\n")
+		fmt.Println("Cocktail Glass :", randomCocktail.Glass+"\n")
 
 		// for i := 0; i < len(_cocktails.Cocktails); i++ {
 		// 	fmt.Println("Cocktail Name: " + _cocktails.Cocktails[i].Name)
