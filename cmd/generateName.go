@@ -22,6 +22,7 @@ import (
 	"io/ioutil"
 	"math/rand"
 	"os"
+	"strings"
 	"time"
 )
 
@@ -64,8 +65,12 @@ var generateNameCmd = &cobra.Command{
 		rand.Seed(time.Now().UnixNano())
 		var randomCocktail = _cocktails.Cocktails[rand.Intn(len(_cocktails.Cocktails))]
 
-		fmt.Println("Cocktail Name :", randomCocktail.Name+"\n")
-		fmt.Println("Cocktail Glass :", randomCocktail.Glass+"\n")
+		_cocktailName := strings.ToLower(strings.Replace(randomCocktail.Name, " ", "", -1))
+
+		fmt.Println("Cocktail Name: " + _cocktailName + "\n")
+
+		//fmt.Println("Cocktail Name :", randomCocktail.Name+"\n")
+		//fmt.Println("Cocktail Glass :", randomCocktail.Glass+"\n")
 
 		// for i := 0; i < len(_cocktails.Cocktails); i++ {
 		// 	fmt.Println("Cocktail Name: " + _cocktails.Cocktails[i].Name)
