@@ -1,3 +1,4 @@
+![cocktail](logo_cocktail.png)
 # Cocktail
 With all the madness around me, I decided to do something I want todo, vs what I have to do.  Combine two passions and this is what comes out of it.
 
