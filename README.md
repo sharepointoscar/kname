@@ -10,6 +10,12 @@ Cocktail is a simple CLI that you can use to spit out a random cocktail name whi
 
 # Installing
 
+Like any other `go` packaage.
+
+```bash
+go get github.com/sharepointoscar/cocktail
+```
+
 ## Using Jenkins X CLI
 
 I use Jenkins X on GKE and EKS (soon AKS), but here is how I quickly create my cluster passing the random name.
