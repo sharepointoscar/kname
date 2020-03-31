@@ -67,7 +67,7 @@ var generateNameCmd = &cobra.Command{
 
 		_cocktailName := strings.ToLower(strings.Replace(randomCocktail.Name, " ", "", -1))
 
-		fmt.Println("Cocktail Name: " + _cocktailName + "\n")
+		fmt.Println(_cocktailName)
 
 		//fmt.Println("Cocktail Name :", randomCocktail.Name+"\n")
 		//fmt.Println("Cocktail Glass :", randomCocktail.Glass+"\n")
