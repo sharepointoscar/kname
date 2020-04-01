@@ -1,8 +1,8 @@
 ![cocktail](logo_cocktail.png)
 # Cocktail
-With all the madness around me, I decided to do something I want todo, vs what I have to do.  Combine two passions and this is what comes out of it.
+ Combine two passions and this is what comes out of it.
 
-I am a big fan of mixology, and well I work in tech.  One day I decided I hated coming up with names for my Kubernetes clusters as I test stuff, and so Cocktail was born.
+I am a big fan of mixology. One day I decided I hated coming up with names for my [Kubernetes](https://kubernetes.io/) clusters as I test stuff, and so Cocktail was born.
 
 # What is this?
 Cocktail is a simple CLI that you can use to spit out a random cocktail name which you can use to name whatever, but I use it for Kubernetes cluster names as I have a difficult time coming up with them.
@@ -28,4 +28,10 @@ If you are using the `gcloud` CLI, you can just execute the following (add whate
 
 ```bash
 gcloud container clusters create $(cocktail generate-name)
+```
+
+## eksctl CLI usage
+
+```bash
+eksctl create cluster --name $(cocktail generate-name)
 ```
