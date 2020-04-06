@@ -36,7 +36,7 @@ var generateNameCmd = &cobra.Command{
 		// prob should go elsewhere but including it here for now.
 		// get an entry from the cocktails.json
 		// Open our jsonFile
-		jsonFile, err := os.Open("cocktails.json")
+		jsonFile, err := os.Open("data/cocktails.json")
 
 		// if we os.Open returns an error then handle it
 		if err != nil {
