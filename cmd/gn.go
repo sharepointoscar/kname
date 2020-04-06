@@ -28,9 +28,9 @@ import (
 
 // generateNameCmd represents the generateName command
 var generateNameCmd = &cobra.Command{
-	Use:   "generate-name",
+	Use:   "gn [name] [flags]",
 	Short: "Generates the cluster name.",
-	Long:  `This addOn generates your EKS or GKE cluster name from a JSON file.`,
+	Long:  `This kubectl plugin generates your EKS or GKE cluster name.`,
 	Run: func(cmd *cobra.Command, args []string) {
 
 		// prob should go elsewhere but including it here for now.

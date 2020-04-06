@@ -16,7 +16,7 @@ limitations under the License.
 package main
 
 import (
-	"github.com/sharepointoscar/cocktail/cmd"
+	"github.com/sharepointoscar/kubectl-gen-cluster-name/cmd"
 )
 
 func main() {

@@ -28,12 +28,11 @@ var cfgFile string
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "cocktail",
-	Short: "Give a Jenkins X cluster a cocktail name.",
-	Long: `Sometimes we have to have fun while working, ok all the time, so this
-
-Jenkins CLI addon will pick a random name themed with cocktail names.  
-So when executing jx create cluster, no need to pass the -n flag.`,
+	Use:   "gn [cluster-name] [flags]",
+	Short: "Generate a Kubernetes cluster name based on a theme",
+	Long: `Generate a cluster name given a theme.  Current themes are:
+	
+	"cocktail", "yoga" and "national-parks"`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	//	Run: func(cmd *cobra.Command, args []string) { },
@@ -75,9 +74,9 @@ func initConfig() {
 			os.Exit(1)
 		}
 
-		// Search config in home directory with name ".cocktail" (without extension).
+		// Search config in home directory with name ".gn" (without extension).
 		viper.AddConfigPath(home)
-		viper.SetConfigName(".cocktail")
+		viper.SetConfigName(".gn")
 	}
 
 	viper.AutomaticEnv() // read in environment variables that match
