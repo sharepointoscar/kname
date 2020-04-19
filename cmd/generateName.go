@@ -38,6 +38,8 @@ var generateNameCmd = &cobra.Command{
 		if strings.Compare(_theme, "yoga") == 0 {
 
 			fmt.Println("generate-name theme: yoga ")
+			var _clusterName = genYogaPoseName()
+			fmt.Println(_clusterName)
 
 		} else if strings.Compare(_theme, "cocktails") == 0 {
 
@@ -46,14 +48,17 @@ var generateNameCmd = &cobra.Command{
 			fmt.Println(_clusterName)
 
 		} else if strings.Compare(_theme, "national-parks") == 0 {
+
 			fmt.Println("generate-name theme: National Parks")
+			var _clusterName = genNationalParkName()
+			fmt.Println(_clusterName)
 		}
 
 	},
 }
 
-func genYogaPoseName() string     { return string("not implemented.") }
-func genNationalParkName() string { return string("not implemented.") }
+func genYogaPoseName() string     { return string("logic for theme not implemented yet.") }
+func genNationalParkName() string { return string("logic for theme not implemented yet.") }
 func genCocktailName() string {
 
 	jsonFile, err := os.Open("data/cocktails.json")
