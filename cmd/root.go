@@ -28,14 +28,14 @@ var cfgFile string
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "gn [cluster-name] [flags]",
+	Use:   "gn",
 	Short: "Generate a Kubernetes cluster name based on a theme",
 	Long: `Generate a cluster name given a theme.  Current themes are:
 	
 	"cocktail", "yoga" and "national-parks"`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
-	//	Run: func(cmd *cobra.Command, args []string) { },
+	//Run: func(cmd *cobra.Command, args []string) {},
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
@@ -74,7 +74,7 @@ func initConfig() {
 			os.Exit(1)
 		}
 
-		// Search config in home directory with name ".gn" (without extension).
+		// Search config in home directory with name ".kubectl-gn" (without extension).
 		viper.AddConfigPath(home)
 		viper.SetConfigName(".gn")
 	}
