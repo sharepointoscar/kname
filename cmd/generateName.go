@@ -37,19 +37,19 @@ var generateNameCmd = &cobra.Command{
 
 		if strings.Compare(_theme, "yoga") == 0 {
 
-			fmt.Println("generate-name theme: yoga ")
+			//fmt.Println("generate-name theme: yoga ")
 			var _clusterName = genYogaPoseName()
 			fmt.Println(_clusterName)
 
 		} else if strings.Compare(_theme, "cocktails") == 0 {
 
-			fmt.Println("generate-name theme: Cocktail ")
+			//fmt.Println("generate-name theme: Cocktail ")
 			var _clusterName = genCocktailName()
 			fmt.Println(_clusterName)
 
 		} else if strings.Compare(_theme, "national-parks") == 0 {
 
-			fmt.Println("generate-name theme: National Parks")
+			//fmt.Println("generate-name theme: National Parks")
 			var _clusterName = genNationalParkName()
 			fmt.Println(_clusterName)
 		}
@@ -92,7 +92,7 @@ func genCocktailName() string {
 
 	_cocktailName := strings.ToLower(strings.Replace(randomCocktail.Name, " ", "", -1))
 
-	fmt.Println(_cocktailName)
+	//fmt.Println(_cocktailName)
 
 	return _cocktailName
 

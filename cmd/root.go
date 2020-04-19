@@ -87,7 +87,7 @@ func initConfig() {
 
 	theme, _ := rootCmd.Flags().GetString("theme")
 	if theme != "" {
-		fmt.Println("Theme:", theme)
+		//fmt.Println("Theme:", theme)
 	}
 	viper.AutomaticEnv() // read in environment variables that match
 
