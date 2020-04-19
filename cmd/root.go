@@ -25,6 +25,7 @@ import (
 )
 
 var cfgFile string
+var theme string
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
@@ -48,6 +49,7 @@ func Execute() {
 }
 
 func init() {
+
 	cobra.OnInitialize(initConfig)
 
 	// Here you will define your flags and configuration settings.
@@ -56,9 +58,13 @@ func init() {
 
 	rootCmd.PersistentFlags().StringVar(&cfgFile, "config", "", "config file (default is $HOME/.gn.yaml)")
 
+	rootCmd.PersistentFlags().StringVar(&theme, "theme", "Themes: (yoga, national-parks, cocktail)", "The random name is generated based on a theme.")
+	rootCmd.MarkFlagRequired("theme")
+
 	// Cobra also supports local flags, which will only run
 	// when this action is called directly.
 	rootCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
+
 }
 
 // initConfig reads in config file and ENV variables if set.
@@ -79,6 +85,10 @@ func initConfig() {
 		viper.SetConfigName(".gn")
 	}
 
+	theme, _ := rootCmd.Flags().GetString("theme")
+	if theme != "" {
+		fmt.Println("Theme:", theme)
+	}
 	viper.AutomaticEnv() // read in environment variables that match
 
 	// If a config file is found, read it in.

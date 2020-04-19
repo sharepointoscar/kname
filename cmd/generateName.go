@@ -29,58 +29,75 @@ import (
 // generateNameCmd represents the generateName command
 var generateNameCmd = &cobra.Command{
 	Use:   "generate-name",
-	Short: "Generates the cluster name.",
+	Short: "Generates a random kubernetes cluster name based on theme flag.",
 	Long:  `This kubectl plugin generates your EKS or GKE cluster name.`,
 	Run: func(cmd *cobra.Command, args []string) {
 
-		// prob should go elsewhere but including it here for now.
-		// get an entry from the cocktails.json
-		// Open our jsonFile
-		jsonFile, err := os.Open("data/cocktails.json")
+		_theme, _ := rootCmd.Flags().GetString("theme")
 
-		// if we os.Open returns an error then handle it
-		if err != nil {
-			fmt.Println(err)
+		if strings.Compare(_theme, "yoga") == 0 {
+
+			fmt.Println("generate-name theme: yoga ")
+
+		} else if strings.Compare(_theme, "cocktails") == 0 {
+
+			fmt.Println("generate-name theme: Cocktail ")
+			var _clusterName = genCocktailName()
+			fmt.Println(_clusterName)
+
+		} else if strings.Compare(_theme, "national-parks") == 0 {
+			fmt.Println("generate-name theme: National Parks")
 		}
-
-		// defer the closing of our jsonFile so that we can parse it later on
-		defer jsonFile.Close()
-
-		// read our opened jsonFile as a byte array.
-		byteValue, _ := ioutil.ReadAll(jsonFile)
-
-		type Cocktail struct {
-			Name  string `json:"Name"`
-			Glass string `json:"Glass"`
-		}
-
-		type Cocktails struct {
-			Cocktails []Cocktail `json:"cocktails"`
-		}
-
-		var _cocktails Cocktails
-
-		json.Unmarshal(byteValue, &_cocktails)
-
-		rand.Seed(time.Now().UnixNano())
-		var randomCocktail = _cocktails.Cocktails[rand.Intn(len(_cocktails.Cocktails))]
-
-		_cocktailName := strings.ToLower(strings.Replace(randomCocktail.Name, " ", "", -1))
-
-		fmt.Println(_cocktailName)
-
-		//fmt.Println("Cocktail Name :", randomCocktail.Name+"\n")
-		//fmt.Println("Cocktail Glass :", randomCocktail.Glass+"\n")
-
-		// for i := 0; i < len(_cocktails.Cocktails); i++ {
-		// 	fmt.Println("Cocktail Name: " + _cocktails.Cocktails[i].Name)
-		// 	fmt.Println("Glass : " + _cocktails.Cocktails[i].Glass)
-
-		// }
 
 	},
 }
 
+func genCocktailName() string {
+
+	jsonFile, err := os.Open("data/cocktails.json")
+
+	// if we os.Open returns an error then handle it
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	// defer the closing of our jsonFile so that we can parse it later on
+	defer jsonFile.Close()
+
+	// read our opened jsonFile as a byte array.
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+
+	type Cocktail struct {
+		Name  string `json:"Name"`
+		Glass string `json:"Glass"`
+	}
+
+	type Cocktails struct {
+		Cocktails []Cocktail `json:"cocktails"`
+	}
+
+	var _cocktails Cocktails
+
+	json.Unmarshal(byteValue, &_cocktails)
+
+	rand.Seed(time.Now().UnixNano())
+	var randomCocktail = _cocktails.Cocktails[rand.Intn(len(_cocktails.Cocktails))]
+
+	_cocktailName := strings.ToLower(strings.Replace(randomCocktail.Name, " ", "", -1))
+
+	fmt.Println(_cocktailName)
+
+	return _cocktailName
+
+	//fmt.Println("Cocktail Name :", randomCocktail.Name+"\n")
+	//fmt.Println("Cocktail Glass :", randomCocktail.Glass+"\n")
+
+	// for i := 0; i < len(_cocktails.Cocktails); i++ {
+	// 	fmt.Println("Cocktail Name: " + _cocktails.Cocktails[i].Name)
+	// 	fmt.Println("Glass : " + _cocktails.Cocktails[i].Glass)
+
+	// }
+}
 func init() {
 	rootCmd.AddCommand(generateNameCmd)
 
