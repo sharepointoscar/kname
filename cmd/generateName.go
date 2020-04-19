@@ -52,6 +52,8 @@ var generateNameCmd = &cobra.Command{
 	},
 }
 
+func genYogaPoseName() string     { return string("not implemented.") }
+func genNationalParkName() string { return string("not implemented.") }
 func genCocktailName() string {
 
 	jsonFile, err := os.Open("data/cocktails.json")
