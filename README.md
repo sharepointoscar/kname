@@ -1,4 +1,4 @@
-![cocktail](logo_cocktail.png)
+![cocktail](logo.png)
 # Cocktail
  Combine two passions and this is what comes out of it.
 
