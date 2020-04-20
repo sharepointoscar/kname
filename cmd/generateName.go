@@ -52,12 +52,16 @@ var generateNameCmd = &cobra.Command{
 			//fmt.Println("generate-name theme: National Parks")
 			var _clusterName = genNationalParkName()
 			fmt.Println(_clusterName)
+		} else {
+			fmt.Println("theme not supported. Want to contribute and create it? Fork the repo!")
 		}
-
 	},
 }
 
-func genYogaPoseName() string     { return string("logic for theme not implemented yet.") }
+func genYogaPoseName() string {
+
+	return string("logic for theme not implemented yet.")
+}
 func genNationalParkName() string { return string("logic for theme not implemented yet.") }
 func genCocktailName() string {
 
