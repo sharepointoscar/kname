@@ -16,7 +16,7 @@ limitations under the License.
 package main
 
 import (
-	"github.com/sharepointoscar/kubectl-gn/cmd"
+	"github.com/sharepointoscar/kname/cmd"
 )
 
 func main() {

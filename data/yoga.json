@@ -1,7 +1,9 @@
-[
+{
+
+"poses": [
     {
-        "english_name": "Bharadvaja\u2019s Twist",
-        "sanskrit_name": "Bharadvajasana I",
+        "englishName": "Bharadvaja\u2019s Twist",
+        "sanskritName": "Bharadvajasana I",
         "pose_meta": [
             "Hip Opening",
             "Seated",
@@ -11,8 +13,8 @@
         "id": 0
     },
     {
-        "english_name": "Big Toe Pose",
-        "sanskrit_name": "Padangusthasana",
+        "englishName": "Big Toe Pose",
+        "sanskritName": "Padangusthasana",
         "pose_meta": [
             "Forward Bend",
             "Standing"
@@ -21,8 +23,8 @@
         "id": 1
     },
     {
-        "english_name": "Boat Pose",
-        "sanskrit_name": "Paripurna Navasana",
+        "englishName": "Boat Pose",
+        "sanskritName": "Paripurna Navasana",
         "pose_meta": [
             "Core",
             "Seated",
@@ -32,8 +34,8 @@
         "id": 2
     },
     {
-        "english_name": "Bound Angle Pose",
-        "sanskrit_name": "Baddha Konasana",
+        "englishName": "Bound Angle Pose",
+        "sanskritName": "Baddha Konasana",
         "pose_meta": [
             "Forward Bend",
             "Hip Opening",
@@ -43,8 +45,8 @@
         "id": 3
     },
     {
-        "english_name": "Bow Pose",
-        "sanskrit_name": "Dhanurasana",
+        "englishName": "Bow Pose",
+        "sanskritName": "Dhanurasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -53,8 +55,8 @@
         "id": 4
     },
     {
-        "english_name": "Bridge Pose",
-        "sanskrit_name": "Setu Bandha Sarvangasana",
+        "englishName": "Bridge Pose",
+        "sanskritName": "Setu Bandha Sarvangasana",
         "pose_meta": [
             "Backbends"
         ],
@@ -62,8 +64,8 @@
         "id": 5
     },
     {
-        "english_name": "Camel Pose",
-        "sanskrit_name": "Ustrasana",
+        "englishName": "Camel Pose",
+        "sanskritName": "Ustrasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -72,8 +74,8 @@
         "id": 6
     },
     {
-        "english_name": "Cat Pose",
-        "sanskrit_name": "Marjaryasana",
+        "englishName": "Cat Pose",
+        "sanskritName": "Marjaryasana",
         "pose_meta": [
             "Core"
         ],
@@ -81,8 +83,8 @@
         "id": 7
     },
     {
-        "english_name": "Cat Cow Pose",
-        "sanskrit_name": "Chakravakasana",
+        "englishName": "Cat Cow Pose",
+        "sanskritName": "Chakravakasana",
         "pose_meta": [
             "Backbends"
         ],
@@ -90,8 +92,8 @@
         "id": 8
     },
     {
-        "english_name": "Knees, Chest and Chin Pose",
-        "sanskrit_name": "Ashtanga Namaskara",
+        "englishName": "Knees, Chest and Chin Pose",
+        "sanskritName": "Ashtanga Namaskara",
         "pose_meta": [
             "Core"
         ],
@@ -99,8 +101,8 @@
         "id": 9
     },
     {
-        "english_name": "Chair Pose",
-        "sanskrit_name": "Utkatasana",
+        "englishName": "Chair Pose",
+        "sanskritName": "Utkatasana",
         "pose_meta": [
             "Core",
             "Standing",
@@ -110,8 +112,8 @@
         "id": 10
     },
     {
-        "english_name": "Child\u2019s Pose",
-        "sanskrit_name": "Balasana",
+        "englishName": "Child\u2019s Pose",
+        "sanskritName": "Balasana",
         "pose_meta": [
             "Forward Bend",
             "Hip Opening",
@@ -121,8 +123,8 @@
         "id": 11
     },
     {
-        "english_name": "Cobra Pose",
-        "sanskrit_name": "Bhujangasana",
+        "englishName": "Cobra Pose",
+        "sanskritName": "Bhujangasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -131,8 +133,8 @@
         "id": 12
     },
     {
-        "english_name": "Corpse Pose",
-        "sanskrit_name": "Savasana",
+        "englishName": "Corpse Pose",
+        "sanskritName": "Savasana",
         "pose_meta": [
             "Restorative"
         ],
@@ -140,8 +142,8 @@
         "id": 13
     },
     {
-        "english_name": "Cow Face Pose",
-        "sanskrit_name": "Gomukhasana",
+        "englishName": "Cow Face Pose",
+        "sanskritName": "Gomukhasana",
         "pose_meta": [
             "Hip Opening",
             "Seated"
@@ -150,8 +152,8 @@
         "id": 14
     },
     {
-        "english_name": "Cow Pose",
-        "sanskrit_name": "Bitilasana",
+        "englishName": "Cow Pose",
+        "sanskritName": "Bitilasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -160,8 +162,8 @@
         "id": 15
     },
     {
-        "english_name": "Crane (Crow) Pose",
-        "sanskrit_name": "Bakasana",
+        "englishName": "Crane (Crow) Pose",
+        "sanskritName": "Bakasana",
         "pose_meta": [
             "Arm Balance",
             "Core"
@@ -170,8 +172,8 @@
         "id": 16
     },
     {
-        "english_name": "Dolphin Plank Pose",
-        "sanskrit_name": "Makara Adho Mukha Svanasana",
+        "englishName": "Dolphin Plank Pose",
+        "sanskritName": "Makara Adho Mukha Svanasana",
         "pose_meta": [
             "Arm Balance",
             "Core",
@@ -181,8 +183,8 @@
         "id": 17
     },
     {
-        "english_name": "Dolphin Pose",
-        "sanskrit_name": "Ardha Pincha Mayurasana",
+        "englishName": "Dolphin Pose",
+        "sanskritName": "Ardha Pincha Mayurasana",
         "pose_meta": [
             "Core",
             "Standing",
@@ -192,8 +194,8 @@
         "id": 18
     },
     {
-        "english_name": "Downward-Facing Dog",
-        "sanskrit_name": "Adho Mukha Svanasana",
+        "englishName": "Downward-Facing Dog",
+        "sanskritName": "Adho Mukha Svanasana",
         "pose_meta": [
             "Forward Bend",
             "Standing",
@@ -203,8 +205,8 @@
         "id": 19
     },
     {
-        "english_name": "Eagle Pose",
-        "sanskrit_name": "Garudasana",
+        "englishName": "Eagle Pose",
+        "sanskritName": "Garudasana",
         "pose_meta": [
             "Balancing",
             "Hip Opening",
@@ -214,8 +216,8 @@
         "id": 20
     },
     {
-        "english_name": "Easy Pose",
-        "sanskrit_name": "Sukhasana",
+        "englishName": "Easy Pose",
+        "sanskritName": "Sukhasana",
         "pose_meta": [
             "Hip Opening",
             "Seated"
@@ -224,8 +226,8 @@
         "id": 21
     },
     {
-        "english_name": "Eight-Angle Pose",
-        "sanskrit_name": "Astavakrasana",
+        "englishName": "Eight-Angle Pose",
+        "sanskritName": "Astavakrasana",
         "pose_meta": [
             "Arm Balance"
         ],
@@ -233,8 +235,8 @@
         "id": 22
     },
     {
-        "english_name": "Extended Hand-To-Big-Toe Pose",
-        "sanskrit_name": "Utthita Hasta Padangustasana",
+        "englishName": "Extended Hand-To-Big-Toe Pose",
+        "sanskritName": "Utthita Hasta Padangustasana",
         "pose_meta": [
             "Balancing",
             "Hip Opening",
@@ -244,8 +246,8 @@
         "id": 23
     },
     {
-        "english_name": "Extended Puppy Pose",
-        "sanskrit_name": "Uttana Shishosana",
+        "englishName": "Extended Puppy Pose",
+        "sanskritName": "Uttana Shishosana",
         "pose_meta": [
             "Forward Bend"
         ],
@@ -253,8 +255,8 @@
         "id": 24
     },
     {
-        "english_name": "Extended Side Angle Pose",
-        "sanskrit_name": "Utthita Parsvakonasana",
+        "englishName": "Extended Side Angle Pose",
+        "sanskritName": "Utthita Parsvakonasana",
         "pose_meta": [
             "Standing",
             "Strengthening"
@@ -263,8 +265,8 @@
         "id": 25
     },
     {
-        "english_name": "Extended Triangle Pose",
-        "sanskrit_name": "Utthita Trikonasana",
+        "englishName": "Extended Triangle Pose",
+        "sanskritName": "Utthita Trikonasana",
         "pose_meta": [
             "Standing",
             "Strengthening"
@@ -273,8 +275,8 @@
         "id": 26
     },
     {
-        "english_name": "Feathered Peacock Pose",
-        "sanskrit_name": "Pincha Mayurasana",
+        "englishName": "Feathered Peacock Pose",
+        "sanskritName": "Pincha Mayurasana",
         "pose_meta": [
             "Inversion",
             "Strengthening"
@@ -283,8 +285,8 @@
         "id": 27
     },
     {
-        "english_name": "Fire Log Pose",
-        "sanskrit_name": "Agnistambhasana",
+        "englishName": "Fire Log Pose",
+        "sanskritName": "Agnistambhasana",
         "pose_meta": [
             "Hip Opening",
             "Seated"
@@ -293,8 +295,8 @@
         "id": 28
     },
     {
-        "english_name": "Firefly Pose",
-        "sanskrit_name": "Tittibhasana",
+        "englishName": "Firefly Pose",
+        "sanskritName": "Tittibhasana",
         "pose_meta": [
             "Arm Balance"
         ],
@@ -302,8 +304,8 @@
         "id": 29
     },
     {
-        "english_name": "Fish Pose",
-        "sanskrit_name": "Matsyasana",
+        "englishName": "Fish Pose",
+        "sanskritName": "Matsyasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -312,8 +314,8 @@
         "id": 30
     },
     {
-        "english_name": "Four-Limbed Staff Pose",
-        "sanskrit_name": "Chaturanga Dandasana",
+        "englishName": "Four-Limbed Staff Pose",
+        "sanskritName": "Chaturanga Dandasana",
         "pose_meta": [
             "Arm Balance",
             "Core",
@@ -323,8 +325,8 @@
         "id": 31
     },
     {
-        "english_name": "Garland Pose",
-        "sanskrit_name": "Malasana",
+        "englishName": "Garland Pose",
+        "sanskritName": "Malasana",
         "pose_meta": [
             "Standing"
         ],
@@ -332,8 +334,8 @@
         "id": 32
     },
     {
-        "english_name": "Gate Pose",
-        "sanskrit_name": "Parighasana",
+        "englishName": "Gate Pose",
+        "sanskritName": "Parighasana",
         "pose_meta": [
             "Standing"
         ],
@@ -341,8 +343,8 @@
         "id": 33
     },
     {
-        "english_name": "Half Frog Pose",
-        "sanskrit_name": "Ardha Bhekasana",
+        "englishName": "Half Frog Pose",
+        "sanskritName": "Ardha Bhekasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -351,8 +353,8 @@
         "id": 34
     },
     {
-        "english_name": "Half Lord of the Fishes Pose",
-        "sanskrit_name": "Ardha Matsyendrasana",
+        "englishName": "Half Lord of the Fishes Pose",
+        "sanskritName": "Ardha Matsyendrasana",
         "pose_meta": [
             "Hip Opening",
             "Seated",
@@ -362,8 +364,8 @@
         "id": 35
     },
     {
-        "english_name": "Lying Half Lord of the Fishes Pose",
-        "sanskrit_name": "Supta Matsyendrasana",
+        "englishName": "Lying Half Lord of the Fishes Pose",
+        "sanskritName": "Supta Matsyendrasana",
         "pose_meta": [
             "Hip Opening",
             "Restorative",
@@ -373,8 +375,8 @@
         "id": 36
     },
     {
-        "english_name": "Half Moon Pose",
-        "sanskrit_name": "Ardha Chandrasana",
+        "englishName": "Half Moon Pose",
+        "sanskritName": "Ardha Chandrasana",
         "pose_meta": [
             "Balancing",
             "Standing"
@@ -383,8 +385,8 @@
         "id": 37
     },
     {
-        "english_name": "Handstand",
-        "sanskrit_name": "Adho Mukha Vriksasana",
+        "englishName": "Handstand",
+        "sanskritName": "Adho Mukha Vriksasana",
         "pose_meta": [
             "Balancing",
             "Inversion",
@@ -394,8 +396,8 @@
         "id": 38
     },
     {
-        "english_name": "Happy Baby Pose",
-        "sanskrit_name": "Ananda Balasana",
+        "englishName": "Happy Baby Pose",
+        "sanskritName": "Ananda Balasana",
         "pose_meta": [
             "Core"
         ],
@@ -403,8 +405,8 @@
         "id": 39
     },
     {
-        "english_name": "Head-to-Knee Forward Bend",
-        "sanskrit_name": "Janu Sirsasana",
+        "englishName": "Head-to-Knee Forward Bend",
+        "sanskritName": "Janu Sirsasana",
         "pose_meta": [
             "Forward Bend",
             "Seated"
@@ -413,8 +415,8 @@
         "id": 40
     },
     {
-        "english_name": "Hero Pose",
-        "sanskrit_name": "Virasana",
+        "englishName": "Hero Pose",
+        "sanskritName": "Virasana",
         "pose_meta": [
             "Seated"
         ],
@@ -422,8 +424,8 @@
         "id": 41
     },
     {
-        "english_name": "Heron Pose",
-        "sanskrit_name": "Krounchasana",
+        "englishName": "Heron Pose",
+        "sanskritName": "Krounchasana",
         "pose_meta": [
             "Seated"
         ],
@@ -431,8 +433,8 @@
         "id": 42
     },
     {
-        "english_name": "High Lunge",
-        "sanskrit_name": "Utthita Ashwa Sanchalanasana",
+        "englishName": "High Lunge",
+        "sanskritName": "Utthita Ashwa Sanchalanasana",
         "pose_meta": [
             "Standing"
         ],
@@ -440,8 +442,8 @@
         "id": 43
     },
     {
-        "english_name": "Intense Side Stretch Pose",
-        "sanskrit_name": "Parsvottanasana",
+        "englishName": "Intense Side Stretch Pose",
+        "sanskritName": "Parsvottanasana",
         "pose_meta": [
             "Forward Bend",
             "Standing"
@@ -450,8 +452,8 @@
         "id": 44
     },
     {
-        "english_name": "Legs-Up-the-Wall Pose",
-        "sanskrit_name": "Viparita Karani",
+        "englishName": "Legs-Up-the-Wall Pose",
+        "sanskritName": "Viparita Karani",
         "pose_meta": [
             "Restorative"
         ],
@@ -459,8 +461,8 @@
         "id": 45
     },
     {
-        "english_name": "Locust Pose",
-        "sanskrit_name": "Salabhasana",
+        "englishName": "Locust Pose",
+        "sanskritName": "Salabhasana",
         "pose_meta": [
             "Chest Opening",
             "Strengthening",
@@ -470,8 +472,8 @@
         "id": 46
     },
     {
-        "english_name": "Lord of the Dance Pose",
-        "sanskrit_name": "Natarajasana",
+        "englishName": "Lord of the Dance Pose",
+        "sanskritName": "Natarajasana",
         "pose_meta": [
             "Balancing",
             "Chest Opening",
@@ -482,8 +484,8 @@
         "id": 47
     },
     {
-        "english_name": "Lotus Pose",
-        "sanskrit_name": "Padmasana",
+        "englishName": "Lotus Pose",
+        "sanskritName": "Padmasana",
         "pose_meta": [
             "Seated"
         ],
@@ -491,8 +493,8 @@
         "id": 48
     },
     {
-        "english_name": "Low Lunge",
-        "sanskrit_name": "Anjaneyasana",
+        "englishName": "Low Lunge",
+        "sanskritName": "Anjaneyasana",
         "pose_meta": [
             "Standing"
         ],
@@ -500,8 +502,8 @@
         "id": 49
     },
     {
-        "english_name": "Marichi\u2019s Pose",
-        "sanskrit_name": "Marichyasana III",
+        "englishName": "Marichi\u2019s Pose",
+        "sanskritName": "Marichyasana III",
         "pose_meta": [
             "Hip Opening",
             "Seated",
@@ -511,8 +513,8 @@
         "id": 50
     },
     {
-        "english_name": "Monkey Pose",
-        "sanskrit_name": "Hanumanasana",
+        "englishName": "Monkey Pose",
+        "sanskritName": "Hanumanasana",
         "pose_meta": [
             "Seated"
         ],
@@ -520,8 +522,8 @@
         "id": 51
     },
     {
-        "english_name": "Mountain Pose",
-        "sanskrit_name": "Tadasana",
+        "englishName": "Mountain Pose",
+        "sanskritName": "Tadasana",
         "pose_meta": [
             "Standing"
         ],
@@ -529,8 +531,8 @@
         "id": 52
     },
     {
-        "english_name": "Noose Pose",
-        "sanskrit_name": "Pasasana",
+        "englishName": "Noose Pose",
+        "sanskritName": "Pasasana",
         "pose_meta": [
             "Binding",
             "Hip Opening",
@@ -541,8 +543,8 @@
         "id": 53
     },
     {
-        "english_name": "One-Legged King Pigeon Pose",
-        "sanskrit_name": "Eka Pada Rajakapotasana",
+        "englishName": "One-Legged King Pigeon Pose",
+        "sanskritName": "Eka Pada Rajakapotasana",
         "pose_meta": [
             "Hip Opening",
             "Backbends"
@@ -551,8 +553,8 @@
         "id": 54
     },
     {
-        "english_name": "One-Legged King Pigeon Pose II",
-        "sanskrit_name": "Eka Pada Rajakapotasana II",
+        "englishName": "One-Legged King Pigeon Pose II",
+        "sanskritName": "Eka Pada Rajakapotasana II",
         "pose_meta": [
             "Backbends"
         ],
@@ -560,8 +562,8 @@
         "id": 55
     },
     {
-        "english_name": "Peacock Pose",
-        "sanskrit_name": "Mayurasana",
+        "englishName": "Peacock Pose",
+        "sanskritName": "Mayurasana",
         "pose_meta": [
             "Arm Balance"
         ],
@@ -569,8 +571,8 @@
         "id": 56
     },
     {
-        "english_name": "Pigeon Pose",
-        "sanskrit_name": "Kapotasana",
+        "englishName": "Pigeon Pose",
+        "sanskritName": "Kapotasana",
         "pose_meta": [
             "Backbends"
         ],
@@ -578,8 +580,8 @@
         "id": 57
     },
     {
-        "english_name": "Plank Pose",
-        "sanskrit_name": "Phalakasana",
+        "englishName": "Plank Pose",
+        "sanskritName": "Phalakasana",
         "pose_meta": [
             "Arm Balance",
             "Core",
@@ -589,8 +591,8 @@
         "id": 58
     },
     {
-        "english_name": "Plow Pose",
-        "sanskrit_name": "Halasana",
+        "englishName": "Plow Pose",
+        "sanskritName": "Halasana",
         "pose_meta": [
             "Inversion"
         ],
@@ -598,8 +600,8 @@
         "id": 59
     },
     {
-        "english_name": "Pose Dedicated to the Sage Koundinya I",
-        "sanskrit_name": "Eka Pada Koundinyanasana I",
+        "englishName": "Pose Dedicated to the Sage Koundinya I",
+        "sanskritName": "Eka Pada Koundinyanasana I",
         "pose_meta": [
             "Arm Balance",
             "Twist"
@@ -608,8 +610,8 @@
         "id": 60
     },
     {
-        "english_name": "Pose Dedicated to the Sage Koundinya II",
-        "sanskrit_name": "Eka Pada Koundinyanasana II",
+        "englishName": "Pose Dedicated to the Sage Koundinya II",
+        "sanskritName": "Eka Pada Koundinyanasana II",
         "pose_meta": [
             "Arm Balance"
         ],
@@ -617,8 +619,8 @@
         "id": 61
     },
     {
-        "english_name": "Pose Dedicated to the Sage Marichi I",
-        "sanskrit_name": "Marichyasana I",
+        "englishName": "Pose Dedicated to the Sage Marichi I",
+        "sanskritName": "Marichyasana I",
         "pose_meta": [
             "Binding",
             "Forward Bend",
@@ -629,8 +631,8 @@
         "id": 62
     },
     {
-        "english_name": "Reclining Bound Angle Pose",
-        "sanskrit_name": "Supta Baddha Konasana",
+        "englishName": "Reclining Bound Angle Pose",
+        "sanskritName": "Supta Baddha Konasana",
         "pose_meta": [
             "Hip Opening",
             "Restorative"
@@ -639,8 +641,8 @@
         "id": 63
     },
     {
-        "english_name": "Reclining Hand-to-Big-Toe Pose",
-        "sanskrit_name": "Supta Padangusthasana",
+        "englishName": "Reclining Hand-to-Big-Toe Pose",
+        "sanskritName": "Supta Padangusthasana",
         "pose_meta": [
             "Restorative"
         ],
@@ -648,8 +650,8 @@
         "id": 64
     },
     {
-        "english_name": "Reclining Hero Pose",
-        "sanskrit_name": "Supta Virasana",
+        "englishName": "Reclining Hero Pose",
+        "sanskritName": "Supta Virasana",
         "pose_meta": [
             "Restorative"
         ],
@@ -657,8 +659,8 @@
         "id": 65
     },
     {
-        "english_name": "Revolved Head-to-Knee Pose",
-        "sanskrit_name": "Parivrtta Janu Sirsasana",
+        "englishName": "Revolved Head-to-Knee Pose",
+        "sanskritName": "Parivrtta Janu Sirsasana",
         "pose_meta": [
             "Seated",
             "Twist"
@@ -667,8 +669,8 @@
         "id": 66
     },
     {
-        "english_name": "Revolved Side Angle Pose",
-        "sanskrit_name": "Parivrtta Parsvakonasana",
+        "englishName": "Revolved Side Angle Pose",
+        "sanskritName": "Parivrtta Parsvakonasana",
         "pose_meta": [
             "Standing",
             "Strengthening",
@@ -678,8 +680,8 @@
         "id": 67
     },
     {
-        "english_name": "Revolved Triangle Pose",
-        "sanskrit_name": "Parivrtta Trikonasana",
+        "englishName": "Revolved Triangle Pose",
+        "sanskritName": "Parivrtta Trikonasana",
         "pose_meta": [
             "Standing",
             "Strengthening",
@@ -689,8 +691,8 @@
         "id": 68
     },
     {
-        "english_name": "Scale Pose",
-        "sanskrit_name": "Tolasana",
+        "englishName": "Scale Pose",
+        "sanskritName": "Tolasana",
         "pose_meta": [
             "Arm Balance",
             "Core"
@@ -699,8 +701,8 @@
         "id": 69
     },
     {
-        "english_name": "Seated Forward Bend",
-        "sanskrit_name": "Paschimottanasana",
+        "englishName": "Seated Forward Bend",
+        "sanskritName": "Paschimottanasana",
         "pose_meta": [
             "Forward Bend",
             "Seated"
@@ -709,8 +711,8 @@
         "id": 70
     },
     {
-        "english_name": "Side Crane (Crow) Pose",
-        "sanskrit_name": "Parsva Bakasana",
+        "englishName": "Side Crane (Crow) Pose",
+        "sanskritName": "Parsva Bakasana",
         "pose_meta": [
             "Arm Balance"
         ],
@@ -718,8 +720,8 @@
         "id": 72
     },
     {
-        "english_name": "Side Plank Pose",
-        "sanskrit_name": "Vasisthasana",
+        "englishName": "Side Plank Pose",
+        "sanskritName": "Vasisthasana",
         "pose_meta": [
             "Arm Balance",
             "Balancing",
@@ -729,8 +731,8 @@
         "id": 73
     },
     {
-        "english_name": "Side-Reclining Leg Lift",
-        "sanskrit_name": "Anantasana",
+        "englishName": "Side-Reclining Leg Lift",
+        "sanskritName": "Anantasana",
         "pose_meta": [
             "Balancing",
             "Core"
@@ -739,8 +741,8 @@
         "id": 74
     },
     {
-        "english_name": "Sphinx Pose",
-        "sanskrit_name": "Salamba Bhujangasana",
+        "englishName": "Sphinx Pose",
+        "sanskritName": "Salamba Bhujangasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -749,8 +751,8 @@
         "id": 75
     },
     {
-        "english_name": "Staff Pose",
-        "sanskrit_name": "Dandasana",
+        "englishName": "Staff Pose",
+        "sanskritName": "Dandasana",
         "pose_meta": [
             "Seated"
         ],
@@ -758,8 +760,8 @@
         "id": 76
     },
     {
-        "english_name": "Standing Forward Bend",
-        "sanskrit_name": "Uttanasana",
+        "englishName": "Standing Forward Bend",
+        "sanskritName": "Uttanasana",
         "pose_meta": [
             "Forward Bend"
         ],
@@ -767,8 +769,8 @@
         "id": 77
     },
     {
-        "english_name": "Standing Half Forward Bend",
-        "sanskrit_name": "Ardha Uttanasana",
+        "englishName": "Standing Half Forward Bend",
+        "sanskritName": "Ardha Uttanasana",
         "pose_meta": [
             "Forward Bend",
             "Standing"
@@ -777,8 +779,8 @@
         "id": 78
     },
     {
-        "english_name": "Standing Split",
-        "sanskrit_name": "Urdhva Prasarita Eka Padasana",
+        "englishName": "Standing Split",
+        "sanskritName": "Urdhva Prasarita Eka Padasana",
         "pose_meta": [
             "Forward Bend",
             "Standing"
@@ -787,8 +789,8 @@
         "id": 79
     },
     {
-        "english_name": "Supported Headstand",
-        "sanskrit_name": "Salamba Sirsasana",
+        "englishName": "Supported Headstand",
+        "sanskritName": "Salamba Sirsasana",
         "pose_meta": [
             "Balancing",
             "Inversion"
@@ -797,8 +799,8 @@
         "id": 80
     },
     {
-        "english_name": "Supported Shoulderstand",
-        "sanskrit_name": "Salamba Sarvangasana",
+        "englishName": "Supported Shoulderstand",
+        "sanskritName": "Salamba Sarvangasana",
         "pose_meta": [
             "Balancing",
             "Inversion"
@@ -807,8 +809,8 @@
         "id": 81
     },
     {
-        "english_name": "Tree Pose",
-        "sanskrit_name": "Vriksasana",
+        "englishName": "Tree Pose",
+        "sanskritName": "Vriksasana",
         "pose_meta": [
             "Balancing",
             "Standing"
@@ -817,8 +819,8 @@
         "id": 82
     },
     {
-        "english_name": "Upward Bow (Wheel) Pose",
-        "sanskrit_name": "Urdhva Dhanurasana",
+        "englishName": "Upward Bow (Wheel) Pose",
+        "sanskritName": "Urdhva Dhanurasana",
         "pose_meta": [
             "Chest Opening",
             "Strengthening",
@@ -828,8 +830,8 @@
         "id": 83
     },
     {
-        "english_name": "Upward Facing Two-Foot Staff Pose",
-        "sanskrit_name": "Dwi Pada Viparita Dandasana",
+        "englishName": "Upward Facing Two-Foot Staff Pose",
+        "sanskritName": "Dwi Pada Viparita Dandasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -838,8 +840,8 @@
         "id": 84
     },
     {
-        "english_name": "Upward Plank Pose",
-        "sanskrit_name": "Purvottanasana",
+        "englishName": "Upward Plank Pose",
+        "sanskritName": "Purvottanasana",
         "pose_meta": [
             "Strengthening"
         ],
@@ -847,8 +849,8 @@
         "id": 85
     },
     {
-        "english_name": "Upward Salute",
-        "sanskrit_name": "Urdhva Hastasana",
+        "englishName": "Upward Salute",
+        "sanskritName": "Urdhva Hastasana",
         "pose_meta": [
             "Standing"
         ],
@@ -856,8 +858,8 @@
         "id": 86
     },
     {
-        "english_name": "Upward-Facing Dog Pose",
-        "sanskrit_name": "Urdhva Mukha Svanasana",
+        "englishName": "Upward-Facing Dog Pose",
+        "sanskritName": "Urdhva Mukha Svanasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -866,8 +868,8 @@
         "id": 87
     },
     {
-        "english_name": "Warrior I Pose",
-        "sanskrit_name": "Virabhadrasana I",
+        "englishName": "Warrior I Pose",
+        "sanskritName": "Virabhadrasana I",
         "pose_meta": [
             "Standing",
             "Strengthening"
@@ -876,8 +878,8 @@
         "id": 88
     },
     {
-        "english_name": "Warrior II Pose",
-        "sanskrit_name": "Virabhadrasana II",
+        "englishName": "Warrior II Pose",
+        "sanskritName": "Virabhadrasana II",
         "pose_meta": [
             "Standing",
             "Strengthening"
@@ -886,8 +888,8 @@
         "id": 89
     },
     {
-        "english_name": "Warrior III Pose",
-        "sanskrit_name": "Virabhadrasana III",
+        "englishName": "Warrior III Pose",
+        "sanskritName": "Virabhadrasana III",
         "pose_meta": [
             "Balancing",
             "Standing",
@@ -897,8 +899,8 @@
         "id": 90
     },
     {
-        "english_name": "Wide-Angle Seated Forward Bend",
-        "sanskrit_name": "Upavistha Konasana",
+        "englishName": "Wide-Angle Seated Forward Bend",
+        "sanskritName": "Upavistha Konasana",
         "pose_meta": [
             "Forward Bend",
             "Hip Opening",
@@ -908,8 +910,8 @@
         "id": 91
     },
     {
-        "english_name": "Wide-Legged Forward Bend",
-        "sanskrit_name": "Prasarita Padottanasana",
+        "englishName": "Wide-Legged Forward Bend",
+        "sanskritName": "Prasarita Padottanasana",
         "pose_meta": [
             "Forward Bend",
             "Hip Opening",
@@ -920,8 +922,8 @@
         "id": 92
     },
     {
-        "english_name": "Wild Thing",
-        "sanskrit_name": "Camatkarasana",
+        "englishName": "Wild Thing",
+        "sanskritName": "Camatkarasana",
         "pose_meta": [
             "Arm Balance",
             "Chest Opening"
@@ -930,8 +932,8 @@
         "id": 93
     },
     {
-        "english_name": "Yogic Sleep",
-        "sanskrit_name": "Yoganidrasana",
+        "englishName": "Yogic Sleep",
+        "sanskritName": "Yoganidrasana",
         "pose_meta": [
             "Forward Bend",
             "Seated"
@@ -940,8 +942,8 @@
         "id": 94
     },
     {
-        "english_name": "Scorpion Pose",
-        "sanskrit_name": "Vrischikasana",
+        "englishName": "Scorpion Pose",
+        "sanskritName": "Vrischikasana",
         "pose_meta": [
             "Backbends",
             "Inversion"
@@ -950,8 +952,8 @@
         "id": 95
     },
     {
-        "english_name": "Thunderbolt Pose",
-        "sanskrit_name": "Vajrasana",
+        "englishName": "Thunderbolt Pose",
+        "sanskritName": "Vajrasana",
         "pose_meta": [
             "Kneeling",
             "Seated"
@@ -960,8 +962,8 @@
         "id": 96
     },
     {
-        "english_name": "Balance Pose",
-        "sanskrit_name": "Tulasana",
+        "englishName": "Balance Pose",
+        "sanskritName": "Tulasana",
         "pose_meta": [
             "Arm Balance"
         ],
@@ -969,8 +971,8 @@
         "id": 97
     },
     {
-        "english_name": "Lion Pose",
-        "sanskrit_name": "Simhasana",
+        "englishName": "Lion Pose",
+        "sanskritName": "Simhasana",
         "pose_meta": [
             "Seated"
         ],
@@ -978,8 +980,8 @@
         "id": 98
     },
     {
-        "english_name": "Crocodile Pose",
-        "sanskrit_name": "Makarasana",
+        "englishName": "Crocodile Pose",
+        "sanskritName": "Makarasana",
         "pose_meta": [
             "Restorative"
         ],
@@ -987,8 +989,8 @@
         "id": 99
     },
     {
-        "english_name": "Pendant Pose",
-        "sanskrit_name": "Lolasana",
+        "englishName": "Pendant Pose",
+        "sanskritName": "Lolasana",
         "pose_meta": [
             "Arm Balance",
             "Core"
@@ -997,8 +999,8 @@
         "id": 100
     },
     {
-        "english_name": "Tortoise Pose",
-        "sanskrit_name": "Kurmasana",
+        "englishName": "Tortoise Pose",
+        "sanskritName": "Kurmasana",
         "pose_meta": [
             "Forward Bend",
             "Seated"
@@ -1007,8 +1009,8 @@
         "id": 101
     },
     {
-        "english_name": "Embryo in Womb Pose",
-        "sanskrit_name": "Garbha Pindasana",
+        "englishName": "Embryo in Womb Pose",
+        "sanskritName": "Garbha Pindasana",
         "pose_meta": [
             "Seated"
         ],
@@ -1016,8 +1018,8 @@
         "id": 102
     },
     {
-        "english_name": "Durvasasana",
-        "sanskrit_name": "Durvasasana",
+        "englishName": "Durvasasana",
+        "sanskritName": "Durvasasana",
         "pose_meta": [
             "Standing",
             "Balancing"
@@ -1026,8 +1028,8 @@
         "id": 103
     },
     {
-        "english_name": "Bhujapidasana",
-        "sanskrit_name": "Bhujapidasana",
+        "englishName": "Bhujapidasana",
+        "sanskritName": "Bhujapidasana",
         "pose_meta": [
             "Arm Balance",
             "Core"
@@ -1036,8 +1038,8 @@
         "id": 71
     },
     {
-        "english_name": "Frog Pose",
-        "sanskrit_name": "Bhekasana",
+        "englishName": "Frog Pose",
+        "sanskritName": "Bhekasana",
         "pose_meta": [
             "Chest Opening",
             "Backbends"
@@ -1046,8 +1048,8 @@
         "id": 104
     },
     {
-        "english_name": "Formidable Pose",
-        "sanskrit_name": "Bhairavasana",
+        "englishName": "Formidable Pose",
+        "sanskritName": "Bhairavasana",
         "pose_meta": [
             "Hip Opening"
         ],
@@ -1055,8 +1057,8 @@
         "id": 105
     },
     {
-        "english_name": "Formidable Face/Chin Stand Pose",
-        "sanskrit_name": "Ganda Bherundasana",
+        "englishName": "Formidable Face/Chin Stand Pose",
+        "sanskritName": "Ganda Bherundasana",
         "pose_meta": [
             "Inversion",
             "Backbends",
@@ -1066,3 +1068,4 @@
         "id": 106
     }
 ]
+}

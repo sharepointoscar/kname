@@ -60,7 +60,38 @@ var generateNameCmd = &cobra.Command{
 
 func genYogaPoseName() string {
 
-	return string("logic for theme not implemented yet.")
+	jsonFileYoga, err := os.Open("data/yoga.json")
+
+	// if we os.Open returns an error then handle it
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	// defer the closing of our jsonFile so that we can parse it later on
+	defer jsonFileYoga.Close()
+
+	// read our opened jsonFile as a byte array.
+	byteValue, _ := ioutil.ReadAll(jsonFileYoga)
+
+	type YogaPose struct {
+		Sanksrit string `json:"sanskritName"`
+		English  string `json:"englishName"`
+	}
+
+	type YogaPoses struct {
+		YogaPoses []YogaPose `json:"poses"`
+	}
+
+	var _poses YogaPoses
+
+	json.Unmarshal(byteValue, &_poses)
+
+	rand.Seed(time.Now().UnixNano())
+	var randomPose = _poses.YogaPoses[rand.Intn(len(_poses.YogaPoses))]
+
+	_poseName := strings.ToLower(strings.Replace(randomPose.Sanksrit, " ", "", -1))
+
+	return _poseName
 }
 func genNationalParkName() string { return string("logic for theme not implemented yet.") }
 func genCocktailName() string {
