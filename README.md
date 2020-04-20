@@ -1,4 +1,4 @@
-![cocktail](logo.png)
+![Kname](logo.png)
 # Kname
  Combine several passions and this is what comes out of it.
 
