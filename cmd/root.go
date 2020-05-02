@@ -29,7 +29,7 @@ var theme string
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "gn",
+	Use:   "kname",
 	Short: "Generate a Kubernetes cluster name based on a theme",
 	Long: `Generate a cluster name given a theme.  Current themes are:
 	

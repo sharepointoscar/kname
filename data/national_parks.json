@@ -1,7 +1,9 @@
-[
+{ 
+  "items": [
+  
     {
       "Location Number": "ABLI",
-      "Location Name": "Abraham Lincoln Birthplace National Historical Park",
+      "Name": "Abraham Lincoln Birthplace National Historical Park",
       "Address": "2995 Lincoln Farm Road",
       "City": "Hodgenville",
       "State": "Kentucky",
@@ -14,7 +16,7 @@
     },
     {
       "Location Number": "ACAD",
-      "Location Name": "Acadia National Park",
+      "Name": "Acadia National Park",
       "Address": "P.O. Box 177",
       "City": "Bar Harbor",
       "State": "ME",
@@ -27,7 +29,7 @@
     },
     {
       "Location Number": "ADAM",
-      "Location Name": "Adams National Historical Park",
+      "Name": "Adams National Historical Park",
       "Address": "135 Adams Street",
       "City": "Quincy",
       "State": "MA",
@@ -40,7 +42,7 @@
     },
     {
       "Location Number": "AFBG",
-      "Location Name": "African Burial Ground National Monument",
+      "Name": "African Burial Ground National Monument",
       "Address": "290 Broadway, 1st Floor",
       "City": "New York",
       "State": "NY",
@@ -53,7 +55,7 @@
     },
     {
       "Location Number": "alka",
-      "Location Name": "Ala Kahakai National Historic Trail",
+      "Name": "Ala Kahakai National Historic Trail",
       "Address": "73-4786 Kanalani Street, #14",
       "City": "Kailua-Kona",
       "State": "Hawaii",
@@ -66,7 +68,7 @@
     },
     {
       "Location Number": "alag",
-      "Location Name": "Alagnak Wild River",
+      "Name": "Alagnak Wild River",
       "Address": "P.O. Box 245",
       "City": "King Salmon",
       "State": "Alaska",
@@ -79,7 +81,7 @@
     },
     {
       "Location Number": "alca",
-      "Location Name": "Alcatraz Island",
+      "Name": "Alcatraz Island",
       "Address": 0,
       "City": 0,
       "State": 0,
@@ -92,7 +94,7 @@
     },
     {
       "Location Number": "aleu",
-      "Location Name": "Aleutian World War II National Historic Area",
+      "Name": "Aleutian World War II National Historic Area",
       "Address": "Ounalashka Corporation, P.O. Box 149",
       "City": "Unalaska",
       "State": "AK",
@@ -105,7 +107,7 @@
     },
     {
       "Location Number": "ALPO",
-      "Location Name": "Allegheny Portage Railroad National Historic Site",
+      "Name": "Allegheny Portage Railroad National Historic Site",
       "Address": "110 Federal Park Road",
       "City": "Gallitzin",
       "State": "PA",
@@ -118,7 +120,7 @@
     },
     {
       "Location Number": "AMME",
-      "Location Name": "American Memorial Park",
+      "Name": "American Memorial Park",
       "Address": "Superintendent, P.O. Box 5198 CHRB",
       "City": "Saipan",
       "State": "MP",
@@ -131,7 +133,7 @@
     },
     {
       "Location Number": "AMIS",
-      "Location Name": "Amistad National Recreation Area",
+      "Name": "Amistad National Recreation Area",
       "Address": "4121 Veterans Blvd.",
       "City": "Del Rio",
       "State": "TX",
@@ -144,7 +146,7 @@
     },
     {
       "Location Number": "ande",
-      "Location Name": "Andersonville National Historic Site",
+      "Name": "Andersonville National Historic Site",
       "Address": "496 Cemetery Road",
       "City": "Andersonville",
       "State": "GA",
@@ -157,7 +159,7 @@
     },
     {
       "Location Number": "ANJO",
-      "Location Name": "Andrew Johnson National Historic Site",
+      "Name": "Andrew Johnson National Historic Site",
       "Address": "Mailing Address - Andrew Johnson NHS, 121 Monument Ave., GPS Location - Andrew Johnson NHS Visitor Center, 101 North College St.",
       "City": "Greeneville",
       "State": "TN",
@@ -170,7 +172,7 @@
     },
     {
       "Location Number": "ania",
-      "Location Name": "Aniakchak National Monument & Preserve",
+      "Name": "Aniakchak National Monument & Preserve",
       "Address": "P.O. Box 245",
       "City": "King Salmon",
       "State": "Alaska",
@@ -183,7 +185,7 @@
     },
     {
       "Location Number": "ANTI",
-      "Location Name": "Antietam National Battlefield",
+      "Name": "Antietam National Battlefield",
       "Address": "P.O. Box 158",
       "City": "Sharpsburg",
       "State": "MD",
@@ -196,7 +198,7 @@
     },
     {
       "Location Number": "apis",
-      "Location Name": "Apostle Islands National Lakeshore",
+      "Name": "Apostle Islands National Lakeshore",
       "Address": "415 Washington Ave",
       "City": "Bayfield",
       "State": "Wisconsin",
@@ -209,7 +211,7 @@
     },
     {
       "Location Number": "appa",
-      "Location Name": "Appalachian National Scenic Trail",
+      "Name": "Appalachian National Scenic Trail",
       "Address": "P.O. Box 50",
       "City": "Harpers Ferry",
       "State": "WV",
@@ -222,7 +224,7 @@
     },
     {
       "Location Number": "ARCH",
-      "Location Name": "Arches National Park",
+      "Name": "Arches National Park",
       "Address": "PO Box 907",
       "City": "Moab",
       "State": "UT",
@@ -235,7 +237,7 @@
     },
     {
       "Location Number": "arpo",
-      "Location Name": "Arkansas Post National Memorial",
+      "Name": "Arkansas Post National Memorial",
       "Address": "1741 Old Post Road",
       "City": "Gillett",
       "State": "AR",
@@ -248,7 +250,7 @@
     },
     {
       "Location Number": "ASIS",
-      "Location Name": "Assateague Island National Seashore",
+      "Name": "Assateague Island National Seashore",
       "Address": "7206 National Seashore Lane",
       "City": "Berlin",
       "State": "MD",
@@ -261,7 +263,7 @@
     },
     {
       "Location Number": "AZRU",
-      "Location Name": "Aztec Ruins National Monument",
+      "Name": "Aztec Ruins National Monument",
       "Address": "Visitor Services, #84 County Road 2900",
       "City": "Aztec",
       "State": "New Mexico",
@@ -274,7 +276,7 @@
     },
     {
       "Location Number": "BADL",
-      "Location Name": "Badlands National Park",
+      "Name": "Badlands National Park",
       "Address": "25216 Ben Reifel Road, P.O. Box 6",
       "City": "Interior",
       "State": "South Dakota",
@@ -287,7 +289,7 @@
     },
     {
       "Location Number": "BAWA",
-      "Location Name": "Baltimore-Washington Parkway",
+      "Name": "Baltimore-Washington Parkway",
       "Address": "Baltimore Washington Parkway inc/o Greenbelt Park, 6565 Greenbelt Road",
       "City": "Greenbelt",
       "State": "MD",
@@ -300,7 +302,7 @@
     },
     {
       "Location Number": "BAND",
-      "Location Name": "Bandelier National Monument",
+      "Name": "Bandelier National Monument",
       "Address": "Superintendent, Bandelier National Monument 15 Entrance Road",
       "City": "Los Alamos",
       "State": "NM",
@@ -313,7 +315,7 @@
     },
     {
       "Location Number": "beol",
-      "Location Name": "Bent's Old Fort National Historic Site",
+      "Name": "Bent's Old Fort National Historic Site",
       "Address": "35110 Highway 194 E.",
       "City": "La Junta",
       "State": "CO",
@@ -326,7 +328,7 @@
     },
     {
       "Location Number": "bela",
-      "Location Name": "Bering Land Bridge National Preserve",
+      "Name": "Bering Land Bridge National Preserve",
       "Address": "PO Box 220",
       "City": "Nome",
       "State": "AK",
@@ -339,7 +341,7 @@
     },
     {
       "Location Number": "BIBE",
-      "Location Name": "Big Bend National Park",
+      "Name": "Big Bend National Park",
       "Address": "PO Box 129",
       "City": "Big Bend National Park",
       "State": "TX",
@@ -352,7 +354,7 @@
     },
     {
       "Location Number": "bicy",
-      "Location Name": "Big Cypress National Preserve",
+      "Name": "Big Cypress National Preserve",
       "Address": "33100 Tamiami Trail East",
       "City": "Ochopee",
       "State": "Florida",
@@ -365,7 +367,7 @@
     },
     {
       "Location Number": "BISO",
-      "Location Name": "Big South Fork National River & Recreation Area",
+      "Name": "Big South Fork National River & Recreation Area",
       "Address": "4564 Leatherwood Road",
       "City": "Oneida",
       "State": "Tennessee",
@@ -378,7 +380,7 @@
     },
     {
       "Location Number": "BITH",
-      "Location Name": "Big Thicket National Preserve",
+      "Name": "Big Thicket National Preserve",
       "Address": "6044 FM 420",
       "City": "Kountze",
       "State": "TX",
@@ -391,7 +393,7 @@
     },
     {
       "Location Number": "BICA",
-      "Location Name": "Bighorn Canyon National Recreation Area",
+      "Name": "Bighorn Canyon National Recreation Area",
       "Address": "Bighorn Canyon NRA Headquarters, 5 Avenue B, P.O. Box 7458, Fort Smith, MT 59035",
       "City": "Fort Smith",
       "State": "MT",
@@ -404,7 +406,7 @@
     },
     {
       "Location Number": "bisc",
-      "Location Name": "Biscayne National Park",
+      "Name": "Biscayne National Park",
       "Address": "Biscayne National Park, 9700 SW 328 Street",
       "City": "Homestead",
       "State": "FL",
@@ -417,7 +419,7 @@
     },
     {
       "Location Number": "blca",
-      "Location Name": "Black Canyon of the Gunnison National Park",
+      "Name": "Black Canyon of the Gunnison National Park",
       "Address": "National Park Service, 102 Elk Creek",
       "City": "Gunnison",
       "State": "Colorado",
@@ -430,7 +432,7 @@
     },
     {
       "Location Number": "BLRI",
-      "Location Name": "Blue Ridge Parkway",
+      "Name": "Blue Ridge Parkway",
       "Address": "199 Hemphill Knob Road",
       "City": "Asheville",
       "State": "NC",
@@ -443,7 +445,7 @@
     },
     {
       "Location Number": "BOHA",
-      "Location Name": "Boston Harbor Islands National Recreation Area",
+      "Name": "Boston Harbor Islands National Recreation Area",
       "Address": "Boston Harbor Islands Partnership, 408 Atlantic Avenue, Suite 228",
       "City": "Boston",
       "State": "MA",
@@ -456,7 +458,7 @@
     },
     {
       "Location Number": "BOST",
-      "Location Name": "Boston National Historical Park",
+      "Name": "Boston National Historical Park",
       "Address": "Charlestown Navy Yard",
       "City": "Boston",
       "State": "MA",
@@ -469,7 +471,7 @@
     },
     {
       "Location Number": "BRCR",
-      "Location Name": "Brices Cross Roads National Battlefield Site",
+      "Name": "Brices Cross Roads National Battlefield Site",
       "Address": "2680 Natchez Trace Parkway",
       "City": "Tupelo",
       "State": "MS",
@@ -482,7 +484,7 @@
     },
     {
       "Location Number": "BRVB",
-      "Location Name": "Brown v. Board of Education National Historic Site",
+      "Name": "Brown v. Board of Education National Historic Site",
       "Address": "1515 SE Monroe Street",
       "City": "Topeka",
       "State": "KS",
@@ -495,7 +497,7 @@
     },
     {
       "Location Number": "BRCA",
-      "Location Name": "Bryce Canyon National Park",
+      "Name": "Bryce Canyon National Park",
       "Address": "PO Box 640201",
       "City": "Bryce",
       "State": "UT",
@@ -508,7 +510,7 @@
     },
     {
       "Location Number": "buff",
-      "Location Name": "Buffalo National River",
+      "Name": "Buffalo National River",
       "Address": "402 N. Walnut, Suite 136",
       "City": "Harrison",
       "State": "AR",
@@ -521,7 +523,7 @@
     },
     {
       "Location Number": "cabr",
-      "Location Name": "Cabrillo National Monument",
+      "Name": "Cabrillo National Monument",
       "Address": "1800 Cabrillo Memorial Drive",
       "City": "San Diego",
       "State": "CA",
@@ -534,7 +536,7 @@
     },
     {
       "Location Number": "cali",
-      "Location Name": "California National Historic Trail",
+      "Name": "California National Historic Trail",
       "Address": "National Trails Intermountain Region, 324 South State St.,Suite 200",
       "City": "Salt Lake City",
       "State": "UT",
@@ -547,7 +549,7 @@
     },
     {
       "Location Number": "cana",
-      "Location Name": "Canaveral National Seashore",
+      "Name": "Canaveral National Seashore",
       "Address": "212 S. Washington Avenue",
       "City": "Titusville",
       "State": "Florida",
@@ -560,7 +562,7 @@
     },
     {
       "Location Number": "CARI",
-      "Location Name": "Cane River Creole National Historical Park",
+      "Name": "Cane River Creole National Historical Park",
       "Address": "Cane River Creole National Historical Park, 400 Rapides Drive",
       "City": "Natchitoches",
       "State": "LA",
@@ -573,7 +575,7 @@
     },
     {
       "Location Number": "cach",
-      "Location Name": "Canyon de Chelly National Monument",
+      "Name": "Canyon de Chelly National Monument",
       "Address": "PO Box 588",
       "City": "Chinle",
       "State": "AZ",
@@ -586,7 +588,7 @@
     },
     {
       "Location Number": "CANY",
-      "Location Name": "Canyonlands National Park",
+      "Name": "Canyonlands National Park",
       "Address": "Canyonlands National Park, 2282 SW Resource Blvd.",
       "City": "Moab",
       "State": "Utah",
@@ -599,7 +601,7 @@
     },
     {
       "Location Number": "CAHA",
-      "Location Name": "Cape Hatteras National Seashore",
+      "Name": "Cape Hatteras National Seashore",
       "Address": "Cape Hatteras National Seashore, 1401 National Park Drive",
       "City": "Manteo",
       "State": "North Carolina",
@@ -612,7 +614,7 @@
     },
     {
       "Location Number": "cakr",
-      "Location Name": "Cape Krusenstern National Monument",
+      "Name": "Cape Krusenstern National Monument",
       "Address": "Cape Krusenstern National Monument",
       "City": "Kotzebue",
       "State": "AK",
@@ -625,7 +627,7 @@
     },
     {
       "Location Number": "CALO",
-      "Location Name": "Cape Lookout National Seashore",
+      "Name": "Cape Lookout National Seashore",
       "Address": "131 Charles Street",
       "City": "Harkers Island",
       "State": "NC",
@@ -638,7 +640,7 @@
     },
     {
       "Location Number": "CARE",
-      "Location Name": "Capitol Reef National Park",
+      "Name": "Capitol Reef National Park",
       "Address": "Capitol Reef National Park, HC 70 Box 15",
       "City": "Torrey",
       "State": "UT",
@@ -651,7 +653,7 @@
     },
     {
       "Location Number": "CAJO",
-      "Location Name": "Captain John Smith Chesapeake National Historic Trail",
+      "Name": "Captain John Smith Chesapeake National Historic Trail",
       "Address": "NPS Chesapeake Bay Program Office, 410 Severn Avenue, Suite 314",
       "City": "Annapolis",
       "State": "MD",
@@ -664,7 +666,7 @@
     },
     {
       "Location Number": "CAVO",
-      "Location Name": "Capulin Volcano National Monument",
+      "Name": "Capulin Volcano National Monument",
       "Address": "Capulin Volcano NM, P.O. Box 40",
       "City": "Des Moines",
       "State": "NM",
@@ -677,7 +679,7 @@
     },
     {
       "Location Number": "CARL",
-      "Location Name": "Carl Sandburg Home National Historic Site",
+      "Name": "Carl Sandburg Home National Historic Site",
       "Address": "81 Carl Sandburg Lane",
       "City": "Flat Rock",
       "State": "NC",
@@ -690,7 +692,7 @@
     },
     {
       "Location Number": "CAVE",
-      "Location Name": "Carlsbad Caverns National Park",
+      "Name": "Carlsbad Caverns National Park",
       "Address": "Carlsbad Caverns National Park, 3225 National Parks Highway",
       "City": "Carlsbad",
       "State": "New Mexico",
@@ -703,7 +705,7 @@
     },
     {
       "Location Number": "cagr",
-      "Location Name": "Casa Grande Ruins National Monument",
+      "Name": "Casa Grande Ruins National Monument",
       "Address": "Casa Grande Ruins National Monument, 1100 West Ruins Drive",
       "City": "Coolidge",
       "State": "AZ",
@@ -716,7 +718,7 @@
     },
     {
       "Location Number": "casa",
-      "Location Name": "Castillo de San Marcos National Monument",
+      "Name": "Castillo de San Marcos National Monument",
       "Address": "Castillo de San Marcos NM, 1 South Castillo Drive",
       "City": "St. Augustine",
       "State": "FL",
@@ -729,7 +731,7 @@
     },
     {
       "Location Number": "CACL",
-      "Location Name": "Castle Clinton National Monument",
+      "Name": "Castle Clinton National Monument",
       "Address": "Castle Clinton National Monument, Battery Park",
       "City": "New York",
       "State": "NY",
@@ -742,7 +744,7 @@
     },
     {
       "Location Number": "CATO",
-      "Location Name": "Catoctin Mountain Park",
+      "Name": "Catoctin Mountain Park",
       "Address": "Catoctin Mountain Park, 6602 Foxville Road",
       "City": "Thurmont",
       "State": "MD",
@@ -755,7 +757,7 @@
     },
     {
       "Location Number": "CEBR",
-      "Location Name": "Cedar Breaks National Monument",
+      "Name": "Cedar Breaks National Monument",
       "Address": "Cedar Breaks National Monument, 2390 W. Hwy 56, Suite 11",
       "City": "Cedar City",
       "State": "UT",
@@ -768,7 +770,7 @@
     },
     {
       "Location Number": "CHCU",
-      "Location Name": "Chaco Culture National Historical Park",
+      "Name": "Chaco Culture National Historical Park",
       "Address": "Chaco Culture National Historical Park, P. O. Box 220",
       "City": "Nageezi",
       "State": "New Mexico",
@@ -781,7 +783,7 @@
     },
     {
       "Location Number": "CHAM",
-      "Location Name": "Chamizal National Memorial",
+      "Name": "Chamizal National Memorial",
       "Address": "Chamizal National Memorial, 800 S. San Marcial",
       "City": "El Paso",
       "State": "Texas",
@@ -794,7 +796,7 @@
     },
     {
       "Location Number": "chis",
-      "Location Name": "Channel Islands National Park",
+      "Name": "Channel Islands National Park",
       "Address": "Channel Islands National Park, 1901 Spinnaker Drive",
       "City": "Ventura",
       "State": "CA",
@@ -807,7 +809,7 @@
     },
     {
       "Location Number": "CHPI",
-      "Location Name": "Charles Pinckney National Historic Site",
+      "Name": "Charles Pinckney National Historic Site",
       "Address": "1214 Middle Street",
       "City": "Sullivan's Island",
       "State": "South Carolina",
@@ -820,7 +822,7 @@
     },
     {
       "Location Number": "chat",
-      "Location Name": "Chattahoochee River National Recreation Area",
+      "Name": "Chattahoochee River National Recreation Area",
       "Address": "1978 Island Ford Pkwy",
       "City": "Sandy Springs",
       "State": "GA",
@@ -833,7 +835,7 @@
     },
     {
       "Location Number": "CHOH",
-      "Location Name": "Chesapeake & Ohio Canal National Historical Park",
+      "Name": "Chesapeake & Ohio Canal National Historical Park",
       "Address": "C&O Canal NHP Headquarters, 1850 Dual Highway, Suite 100",
       "City": "Hagerstown",
       "State": "MD",
@@ -846,7 +848,7 @@
     },
     {
       "Location Number": "CBPO",
-      "Location Name": "Chesapeake Bay Gateways Network",
+      "Name": "Chesapeake Bay Gateways Network",
       "Address": "410 Severn Avenue, Suite 109",
       "City": "Annapolis",
       "State": "Maryland",
@@ -859,7 +861,7 @@
     },
     {
       "Location Number": "chch",
-      "Location Name": "Chickamauga & Chattanooga National Military Park",
+      "Name": "Chickamauga & Chattanooga National Military Park",
       "Address": "P.O. Box 2128 (Mailing), 3370 LaFayette Road (Shipping)",
       "City": "Fort Oglethorpe",
       "State": "GA",
@@ -872,7 +874,7 @@
     },
     {
       "Location Number": "CHIC",
-      "Location Name": "Chickasaw National Recreation Area",
+      "Name": "Chickasaw National Recreation Area",
       "Address": "Chickasaw National Recreation Area, 1008 West Second Street",
       "City": "Sulphur",
       "State": "OK",
@@ -885,7 +887,7 @@
     },
     {
       "Location Number": "chir",
-      "Location Name": "Chiricahua National Monument",
+      "Name": "Chiricahua National Monument",
       "Address": "Superintendent, 12856 E. Rhyolite Creek RD",
       "City": "Willcox",
       "State": "AZ",
@@ -898,7 +900,7 @@
     },
     {
       "Location Number": "CIRO",
-      "Location Name": "City of Rocks National Reserve",
+      "Name": "City of Rocks National Reserve",
       "Address": "City of Rocks National Reserve, P.O. Box 169",
       "City": "Almo",
       "State": "ID",
@@ -911,7 +913,7 @@
     },
     {
       "Location Number": "CLBA",
-      "Location Name": "Clara Barton National Historic Site",
+      "Name": "Clara Barton National Historic Site",
       "Address": "Clara Barton NHS, 5801 Oxford Road",
       "City": "Glen Echo",
       "State": "Maryland",
@@ -924,7 +926,7 @@
     },
     {
       "Location Number": "colm",
-      "Location Name": "Colorado National Monument",
+      "Name": "Colorado National Monument",
       "Address": "Colorado National Monument, 7 M S of Fruita Hwy 340",
       "City": "Fruita",
       "State": "CO",
@@ -937,7 +939,7 @@
     },
     {
       "Location Number": "coro",
-      "Location Name": "Coronado National Memorial",
+      "Name": "Coronado National Memorial",
       "Address": "4101 East Montezuma Canyon Road",
       "City": "Hereford",
       "State": "AZ",
@@ -950,7 +952,7 @@
     },
     {
       "Location Number": "COWP",
-      "Location Name": "Cowpens National Battlefield",
+      "Name": "Cowpens National Battlefield",
       "Address": "Cowpens National Battlefield, PO Box 308",
       "City": "Chesnee",
       "State": "SC",
@@ -963,7 +965,7 @@
     },
     {
       "Location Number": "CRLA",
-      "Location Name": "Crater Lake National Park",
+      "Name": "Crater Lake National Park",
       "Address": "P.O. Box 7",
       "City": "Crater Lake",
       "State": "Oregon",
@@ -976,7 +978,7 @@
     },
     {
       "Location Number": "CRMO",
-      "Location Name": "Craters of the Moon National Monument & Preserve",
+      "Name": "Craters of the Moon National Monument & Preserve",
       "Address": "Craters of the Moon National Monument and Preserve, P.O. Box 29",
       "City": "Arco",
       "State": "ID",
@@ -989,7 +991,7 @@
     },
     {
       "Location Number": "CUGA",
-      "Location Name": "Cumberland Gap National Historical Park",
+      "Name": "Cumberland Gap National Historical Park",
       "Address": "Cumberland Gap National Historical Park, 91 Bartlett Park Road",
       "City": "Middlesboro",
       "State": "KY",
@@ -1002,7 +1004,7 @@
     },
     {
       "Location Number": "cuis",
-      "Location Name": "Cumberland Island National Seashore",
+      "Name": "Cumberland Island National Seashore",
       "Address": "101 Wheeler Street",
       "City": "St. Marys",
       "State": "GA",
@@ -1015,7 +1017,7 @@
     },
     {
       "Location Number": "cure",
-      "Location Name": "Curecanti National Recreation Area",
+      "Name": "Curecanti National Recreation Area",
       "Address": "National Park Service, 102 Elk Creek",
       "City": "Gunnison",
       "State": "Colorado",
@@ -1028,7 +1030,7 @@
     },
     {
       "Location Number": "CUVA",
-      "Location Name": "Cuyahoga Valley National Park",
+      "Name": "Cuyahoga Valley National Park",
       "Address": "Cuyahoga Valley National Park, 15610 Vaughn Rd",
       "City": "Cleveland",
       "State": "OH",
@@ -1041,7 +1043,7 @@
     },
     {
       "Location Number": "DABE",
-      "Location Name": "David Berger National Memorial",
+      "Name": "David Berger National Memorial",
       "Address": "Mandel Jewish Community Center, 26001 South Woodland Road",
       "City": "Beachwood",
       "State": "Ohio",
@@ -1054,7 +1056,7 @@
     },
     {
       "Location Number": "deso",
-      "Location Name": "De Soto National Memorial",
+      "Name": "De Soto National Memorial",
       "Address": "De Soto National Memorial, P.O. Box 15390",
       "City": "Bradenton",
       "State": "FL",
@@ -1067,7 +1069,7 @@
     },
     {
       "Location Number": "deva",
-      "Location Name": "Death Valley National Park",
+      "Name": "Death Valley National Park",
       "Address": "Death Valley National Park, P.O. Box 579",
       "City": "Death Valley",
       "State": "California",
@@ -1080,7 +1082,7 @@
     },
     {
       "Location Number": "DEWA",
-      "Location Name": "Delaware Water Gap National Recreation Area",
+      "Name": "Delaware Water Gap National Recreation Area",
       "Address": "Interpretation & Education, Delaware Water Gap NRA",
       "City": "Bushkill",
       "State": "PA",
@@ -1093,7 +1095,7 @@
     },
     {
       "Location Number": "dena",
-      "Location Name": "Denali National Park and Preserve",
+      "Name": "Denali National Park and Preserve",
       "Address": "Denali National Park & Preserve, P.O. Box 9",
       "City": "Denali Park",
       "State": "Alaska",
@@ -1106,7 +1108,7 @@
     },
     {
       "Location Number": "DEMO",
-      "Location Name": "Deshler Morris House",
+      "Name": "Deshler Morris House",
       "Address": "143 S. Third Street",
       "City": "Philadelphia",
       "State": "Pennsylvania",
@@ -1119,7 +1121,7 @@
     },
     {
       "Location Number": "depo",
-      "Location Name": "Devils Postpile National Monument",
+      "Name": "Devils Postpile National Monument",
       "Address": "Devils Postpile National Monument, P.O. Box 3999",
       "City": "Mammoth Lakes",
       "State": "CA",
@@ -1132,7 +1134,7 @@
     },
     {
       "Location Number": "DETO",
-      "Location Name": "Devils Tower National Monument",
+      "Name": "Devils Tower National Monument",
       "Address": "PO Box 10",
       "City": "Devils Tower",
       "State": "WY",
@@ -1145,7 +1147,7 @@
     },
     {
       "Location Number": "dino",
-      "Location Name": "Dinosaur National Monument",
+      "Name": "Dinosaur National Monument",
       "Address": "Dinosaur National Monument, 4545 E. Highway 40",
       "City": "Dinosaur",
       "State": "CO",
@@ -1158,7 +1160,7 @@
     },
     {
       "Location Number": "drto",
-      "Location Name": "Dry Tortugas National Park",
+      "Name": "Dry Tortugas National Park",
       "Address": "P.O. Box 6208",
       "City": "Key West",
       "State": "FL",
@@ -1171,7 +1173,7 @@
     },
     {
       "Location Number": "EDAL",
-      "Location Name": "Edgar Allan Poe National Historic Site",
+      "Name": "Edgar Allan Poe National Historic Site",
       "Address": "INHP, 143 S. Third Street",
       "City": "Philadelphia",
       "State": "Pennsylvania",
@@ -1184,7 +1186,7 @@
     },
     {
       "Location Number": "EFMO",
-      "Location Name": "Effigy Mounds National Monument",
+      "Name": "Effigy Mounds National Monument",
       "Address": "Effigy Mounds National Monument, 151 HWY 76",
       "City": "Harpers Ferry",
       "State": "IA",
@@ -1197,7 +1199,7 @@
     },
     {
       "Location Number": "EISE",
-      "Location Name": "Eisenhower National Historic Site",
+      "Name": "Eisenhower National Historic Site",
       "Address": "Eisenhower NHS, 1195 Baltimore Pike, Suite 100",
       "City": "Gettysburg",
       "State": "PA",
@@ -1210,7 +1212,7 @@
     },
     {
       "Location Number": "ELTE",
-      "Location Name": "El Camino Real de los Tejas National Historic Trail",
+      "Name": "El Camino Real de los Tejas National Historic Trail",
       "Address": "National Trails Intermountain Region, P.O. Box 728",
       "City": "Santa Fe",
       "State": "NM",
@@ -1223,7 +1225,7 @@
     },
     {
       "Location Number": "ELCA",
-      "Location Name": "El Camino Real de Tierra Adentro National Historic Trail",
+      "Name": "El Camino Real de Tierra Adentro National Historic Trail",
       "Address": "National Trails Intermountain Region, PO Box 728",
       "City": "Santa Fe",
       "State": "New Mexico",
@@ -1236,7 +1238,7 @@
     },
     {
       "Location Number": "ELMA",
-      "Location Name": "El Malpais National Monument",
+      "Name": "El Malpais National Monument",
       "Address": "El Malpais National Monument, 123 East Roosevelt Avenue",
       "City": "Grants",
       "State": "NM",
@@ -1249,7 +1251,7 @@
     },
     {
       "Location Number": "ELMO",
-      "Location Name": "El Morro National Monument",
+      "Name": "El Morro National Monument",
       "Address": "El Morro National Monument, HC 61 Box 43",
       "City": "Ramah",
       "State": "NM",
@@ -1262,7 +1264,7 @@
     },
     {
       "Location Number": "ELRO",
-      "Location Name": "Eleanor Roosevelt National Historic Site",
+      "Name": "Eleanor Roosevelt National Historic Site",
       "Address": "National Park Service, 4097 Albany Post Road",
       "City": "Hyde Park",
       "State": "New York",
@@ -1275,7 +1277,7 @@
     },
     {
       "Location Number": "ELIS",
-      "Location Name": "Ellis Island National Monument",
+      "Name": "Ellis Island National Monument",
       "Address": "Statue of Liberty National Monument & Ellis Island, Liberty Island",
       "City": "New York",
       "State": "NY",
@@ -1288,7 +1290,7 @@
     },
     {
       "Location Number": "ESSE",
-      "Location Name": "Essex National Heritage Area",
+      "Name": "Essex National Heritage Area",
       "Address": "221 Essex Street, Suite 41",
       "City": "Salem",
       "State": "MA",
@@ -1301,7 +1303,7 @@
     },
     {
       "Location Number": "euon",
-      "Location Name": "Eugene O'Neill National Historic Site",
+      "Name": "Eugene O'Neill National Historic Site",
       "Address": "P.O. Box 280",
       "City": "Danville",
       "State": "CA",
@@ -1314,7 +1316,7 @@
     },
     {
       "Location Number": "ever",
-      "Location Name": "Everglades National Park",
+      "Name": "Everglades National Park",
       "Address": "40001 State Road 9336",
       "City": "Homestead",
       "State": "Florida",
@@ -1327,7 +1329,7 @@
     },
     {
       "Location Number": "FEHA",
-      "Location Name": "Federal Hall National Memorial",
+      "Name": "Federal Hall National Memorial",
       "Address": "Federal Hall National Memorial, 26 Wall Street",
       "City": "New York",
       "State": "NY",
@@ -1340,7 +1342,7 @@
     },
     {
       "Location Number": "FIIS",
-      "Location Name": "Fire Island National Seashore",
+      "Name": "Fire Island National Seashore",
       "Address": "Fire Island National Seashore, 120 Laurel Street",
       "City": "Patchogue",
       "State": "NY",
@@ -1353,7 +1355,7 @@
     },
     {
       "Location Number": "FILA",
-      "Location Name": "First Ladies National Historic Site",
+      "Name": "First Ladies National Historic Site",
       "Address": "National First Ladies Library, 205 Market Avenue South",
       "City": "Canton",
       "State": "Ohio",
@@ -1366,7 +1368,7 @@
     },
     {
       "Location Number": "FLNI",
-      "Location Name": "Flight 93 National Memorial",
+      "Name": "Flight 93 National Memorial",
       "Address": "P.O. Box 911",
       "City": "Shanksville",
       "State": "PA",
@@ -1379,7 +1381,7 @@
     },
     {
       "Location Number": "flfo",
-      "Location Name": "Florissant Fossil Beds National Monument",
+      "Name": "Florissant Fossil Beds National Monument",
       "Address": "PO Box 185",
       "City": "Florissant",
       "State": "Colorado",
@@ -1392,7 +1394,7 @@
     },
     {
       "Location Number": "fobo",
-      "Location Name": "Fort Bowie National Historic Site",
+      "Name": "Fort Bowie National Historic Site",
       "Address": "Fort Bowie National Historic Site, 3203 South Old Fort Bowie Road",
       "City": "Bowie",
       "State": "AZ",
@@ -1405,7 +1407,7 @@
     },
     {
       "Location Number": "FODA",
-      "Location Name": "Fort Davis National Historic Site",
+      "Name": "Fort Davis National Historic Site",
       "Address": "Fort Davis National Historic Site, P.O. Box 1379",
       "City": "Fort Davis",
       "State": "Texas",
@@ -1418,7 +1420,7 @@
     },
     {
       "Location Number": "FODO",
-      "Location Name": "Fort Donelson National Battlefield",
+      "Name": "Fort Donelson National Battlefield",
       "Address": "Fort Donelson National Battlefield, P.O. Box 434",
       "City": "Dover",
       "State": "Tennessee",
@@ -1431,7 +1433,7 @@
     },
     {
       "Location Number": "FOFO",
-      "Location Name": "Fort Foote Park",
+      "Name": "Fort Foote Park",
       "Address": "13551 Fort Washington Road",
       "City": "Fort Washington",
       "State": "MD",
@@ -1444,7 +1446,7 @@
     },
     {
       "Location Number": "fofr",
-      "Location Name": "Fort Frederica National Monument",
+      "Name": "Fort Frederica National Monument",
       "Address": "Fort Frederica NM, 6515 Frederica Rd.",
       "City": "St. Simons Island",
       "State": "GA",
@@ -1457,7 +1459,7 @@
     },
     {
       "Location Number": "FOLS",
-      "Location Name": "Fort Larned National Historic Site",
+      "Name": "Fort Larned National Historic Site",
       "Address": "Fort Larned NHS, 1767 KS Hwy 156",
       "City": "Larned",
       "State": "KS",
@@ -1470,7 +1472,7 @@
     },
     {
       "Location Number": "foma",
-      "Location Name": "Fort Matanzas National Monument",
+      "Name": "Fort Matanzas National Monument",
       "Address": "Fort Matanzas National Monument, 8635 A1A South",
       "City": "St. Augustine",
       "State": "Florida",
@@ -1483,7 +1485,7 @@
     },
     {
       "Location Number": "FONE",
-      "Location Name": "Fort Necessity National Battlefield",
+      "Name": "Fort Necessity National Battlefield",
       "Address": "Fort Necessity NB, 1 Washington Parkway",
       "City": "Farmington",
       "State": "PA",
@@ -1496,7 +1498,7 @@
     },
     {
       "Location Number": "fopo",
-      "Location Name": "Fort Point National Historic Site",
+      "Name": "Fort Point National Historic Site",
       "Address": "Fort Point National Historic Site, Fort Mason, Building 201",
       "City": "San Francisco",
       "State": "California",
@@ -1509,7 +1511,7 @@
     },
     {
       "Location Number": "fopu",
-      "Location Name": "Fort Pulaski National Monument",
+      "Name": "Fort Pulaski National Monument",
       "Address": "Fort Pulaski NM, P. O. Box 30757",
       "City": "Savannah",
       "State": "GA",
@@ -1522,7 +1524,7 @@
     },
     {
       "Location Number": "FORA",
-      "Location Name": "Fort Raleigh National Historic Site",
+      "Name": "Fort Raleigh National Historic Site",
       "Address": "Fort Raleigh National Historic Site, 1401 National Park Drive",
       "City": "Manteo",
       "State": "North Carolina",
@@ -1535,7 +1537,7 @@
     },
     {
       "Location Number": "FOSC",
-      "Location Name": "Fort Scott National Historic Site",
+      "Name": "Fort Scott National Historic Site",
       "Address": "Fort Scott NHS, P.O. Box 918",
       "City": "Fort Scott",
       "State": "KS",
@@ -1548,7 +1550,7 @@
     },
     {
       "Location Number": "fosm",
-      "Location Name": "Fort Smith National Historic Site",
+      "Name": "Fort Smith National Historic Site",
       "Address": "Fort Smith National Historic Site, PO Box 1406",
       "City": "Fort Smith",
       "State": "AR",
@@ -1561,7 +1563,7 @@
     },
     {
       "Location Number": "FOST",
-      "Location Name": "Fort Stanwix National Monument",
+      "Name": "Fort Stanwix National Monument",
       "Address": "Fort Stanwix National Monument, 112 E Park Street",
       "City": "Rome",
       "State": "NY",
@@ -1574,7 +1576,7 @@
     },
     {
       "Location Number": "FOSU",
-      "Location Name": "Fort Sumter National Monument",
+      "Name": "Fort Sumter National Monument",
       "Address": "1214 Middle Street",
       "City": "Sullivan's Island",
       "State": "SC",
@@ -1587,7 +1589,7 @@
     },
     {
       "Location Number": "FOUN",
-      "Location Name": "Fort Union National Monument",
+      "Name": "Fort Union National Monument",
       "Address": "Superintendent, Fort Union National Monument PO Box 127",
       "City": "Watrous",
       "State": "New Mexico",
@@ -1600,7 +1602,7 @@
     },
     {
       "Location Number": "FOUS",
-      "Location Name": "Fort Union Trading Post National Historic Site",
+      "Name": "Fort Union Trading Post National Historic Site",
       "Address": "Fort Union Trading Post NHS, 15550 Hwy 1804",
       "City": "Williston",
       "State": "North Dakota",
@@ -1613,7 +1615,7 @@
     },
     {
       "Location Number": "FOVA",
-      "Location Name": "Fort Vancouver National Historic Site",
+      "Name": "Fort Vancouver National Historic Site",
       "Address": "Fort Vancouver NHS, 612 East Reserve Street",
       "City": "Vancouver",
       "State": "WA",
@@ -1626,7 +1628,7 @@
     },
     {
       "Location Number": "FOWA",
-      "Location Name": "Fort Washington Park",
+      "Name": "Fort Washington Park",
       "Address": "13551 Fort Washington Road",
       "City": "Fort Washington",
       "State": "MD",
@@ -1639,7 +1641,7 @@
     },
     {
       "Location Number": "FRLA",
-      "Location Name": "Frederick Law Olmsted National Historic Site",
+      "Name": "Frederick Law Olmsted National Historic Site",
       "Address": "Frederick Law Olmsted      National Historic Site, 99 Warren Street",
       "City": "Brookline",
       "State": "Massachusetts",
@@ -1652,7 +1654,7 @@
     },
     {
       "Location Number": "FRSP",
-      "Location Name": "Fredericksburg & Spotsylvania National Military Park",
+      "Name": "Fredericksburg & Spotsylvania National Military Park",
       "Address": "Superintendent, 120 Chatham Lane",
       "City": "Fredericksburg",
       "State": "Virginia",
@@ -1665,7 +1667,7 @@
     },
     {
       "Location Number": "FRHI",
-      "Location Name": "Friendship Hill National Historic Site",
+      "Name": "Friendship Hill National Historic Site",
       "Address": "Friendship Hill NHS, 1 Washington Parkway",
       "City": "Farmington",
       "State": "PA",
@@ -1678,7 +1680,7 @@
     },
     {
       "Location Number": "gaar",
-      "Location Name": "Gates of the Arctic National Park & Preserve",
+      "Name": "Gates of the Arctic National Park & Preserve",
       "Address": "Visitor Information, P.O. Box 30",
       "City": "Bettles",
       "State": "AK",
@@ -1691,7 +1693,7 @@
     },
     {
       "Location Number": "GATE",
-      "Location Name": "Gateway National Recreation Area",
+      "Name": "Gateway National Recreation Area",
       "Address": "Public Affairs Office, Gateway NRA, 210 New York Avenue",
       "City": "Staten Island",
       "State": "New York",
@@ -1704,7 +1706,7 @@
     },
     {
       "Location Number": "GEGR",
-      "Location Name": "General Grant National Memorial",
+      "Name": "General Grant National Memorial",
       "Address": "General Grant National Memorial, West 122nd Street and Riverside Drive",
       "City": "New York",
       "State": "NY",
@@ -1717,7 +1719,7 @@
     },
     {
       "Location Number": "GERO",
-      "Location Name": "George Rogers Clark National Historical Park",
+      "Name": "George Rogers Clark National Historical Park",
       "Address": "George Rogers Clark National Historical Park, 401 S. 2nd St.",
       "City": "Vincennes",
       "State": "Indiana",
@@ -1730,7 +1732,7 @@
     },
     {
       "Location Number": "GWCA",
-      "Location Name": "George Washington Carver National Monument",
+      "Name": "George Washington Carver National Monument",
       "Address": "George Washington Carver National Monument, 5646 Carver Road",
       "City": "Diamond",
       "State": "MO",
@@ -1743,7 +1745,7 @@
     },
     {
       "Location Number": "GETT",
-      "Location Name": "Gettysburg National Military Park",
+      "Name": "Gettysburg National Military Park",
       "Address": "Gettysburg National Military Park, 1195 Baltimore Pike, Suite 100",
       "City": "Gettysburg",
       "State": "Pennsylvania",
@@ -1756,7 +1758,7 @@
     },
     {
       "Location Number": "GICL",
-      "Location Name": "Gila Cliff Dwellings National Monument",
+      "Name": "Gila Cliff Dwellings National Monument",
       "Address": "Gila Cliff Dwellings National Monument, HC 68 Box 100",
       "City": "Silver City",
       "State": "New Mexico",
@@ -1769,7 +1771,7 @@
     },
     {
       "Location Number": "glba",
-      "Location Name": "Glacier Bay National Park and Preserve",
+      "Name": "Glacier Bay National Park and Preserve",
       "Address": "Glacier Bay National Park, PO Box 140",
       "City": "Gustavus",
       "State": "AK",
@@ -1782,7 +1784,7 @@
     },
     {
       "Location Number": "GLAC",
-      "Location Name": "Glacier National Park",
+      "Name": "Glacier National Park",
       "Address": "Glacier National Park, PO Box 128",
       "City": "West Glacier",
       "State": "Montana",
@@ -1795,7 +1797,7 @@
     },
     {
       "Location Number": "GLCA",
-      "Location Name": "Glen Canyon National Recreation Area",
+      "Name": "Glen Canyon National Recreation Area",
       "Address": "Glen Canyon NRA, PO Box 1507",
       "City": "Page",
       "State": "Arizona",
@@ -1808,7 +1810,7 @@
     },
     {
       "Location Number": "GLEC",
-      "Location Name": "Glen Echo Park",
+      "Name": "Glen Echo Park",
       "Address": 0,
       "City": "Glen Echo Park",
       "State": "MO",
@@ -1821,7 +1823,7 @@
     },
     {
       "Location Number": "goga",
-      "Location Name": "Golden Gate National Recreation Area",
+      "Name": "Golden Gate National Recreation Area",
       "Address": "Golden Gate National Recreation Area, Fort Mason, Building 201",
       "City": "San Francisco",
       "State": "California",
@@ -1834,7 +1836,7 @@
     },
     {
       "Location Number": "GOSP",
-      "Location Name": "Golden Spike National Historic Site",
+      "Name": "Golden Spike National Historic Site",
       "Address": "Golden Spike NHS, P.O. Box 897",
       "City": "Brigham City",
       "State": "Utah",
@@ -1847,7 +1849,7 @@
     },
     {
       "Location Number": "GOIS",
-      "Location Name": "Governors Island National Monument",
+      "Name": "Governors Island National Monument",
       "Address": "Governors Island National Monument, 10 South Street - Slip 7",
       "City": "New York",
       "State": "NY",
@@ -1860,7 +1862,7 @@
     },
     {
       "Location Number": "grca",
-      "Location Name": "Grand Canyon National Park",
+      "Name": "Grand Canyon National Park",
       "Address": "Grand Canyon National Park, P.O. Box 129",
       "City": "Grand Canyon",
       "State": "AZ",
@@ -1873,7 +1875,7 @@
     },
     {
       "Location Number": "para",
-      "Location Name": "Grand Canyon-Parashant National Monument",
+      "Name": "Grand Canyon-Parashant National Monument",
       "Address": "Grand Canyon-Parashant National Monument, 345 East Riverside Drive",
       "City": "St. George",
       "State": "UT",
@@ -1886,7 +1888,7 @@
     },
     {
       "Location Number": "GRPO",
-      "Location Name": "Grand Portage National Monument",
+      "Name": "Grand Portage National Monument",
       "Address": "P.O. Box 426, 170 Mile Creek Road",
       "City": "Grand Portage",
       "State": "Minnesota",
@@ -1899,7 +1901,7 @@
     },
     {
       "Location Number": "GRTE",
-      "Location Name": "Grand Teton National Park & John D. Rockefeller Jr. Memorial Parkway",
+      "Name": "Grand Teton National Park & John D. Rockefeller Jr. Memorial Parkway",
       "Address": "Grand Teton National Park, P.O. Drawer 170",
       "City": "Moose",
       "State": "WY",
@@ -1912,7 +1914,7 @@
     },
     {
       "Location Number": "GRKO",
-      "Location Name": "Grant-Kohrs Ranch National Historic Site",
+      "Name": "Grant-Kohrs Ranch National Historic Site",
       "Address": "Grant-Kohrs Ranch NHS, 266 Warren Lane",
       "City": "Deer Lodge",
       "State": "MT",
@@ -1925,7 +1927,7 @@
     },
     {
       "Location Number": "GRBA",
-      "Location Name": "Great Basin National Park",
+      "Name": "Great Basin National Park",
       "Address": "Great Basin National Park, 100 Great Basin National Park",
       "City": "Baker",
       "State": "Nevada",
@@ -1938,7 +1940,7 @@
     },
     {
       "Location Number": "grsa",
-      "Location Name": "Great Sand Dunes National Park and Preserve",
+      "Name": "Great Sand Dunes National Park and Preserve",
       "Address": "Great Sand Dunes National Park, 11500 State Highway 150",
       "City": "Mosca",
       "State": "CO",
@@ -1951,7 +1953,7 @@
     },
     {
       "Location Number": "GRSM",
-      "Location Name": "Great Smoky Mountains National Park",
+      "Name": "Great Smoky Mountains National Park",
       "Address": "Great Smoky Mountains National Park, 107 Park Headquarters Road",
       "City": "Gatlinburg",
       "State": "TN",
@@ -1964,7 +1966,7 @@
     },
     {
       "Location Number": "GREE",
-      "Location Name": "Greenbelt Park",
+      "Name": "Greenbelt Park",
       "Address": "6565 Greenbelt Road",
       "City": "Greenbelt",
       "State": "Maryland",
@@ -1977,7 +1979,7 @@
     },
     {
       "Location Number": "GUMO",
-      "Location Name": "Guadalupe Mountains National Park",
+      "Name": "Guadalupe Mountains National Park",
       "Address": "Guadalupe Mountains National Park, 400 Pine Canyon Road",
       "City": "Salt Flat",
       "State": "Texas",
@@ -1990,7 +1992,7 @@
     },
     {
       "Location Number": "GUCO",
-      "Location Name": "Guilford Courthouse National Military Park",
+      "Name": "Guilford Courthouse National Military Park",
       "Address": "Guilford Courthouse National Military Park, 2332 New Garden Road",
       "City": "Greensboro",
       "State": "NC",
@@ -2003,7 +2005,7 @@
     },
     {
       "Location Number": "guis",
-      "Location Name": "Gulf Islands National Seashore",
+      "Name": "Gulf Islands National Seashore",
       "Address": "1801 Gulf Breeze Parkway",
       "City": "Gulf Breeze",
       "State": "FL",
@@ -2016,7 +2018,7 @@
     },
     {
       "Location Number": "HAFO",
-      "Location Name": "Hagerman Fossil Beds National Monument",
+      "Name": "Hagerman Fossil Beds National Monument",
       "Address": "Hagerman Fossil Beds National Monument, P.O. Box 570",
       "City": "Hagerman",
       "State": "ID",
@@ -2029,7 +2031,7 @@
     },
     {
       "Location Number": "hale",
-      "Location Name": "Haleakala National Park",
+      "Name": "Haleakala National Park",
       "Address": "PO Box 369",
       "City": "Makawao",
       "State": "HI",
@@ -2042,7 +2044,7 @@
     },
     {
       "Location Number": "HAGR",
-      "Location Name": "Hamilton Grange National Memorial",
+      "Name": "Hamilton Grange National Memorial",
       "Address": "Hamilton Grange National Memorial, C/O Manhattan Sites, 26 Wall Street",
       "City": "New York",
       "State": "NY",
@@ -2055,7 +2057,7 @@
     },
     {
       "Location Number": "HAMP",
-      "Location Name": "Hampton National Historic Site",
+      "Name": "Hampton National Historic Site",
       "Address": "Superintendent, 535 Hampton Lane",
       "City": "Towson",
       "State": "Maryland",
@@ -2068,7 +2070,7 @@
     },
     {
       "Location Number": "HAHA",
-      "Location Name": "Harmony Hall",
+      "Name": "Harmony Hall",
       "Address": "13551 Fort Washington Road",
       "City": "Fort Washington",
       "State": "MD",
@@ -2081,7 +2083,7 @@
     },
     {
       "Location Number": "HAFE",
-      "Location Name": "Harpers Ferry National Historical Park",
+      "Name": "Harpers Ferry National Historical Park",
       "Address": "P.O. Box 65",
       "City": "Harpers Ferry",
       "State": "WV",
@@ -2094,7 +2096,7 @@
     },
     {
       "Location Number": "HSTR",
-      "Location Name": "Harry S Truman National Historic Site",
+      "Name": "Harry S Truman National Historic Site",
       "Address": "Harry S Truman NHS, 223 N. Main St.",
       "City": "Independence",
       "State": "Missouri",
@@ -2107,7 +2109,7 @@
     },
     {
       "Location Number": "havo",
-      "Location Name": "Hawai'i Volcanoes National Park",
+      "Name": "Hawai'i Volcanoes National Park",
       "Address": "Hawai`i Volcanoes National Park, P.O. Box 52",
       "City": "Hawai`i National Park",
       "State": "HI",
@@ -2120,7 +2122,7 @@
     },
     {
       "Location Number": "HEHO",
-      "Location Name": "Herbert Hoover National Historic Site",
+      "Name": "Herbert Hoover National Historic Site",
       "Address": "Herbert Hoover NHS, P. O. Box 607",
       "City": "West Branch",
       "State": "IA",
@@ -2133,7 +2135,7 @@
     },
     {
       "Location Number": "pima",
-      "Location Name": "Hohokam Pima National Monument",
+      "Name": "Hohokam Pima National Monument",
       "Address": "Hohokam Pima National Monument",
       "City": "Chandler",
       "State": "AZ",
@@ -2146,7 +2148,7 @@
     },
     {
       "Location Number": "HOFR",
-      "Location Name": "Home of Franklin D Roosevelt National Historic Site",
+      "Name": "Home of Franklin D Roosevelt National Historic Site",
       "Address": "National Park Service, 4097 Albany Post Road",
       "City": "Hyde Park",
       "State": "New York",
@@ -2159,7 +2161,7 @@
     },
     {
       "Location Number": "HOME",
-      "Location Name": "Homestead National Monument of America",
+      "Name": "Homestead National Monument of America",
       "Address": "Superintendent, 8523 W. State Hwy. 4",
       "City": "Beatrice",
       "State": "NE",
@@ -2172,7 +2174,7 @@
     },
     {
       "Location Number": "HOCU",
-      "Location Name": "Hopewell Culture National Historical Park",
+      "Name": "Hopewell Culture National Historical Park",
       "Address": "Hopewell Culture National Historical Park, 16062 State Route 104",
       "City": "Chillicothe",
       "State": "Ohio",
@@ -2185,7 +2187,7 @@
     },
     {
       "Location Number": "HOFU",
-      "Location Name": "Hopewell Furnace National Historic Site",
+      "Name": "Hopewell Furnace National Historic Site",
       "Address": "Hopewell Furnace National Historic Site, 2 Mark Bird Lane",
       "City": "Elverson",
       "State": "Pennsylvania",
@@ -2198,7 +2200,7 @@
     },
     {
       "Location Number": "hobe",
-      "Location Name": "Horseshoe Bend National Military Park",
+      "Name": "Horseshoe Bend National Military Park",
       "Address": "Horseshoe Bend NMP, 11288 Horseshoe Bend Rd.",
       "City": "Daviston",
       "State": "AL",
@@ -2211,7 +2213,7 @@
     },
     {
       "Location Number": "hosp",
-      "Location Name": "Hot Springs National Park",
+      "Name": "Hot Springs National Park",
       "Address": "Hot Springs National Park, 101 Reserve Street",
       "City": "Hot Springs",
       "State": "AR",
@@ -2224,7 +2226,7 @@
     },
     {
       "Location Number": "hove",
-      "Location Name": "Hovenweep National Monument",
+      "Name": "Hovenweep National Monument",
       "Address": "Hovenweep National Monument, McElmo Route",
       "City": "Cortez",
       "State": "CO",
@@ -2237,7 +2239,7 @@
     },
     {
       "Location Number": "hutr",
-      "Location Name": "Hubbell Trading Post National Historic Site",
+      "Name": "Hubbell Trading Post National Historic Site",
       "Address": "Hubbell Trading Post NHS, P.O. Box 150",
       "City": "Ganado",
       "State": "Arizona",
@@ -2250,7 +2252,7 @@
     },
     {
       "Location Number": "iatr",
-      "Location Name": "Ice Age National Scenic Trail",
+      "Name": "Ice Age National Scenic Trail",
       "Address": "National Park Service, 700 Rayovac Drive Suite 100",
       "City": "Madison",
       "State": "Wisconsin",
@@ -2263,7 +2265,7 @@
     },
     {
       "Location Number": "INDE",
-      "Location Name": "Independence National Historical Park",
+      "Name": "Independence National Historical Park",
       "Address": "Independence National Historical Park, 143 S. Third Street",
       "City": "Philadelphia",
       "State": "PA",
@@ -2276,7 +2278,7 @@
     },
     {
       "Location Number": "INDU",
-      "Location Name": "Indiana Dunes National Lakeshore",
+      "Name": "Indiana Dunes National Lakeshore",
       "Address": "1100 N. Mineral Springs Road",
       "City": "Porter",
       "State": "Indiana",
@@ -2289,7 +2291,7 @@
     },
     {
       "Location Number": "inup",
-      "Location Name": "Inupiat Heritage Center",
+      "Name": "Inupiat Heritage Center",
       "Address": "Inupiat Heritage Center, P.O.Box 69",
       "City": "Barrow",
       "State": "AK",
@@ -2302,7 +2304,7 @@
     },
     {
       "Location Number": "ISRO",
-      "Location Name": "Isle Royale National Park",
+      "Name": "Isle Royale National Park",
       "Address": "Isle Royale National Park, 800 East Lakeshore Drive",
       "City": "Houghton",
       "State": "Michigan",
@@ -2315,7 +2317,7 @@
     },
     {
       "Location Number": "JAGA",
-      "Location Name": "James A Garfield National Historic Site",
+      "Name": "James A Garfield National Historic Site",
       "Address": "James A. Garfield National Historic Site, 8095 Mentor Avenue",
       "City": "Mentor",
       "State": "Ohio",
@@ -2328,7 +2330,7 @@
     },
     {
       "Location Number": "JELA",
-      "Location Name": "Jean Lafitte National Historical Park and Preserve",
+      "Name": "Jean Lafitte National Historical Park and Preserve",
       "Address": "419 Decatur Street",
       "City": "New Orleans",
       "State": "LA",
@@ -2341,7 +2343,7 @@
     },
     {
       "Location Number": "JEFF",
-      "Location Name": "Jefferson National Expansion Memorial",
+      "Name": "Jefferson National Expansion Memorial",
       "Address": "Jefferson National Expansion Memorial, 11 N. 4th Street",
       "City": "St. Louis",
       "State": "MO",
@@ -2354,7 +2356,7 @@
     },
     {
       "Location Number": "JECA",
-      "Location Name": "Jewel Cave National Monument",
+      "Name": "Jewel Cave National Monument",
       "Address": "11149 U.S. Highway 16, Building B12",
       "City": "Custer",
       "State": "South Dakota",
@@ -2367,7 +2369,7 @@
     },
     {
       "Location Number": "jica",
-      "Location Name": "Jimmy Carter National Historic Site",
+      "Name": "Jimmy Carter National Historic Site",
       "Address": "Jimmy Carter National Historic Site, 300 North Bond Street",
       "City": "Plains",
       "State": "Georgia",
@@ -2380,7 +2382,7 @@
     },
     {
       "Location Number": "JODA",
-      "Location Name": "John Day Fossil Beds National Monument",
+      "Name": "John Day Fossil Beds National Monument",
       "Address": "32651 Highway 19,",
       "City": "Kimberly",
       "State": "OR",
@@ -2393,7 +2395,7 @@
     },
     {
       "Location Number": "JOFI",
-      "Location Name": "John Fitzgerald Kennedy National Historic Site",
+      "Name": "John Fitzgerald Kennedy National Historic Site",
       "Address": "John Fitzgerald Kennedy National Historic Site, 83 Beals Street",
       "City": "Brookline",
       "State": "Massachusetts",
@@ -2406,7 +2408,7 @@
     },
     {
       "Location Number": "jomu",
-      "Location Name": "John Muir National Historic Site",
+      "Name": "John Muir National Historic Site",
       "Address": "John Muir National Historic Site, 4202 Alhambra Ave.",
       "City": "Martinez",
       "State": "CA",
@@ -2419,7 +2421,7 @@
     },
     {
       "Location Number": "JOFL",
-      "Location Name": "Johnstown Flood National Memorial",
+      "Name": "Johnstown Flood National Memorial",
       "Address": "Johnstown Flood National Memorial, 733 Lake Road",
       "City": "South Fork",
       "State": "PA",
@@ -2432,7 +2434,7 @@
     },
     {
       "Location Number": "jotr",
-      "Location Name": "Joshua Tree National Park",
+      "Name": "Joshua Tree National Park",
       "Address": "Joshua Tree National Park, 74485 National Park Drive",
       "City": "Twentynine Palms",
       "State": "CA",
@@ -2445,7 +2447,7 @@
     },
     {
       "Location Number": "juba",
-      "Location Name": "Juan Bautista de Anza National Historic Trail",
+      "Name": "Juan Bautista de Anza National Historic Trail",
       "Address": "1111 Jackson St., Suite 700",
       "City": "Oakland",
       "State": "CA",
@@ -2458,7 +2460,7 @@
     },
     {
       "Location Number": "kala",
-      "Location Name": "Kalaupapa National Historical Park",
+      "Name": "Kalaupapa National Historical Park",
       "Address": "Superintendent, POB 2222",
       "City": "Kalaupapa",
       "State": "HI",
@@ -2471,7 +2473,7 @@
     },
     {
       "Location Number": "kaho",
-      "Location Name": "Kaloko-Honokohau National Historical Park",
+      "Name": "Kaloko-Honokohau National Historical Park",
       "Address": "Kaloko-Honokohau National Historical Park, 73-4786 Kanalani St., #14",
       "City": "Kailua-Kona",
       "State": "Hawaii",
@@ -2484,7 +2486,7 @@
     },
     {
       "Location Number": "katm",
-      "Location Name": "Katmai National Park & Preserve",
+      "Name": "Katmai National Park & Preserve",
       "Address": "P.O. Box 7",
       "City": "King Salmon",
       "State": "Alaska",
@@ -2497,7 +2499,7 @@
     },
     {
       "Location Number": "kefj",
-      "Location Name": "Kenai Fjords National Park",
+      "Name": "Kenai Fjords National Park",
       "Address": "Kenai Fjords National Park, P.O. Box 1727",
       "City": "Seward",
       "State": "Alaska",
@@ -2510,7 +2512,7 @@
     },
     {
       "Location Number": "kemo",
-      "Location Name": "Kennesaw Mountain National Battlefield Park",
+      "Name": "Kennesaw Mountain National Battlefield Park",
       "Address": "Ranger Activities, 900 Kennesaw Mountain Dr.",
       "City": "Kennesaw",
       "State": "GA",
@@ -2523,7 +2525,7 @@
     },
     {
       "Location Number": "KEWE",
-      "Location Name": "Keweenaw National Historical Park",
+      "Name": "Keweenaw National Historical Park",
       "Address": "25970 Red Jacket Road",
       "City": "Calumet",
       "State": "Michigan",
@@ -2536,7 +2538,7 @@
     },
     {
       "Location Number": "KIMO",
-      "Location Name": "Kings Mountain National Military Park",
+      "Name": "Kings Mountain National Military Park",
       "Address": "Superintendent, 2625 Park Rd",
       "City": "Blacksburg",
       "State": "SC",
@@ -2549,7 +2551,7 @@
     },
     {
       "Location Number": "klse",
-      "Location Name": "Klondike Gold Rush - Seattle Unit National Historical Park",
+      "Name": "Klondike Gold Rush - Seattle Unit National Historical Park",
       "Address": "319 Second Avenue South",
       "City": "Seattle",
       "State": "WA",
@@ -2562,7 +2564,7 @@
     },
     {
       "Location Number": "klgo",
-      "Location Name": "Klondike Gold Rush National Historical Park",
+      "Name": "Klondike Gold Rush National Historical Park",
       "Address": "P.O. Box 517",
       "City": "Skagway",
       "State": "AK",
@@ -2575,7 +2577,7 @@
     },
     {
       "Location Number": "KNRI",
-      "Location Name": "Knife River Indian Villages National Historic Site",
+      "Name": "Knife River Indian Villages National Historic Site",
       "Address": "P.O. Box 9, 564 County Road 37",
       "City": "Stanton",
       "State": "ND",
@@ -2588,7 +2590,7 @@
     },
     {
       "Location Number": "kova",
-      "Location Name": "Kobuk Valley National Park",
+      "Name": "Kobuk Valley National Park",
       "Address": "PO Box 1029",
       "City": "Kotzebue",
       "State": "AK",
@@ -2601,7 +2603,7 @@
     },
     {
       "Location Number": "lacl",
-      "Location Name": "Lake Clark National Park & Preserve",
+      "Name": "Lake Clark National Park & Preserve",
       "Address": "240 West 5th Avenue, Suite 236",
       "City": "Anchorage",
       "State": "AK",
@@ -2614,7 +2616,7 @@
     },
     {
       "Location Number": "lame",
-      "Location Name": "Lake Mead National Recreation Area",
+      "Name": "Lake Mead National Recreation Area",
       "Address": "601 Nevada Way",
       "City": "Boulder City",
       "State": "NV",
@@ -2627,7 +2629,7 @@
     },
     {
       "Location Number": "lavo",
-      "Location Name": "Lassen Volcanic National Park",
+      "Name": "Lassen Volcanic National Park",
       "Address": "Lassen Volcanic National Park, P.O. Box 100",
       "City": "Mineral",
       "State": "CA",
@@ -2640,7 +2642,7 @@
     },
     {
       "Location Number": "labe",
-      "Location Name": "Lava Beds National Monument",
+      "Name": "Lava Beds National Monument",
       "Address": "P.O. Box 1240",
       "City": "Tulelake",
       "State": "CA",
@@ -2653,7 +2655,7 @@
     },
     {
       "Location Number": "LECL",
-      "Location Name": "Lewis & Clark National Historic Trail",
+      "Name": "Lewis & Clark National Historic Trail",
       "Address": "601 Riverfront Drive",
       "City": "Omaha",
       "State": "Nebraska",
@@ -2666,7 +2668,7 @@
     },
     {
       "Location Number": "LEWI",
-      "Location Name": "Lewis and Clark National Historical Park",
+      "Name": "Lewis and Clark National Historical Park",
       "Address": "92343 Fort Clatsop Road",
       "City": "Astoria",
       "State": "OR",
@@ -2679,7 +2681,7 @@
     },
     {
       "Location Number": "LIBO",
-      "Location Name": "Lincoln Boyhood National Memorial",
+      "Name": "Lincoln Boyhood National Memorial",
       "Address": "2916 E South Street, PO Box 1816",
       "City": "Lincoln City",
       "State": "IN",
@@ -2692,7 +2694,7 @@
     },
     {
       "Location Number": "LIHO",
-      "Location Name": "Lincoln Home National Historic Site",
+      "Name": "Lincoln Home National Historic Site",
       "Address": "Lincoln Home NHS, 413 South Eighth Street",
       "City": "Springfield",
       "State": "Illinois",
@@ -2705,7 +2707,7 @@
     },
     {
       "Location Number": "LIBI",
-      "Location Name": "Little Bighorn Battlefield National Monument",
+      "Name": "Little Bighorn Battlefield National Monument",
       "Address": "Little Bighorn Battlefield National Monument, PO Box 39",
       "City": "Crow Agency",
       "State": "MT",
@@ -2718,7 +2720,7 @@
     },
     {
       "Location Number": "liri",
-      "Location Name": "Little River Canyon National Preserve",
+      "Name": "Little River Canyon National Preserve",
       "Address": "Little River Canyon National Preserve, 4322 Little River Trail NE,   Suite 100",
       "City": "Fort Payne",
       "State": "AL",
@@ -2731,7 +2733,7 @@
     },
     {
       "Location Number": "chsc",
-      "Location Name": "Little Rock Central High School National Historic Site",
+      "Name": "Little Rock Central High School National Historic Site",
       "Address": "2120 Daisy Bates Drive",
       "City": "Little Rock",
       "State": "AR",
@@ -2744,7 +2746,7 @@
     },
     {
       "Location Number": "LONG",
-      "Location Name": "Longfellow National Historic Site",
+      "Name": "Longfellow National Historic Site",
       "Address": "Longfellow House - Washington's Headquarters National Historic Site, 105 Brattle Street",
       "City": "Cambridge",
       "State": "MA",
@@ -2757,7 +2759,7 @@
     },
     {
       "Location Number": "LOWE",
-      "Location Name": "Lowell National Historical Park",
+      "Name": "Lowell National Historical Park",
       "Address": "Superintendent, 67 Kirk Street",
       "City": "Lowell",
       "State": "MA",
@@ -2770,7 +2772,7 @@
     },
     {
       "Location Number": "LOEA",
-      "Location Name": "Lower East Side Tenement Museum National Historic Site",
+      "Name": "Lower East Side Tenement Museum National Historic Site",
       "Address": "108 Orchard Street, Visitor Center",
       "City": "New York",
       "State": "NY",
@@ -2783,7 +2785,7 @@
     },
     {
       "Location Number": "LYJO",
-      "Location Name": "Lyndon B. Johnson National Historical Park",
+      "Name": "Lyndon B. Johnson National Historical Park",
       "Address": "Superintendent, P.O. Box 329",
       "City": "Johnson City",
       "State": "TX",
@@ -2796,7 +2798,7 @@
     },
     {
       "Location Number": "MAAC",
-      "Location Name": "Maine Acadian Culture",
+      "Name": "Maine Acadian Culture",
       "Address": "c/o Acadia National Park, P.O. Box 177",
       "City": "Bar Harbor",
       "State": "ME",
@@ -2809,7 +2811,7 @@
     },
     {
       "Location Number": "MACA",
-      "Location Name": "Mammoth Cave National Park",
+      "Name": "Mammoth Cave National Park",
       "Address": "Superintendent, 1 Mammoth Cave Parkway   P.O. Box 7",
       "City": "Mammoth Cave",
       "State": "KY",
@@ -2822,7 +2824,7 @@
     },
     {
       "Location Number": "MANA",
-      "Location Name": "Manassas National Battlefield Park",
+      "Name": "Manassas National Battlefield Park",
       "Address": "Manassas National Battlefield, 12521 Lee Highway",
       "City": "Manassas",
       "State": "Virginia",
@@ -2835,7 +2837,7 @@
     },
     {
       "Location Number": "manz",
-      "Location Name": "Manzanar National Historic Site",
+      "Name": "Manzanar National Historic Site",
       "Address": "Manzanar National Historic Site, P.O. Box 426",
       "City": "Independence",
       "State": "CA",
@@ -2848,7 +2850,7 @@
     },
     {
       "Location Number": "MABI",
-      "Location Name": "Marsh-Billings-Rockefeller National Historical Park",
+      "Name": "Marsh-Billings-Rockefeller National Historical Park",
       "Address": "Marsh-Billings-Rockefeller National Historical Park, 54 Elm Street",
       "City": "Woodstock",
       "State": "VT",
@@ -2861,7 +2863,7 @@
     },
     {
       "Location Number": "malu",
-      "Location Name": "Martin Luther King Jr National Historic Site",
+      "Name": "Martin Luther King Jr National Historic Site",
       "Address": "Superintendent, 450 Auburn Avenue, NE",
       "City": "Atlanta",
       "State": "Georgia",
@@ -2874,7 +2876,7 @@
     },
     {
       "Location Number": "MAVA",
-      "Location Name": "Martin Van Buren National Historic Site",
+      "Name": "Martin Van Buren National Historic Site",
       "Address": "1013 Old Post Road",
       "City": "Kinderhook",
       "State": "New York",
@@ -2887,7 +2889,7 @@
     },
     {
       "Location Number": "meve",
-      "Location Name": "Mesa Verde National Park",
+      "Name": "Mesa Verde National Park",
       "Address": "Mesa Verde National Park, P.O. Box 8",
       "City": "Mesa Verde",
       "State": "Colorado",
@@ -2900,7 +2902,7 @@
     },
     {
       "Location Number": "MIIN",
-      "Location Name": "Minidoka National Historic Site",
+      "Name": "Minidoka National Historic Site",
       "Address": "P.O. Box 570",
       "City": "Hagerman",
       "State": "ID",
@@ -2913,7 +2915,7 @@
     },
     {
       "Location Number": "MIMA",
-      "Location Name": "Minute Man National Historical Park",
+      "Name": "Minute Man National Historical Park",
       "Address": "Minute Man National Historical Park, 174 Liberty St.",
       "City": "Concord",
       "State": "MA",
@@ -2926,7 +2928,7 @@
     },
     {
       "Location Number": "MIMI",
-      "Location Name": "Minuteman Missile National Historic Site",
+      "Name": "Minuteman Missile National Historic Site",
       "Address": "21280 SD Hwy 240",
       "City": "Philip",
       "State": "SD",
@@ -2939,7 +2941,7 @@
     },
     {
       "Location Number": "MISS",
-      "Location Name": "Mississippi National River and Recreation Area",
+      "Name": "Mississippi National River and Recreation Area",
       "Address": "111 East Kellogg Blvd., Suite 105",
       "City": "Saint Paul",
       "State": "MN",
@@ -2952,7 +2954,7 @@
     },
     {
       "Location Number": "MNRR",
-      "Location Name": "Missouri National Recreational River",
+      "Name": "Missouri National Recreational River",
       "Address": "Missouri National Recreational River, 508 E. 2nd Street",
       "City": "Yankton",
       "State": "SD",
@@ -2965,7 +2967,7 @@
     },
     {
       "Location Number": "moja",
-      "Location Name": "Mojave National Preserve",
+      "Name": "Mojave National Preserve",
       "Address": "Mojave National Preserve, 2701 Barstow Road",
       "City": "Barstow",
       "State": "California",
@@ -2978,7 +2980,7 @@
     },
     {
       "Location Number": "MONO",
-      "Location Name": "Monocacy National Battlefield",
+      "Name": "Monocacy National Battlefield",
       "Address": "4801 Urbana Pike",
       "City": "Frederick",
       "State": "Maryland",
@@ -2991,7 +2993,7 @@
     },
     {
       "Location Number": "moca",
-      "Location Name": "Montezuma Castle National Monument",
+      "Name": "Montezuma Castle National Monument",
       "Address": "Montezuma Castle National Monument, P. O. Box 219",
       "City": "Camp Verde",
       "State": "Arizona",
@@ -3004,7 +3006,7 @@
     },
     {
       "Location Number": "MOCR",
-      "Location Name": "Moores Creek National Battlefield",
+      "Name": "Moores Creek National Battlefield",
       "Address": "40 Patriots Hall Drive",
       "City": "Currie",
       "State": "North Carolina",
@@ -3017,7 +3019,7 @@
     },
     {
       "Location Number": "MOPI",
-      "Location Name": "Mormon Pioneer National Historic Trail",
+      "Name": "Mormon Pioneer National Historic Trail",
       "Address": "National Trails Intermountain Region, 324 South State St., Suite 200",
       "City": "Salt Lake City",
       "State": "UT",
@@ -3030,7 +3032,7 @@
     },
     {
       "Location Number": "MORR",
-      "Location Name": "Morristown National Historical Park",
+      "Name": "Morristown National Historical Park",
       "Address": "Morristown National Historical Park, 30 Washington Place",
       "City": "Morristown",
       "State": "New Jersey",
@@ -3043,7 +3045,7 @@
     },
     {
       "Location Number": "MORA",
-      "Location Name": "Mount Rainier National Park",
+      "Name": "Mount Rainier National Park",
       "Address": "Mount Rainier National Park, 55210 238th Ave. East",
       "City": "Ashford",
       "State": "WA",
@@ -3056,7 +3058,7 @@
     },
     {
       "Location Number": "MORU",
-      "Location Name": "Mount Rushmore National Memorial",
+      "Name": "Mount Rushmore National Memorial",
       "Address": "Mount Rushmore National Memorial, 13000 Hwy 244 Bldg 31 Suite 1",
       "City": "Keystone",
       "State": "SD",
@@ -3069,7 +3071,7 @@
     },
     {
       "Location Number": "muwo",
-      "Location Name": "Muir Woods National Monument",
+      "Name": "Muir Woods National Monument",
       "Address": "Muir Woods National Monument",
       "City": "Mill Valley",
       "State": "California",
@@ -3082,7 +3084,7 @@
     },
     {
       "Location Number": "NATT",
-      "Location Name": "Natchez Trace National Scenic Trail",
+      "Name": "Natchez Trace National Scenic Trail",
       "Address": "Natchez Trace National Scenic Trail, 2680 Natchez Trace Parkway",
       "City": "Tupelo",
       "State": "MS",
@@ -3095,7 +3097,7 @@
     },
     {
       "Location Number": "natr",
-      "Location Name": "Natchez Trace Parkway",
+      "Name": "Natchez Trace Parkway",
       "Address": "Natchez Trace Parkway, 2680 Natchez Trace Parkway",
       "City": "Tupelo",
       "State": "MS",
@@ -3108,7 +3110,7 @@
     },
     {
       "Location Number": "NACE",
-      "Location Name": "National Capital Parks-East",
+      "Name": "National Capital Parks-East",
       "Address": "1900 Anacostia Dr., SE",
       "City": "Washington",
       "State": "DC",
@@ -3121,7 +3123,7 @@
     },
     {
       "Location Number": "npsa",
-      "Location Name": "National Park of American Samoa",
+      "Name": "National Park of American Samoa",
       "Address": "Superintendent, National Park of American Samoa",
       "City": "Pago Pago",
       "State": "AS",
@@ -3134,7 +3136,7 @@
     },
     {
       "Location Number": "NPNH",
-      "Location Name": "National Parks of New York Harbor",
+      "Name": "National Parks of New York Harbor",
       "Address": "National Parks of New York Harbor, Federal Hall National Memorial 26 Wall Street",
       "City": "New York",
       "State": "New York",
@@ -3147,7 +3149,7 @@
     },
     {
       "Location Number": "NABR",
-      "Location Name": "Natural Bridges National Monument",
+      "Name": "Natural Bridges National Monument",
       "Address": "Natural Bridges, HC-60 Box 1",
       "City": "Lake Powell",
       "State": "Utah",
@@ -3160,7 +3162,7 @@
     },
     {
       "Location Number": "nava",
-      "Location Name": "Navajo National Monument",
+      "Name": "Navajo National Monument",
       "Address": "Superintendent, Navajo National Monument, HC 71 Box 3",
       "City": "Tonalea",
       "State": "AZ",
@@ -3173,7 +3175,7 @@
     },
     {
       "Location Number": "NEBE",
-      "Location Name": "New Bedford Whaling National Historical Park",
+      "Name": "New Bedford Whaling National Historical Park",
       "Address": "New Bedford Whaling NHP, 33 William Street",
       "City": "New Bedford",
       "State": "MA",
@@ -3186,7 +3188,7 @@
     },
     {
       "Location Number": "JAZZ",
-      "Location Name": "New Orleans Jazz National Historical Park",
+      "Name": "New Orleans Jazz National Historical Park",
       "Address": "419 Decatur Street",
       "City": "New Orleans",
       "State": "LA",
@@ -3199,7 +3201,7 @@
     },
     {
       "Location Number": "NERI",
-      "Location Name": "New River Gorge National River",
+      "Name": "New River Gorge National River",
       "Address": "P.O. Box 246",
       "City": "Glen Jean",
       "State": "WV",
@@ -3212,7 +3214,7 @@
     },
     {
       "Location Number": "NEPE",
-      "Location Name": "Nez Perce National Historical Park",
+      "Name": "Nez Perce National Historical Park",
       "Address": "Nez Perce NHP, PO Box 1000",
       "City": "Lapwai",
       "State": "ID",
@@ -3225,7 +3227,7 @@
     },
     {
       "Location Number": "NICO",
-      "Location Name": "Nicodemus National Historic Site",
+      "Name": "Nicodemus National Historic Site",
       "Address": "Nicodemus National Historic Site, 304 Washington Avenue",
       "City": "Nicodemus",
       "State": "KS",
@@ -3238,7 +3240,7 @@
     },
     {
       "Location Number": "NISI",
-      "Location Name": "Ninety Six National Historic Site",
+      "Name": "Ninety Six National Historic Site",
       "Address": "Ninety Six National Historic Site, PO Box 418",
       "City": "Ninety Six",
       "State": "SC",
@@ -3251,7 +3253,7 @@
     },
     {
       "Location Number": "NIOB",
-      "Location Name": "Niobrara National Scenic River",
+      "Name": "Niobrara National Scenic River",
       "Address": "Niobrara National Scenic River, P.O. Box 319",
       "City": "Valentine",
       "State": "NE",
@@ -3264,7 +3266,7 @@
     },
     {
       "Location Number": "noat",
-      "Location Name": "Noatak National Preserve",
+      "Name": "Noatak National Preserve",
       "Address": "National Park Service, P.O. Box 1029",
       "City": "Kotzebue",
       "State": "AK",
@@ -3277,7 +3279,7 @@
     },
     {
       "Location Number": "lach",
-      "Location Name": "North Cascades National Park Service Complex",
+      "Name": "North Cascades National Park Service Complex",
       "Address": "North Cascades National Park Complex, 810 State Route 20",
       "City": "Sedro-Woolley",
       "State": "WA",
@@ -3290,7 +3292,7 @@
     },
     {
       "Location Number": "NOCO",
-      "Location Name": "North Country National Scenic Trail",
+      "Name": "North Country National Scenic Trail",
       "Address": "700 Rayovac Dr. Suite 100",
       "City": "Madison",
       "State": "Wisconsin",
@@ -3303,7 +3305,7 @@
     },
     {
       "Location Number": "NORG",
-      "Location Name": "Northern Rio Grande National Heritage Area",
+      "Name": "Northern Rio Grande National Heritage Area",
       "Address": "PO BOX 610",
       "City": "Espa&ntilde;ola",
       "State": "NM",
@@ -3316,7 +3318,7 @@
     },
     {
       "Location Number": "OBED",
-      "Location Name": "Obed Wild & Scenic River",
+      "Name": "Obed Wild & Scenic River",
       "Address": "Obed Wild and Scenic River, P.O. Box 429",
       "City": "Wartburg",
       "State": "TN",
@@ -3329,7 +3331,7 @@
     },
     {
       "Location Number": "ocmu",
-      "Location Name": "Ocmulgee National Monument",
+      "Name": "Ocmulgee National Monument",
       "Address": "Ocmulgee National Monument, 1207 Emery Highway",
       "City": "Macon",
       "State": "GA",
@@ -3342,7 +3344,7 @@
     },
     {
       "Location Number": "OKCI",
-      "Location Name": "Oklahoma City National Memorial",
+      "Name": "Oklahoma City National Memorial",
       "Address": "PO Box 676",
       "City": "Oklahoma City",
       "State": "OK",
@@ -3355,7 +3357,7 @@
     },
     {
       "Location Number": "olsp",
-      "Location Name": "Old Spanish National Historic Trail",
+      "Name": "Old Spanish National Historic Trail",
       "Address": "National Trails Intermountain Region, PO Box 728",
       "City": "Santa Fe",
       "State": "New Mexico",
@@ -3368,7 +3370,7 @@
     },
     {
       "Location Number": "OREG",
-      "Location Name": "Oregon National Historic Trail",
+      "Name": "Oregon National Historic Trail",
       "Address": "National Park Service, 324 S. State St., Suite 200",
       "City": "Salt Lake City",
       "State": "UT",
@@ -3381,7 +3383,7 @@
     },
     {
       "Location Number": "orpi",
-      "Location Name": "Organ Pipe Cactus National Monument",
+      "Name": "Organ Pipe Cactus National Monument",
       "Address": "Organ Pipe Cactus National Monument, 10 Organ Pipe Drive",
       "City": "Ajo",
       "State": "AZ",
@@ -3394,7 +3396,7 @@
     },
     {
       "Location Number": "OVVI",
-      "Location Name": "Overmountain Victory National Historic Trail",
+      "Name": "Overmountain Victory National Historic Trail",
       "Address": "Superintendent, 2635 Park Road",
       "City": "Blacksburg",
       "State": "SC",
@@ -3407,7 +3409,7 @@
     },
     {
       "Location Number": "OXHI",
-      "Location Name": "Oxon Cove Park & Oxon Hill Farm",
+      "Name": "Oxon Cove Park & Oxon Hill Farm",
       "Address": "1900 Anacostia Dr. S.W.",
       "City": "Washington",
       "State": "DC",
@@ -3420,7 +3422,7 @@
     },
     {
       "Location Number": "OZAR",
-      "Location Name": "Ozark National Scenic Riverways",
+      "Name": "Ozark National Scenic Riverways",
       "Address": "Ozark National Scenic Riverways, P.O. Box 490",
       "City": "Van Buren",
       "State": "MO",
@@ -3433,7 +3435,7 @@
     },
     {
       "Location Number": "PAIS",
-      "Location Name": "Padre Island National Seashore",
+      "Name": "Padre Island National Seashore",
       "Address": "Malaquite Visitor Center, PO Box 181300",
       "City": "Corpus Christi",
       "State": "TX",
@@ -3446,7 +3448,7 @@
     },
     {
       "Location Number": "PAAL",
-      "Location Name": "Palo Alto Battlefield National Historical Park",
+      "Name": "Palo Alto Battlefield National Historical Park",
       "Address": "1623 Central Boulevard, Suite 213",
       "City": "Brownsville",
       "State": "Texas",
@@ -3459,7 +3461,7 @@
     },
     {
       "Location Number": "usar",
-      "Location Name": "Park News",
+      "Name": "Park News",
       "Address": "Superintendent, 1 Arizona Memorial Place",
       "City": "Honolulu",
       "State": "Hawaii",
@@ -3472,7 +3474,7 @@
     },
     {
       "Location Number": "peri",
-      "Location Name": "Pea Ridge National Military Park",
+      "Name": "Pea Ridge National Military Park",
       "Address": "Pea Ridge NMP, 15930 E Highway 62",
       "City": "Garfield",
       "State": "AR",
@@ -3485,7 +3487,7 @@
     },
     {
       "Location Number": "PECO",
-      "Location Name": "Pecos National Historical Park",
+      "Name": "Pecos National Historical Park",
       "Address": "Superintendent, Pecos National Historical Park PO Box 418",
       "City": "Pecos",
       "State": "New Mexico",
@@ -3498,7 +3500,7 @@
     },
     {
       "Location Number": "PEVI",
-      "Location Name": "Perrys Victory and International Peace Memorial",
+      "Name": "Perrys Victory and International Peace Memorial",
       "Address": "Perry's Victory and International Peace Memorial, Post Office Box 549",
       "City": "Put-in-Bay",
       "State": "Ohio",
@@ -3511,7 +3513,7 @@
     },
     {
       "Location Number": "pefo",
-      "Location Name": "Petrified Forest National Park",
+      "Name": "Petrified Forest National Park",
       "Address": "Superintendent, Petrified Forest National Park, PO Box 2217",
       "City": "Petrified Forest",
       "State": "AZ",
@@ -3524,7 +3526,7 @@
     },
     {
       "Location Number": "PETR",
-      "Location Name": "Petroglyph National Monument",
+      "Name": "Petroglyph National Monument",
       "Address": "Petroglyph National Monument, 6001 Unser Blvd, NW",
       "City": "Albuquerque",
       "State": "New Mexico",
@@ -3537,7 +3539,7 @@
     },
     {
       "Location Number": "PIRO",
-      "Location Name": "Pictured Rocks National Lakeshore",
+      "Name": "Pictured Rocks National Lakeshore",
       "Address": "Pictured Rocks National Lakeshore, P.O. Box 40",
       "City": "Munising",
       "State": "Michigan",
@@ -3550,7 +3552,7 @@
     },
     {
       "Location Number": "PINE",
-      "Location Name": "Pinelands National Reserve",
+      "Name": "Pinelands National Reserve",
       "Address": "New Jersey Pinelands Commission, 15 Springfield Rd (P.O. Box 7)",
       "City": "New Lisbon",
       "State": "NJ",
@@ -3563,7 +3565,7 @@
     },
     {
       "Location Number": "pinn",
-      "Location Name": "Pinnacles National Monument",
+      "Name": "Pinnacles National Monument",
       "Address": "Pinnacles National Monument, 5000 Highway 146",
       "City": "Paicines",
       "State": "CA",
@@ -3576,7 +3578,7 @@
     },
     {
       "Location Number": "pisp",
-      "Location Name": "Pipe Spring National Monument",
+      "Name": "Pipe Spring National Monument",
       "Address": "Pipe Spring National Monument, HC 65 Box 5",
       "City": "Fredonia",
       "State": "Arizona",
@@ -3589,7 +3591,7 @@
     },
     {
       "Location Number": "pore",
-      "Location Name": "Point Reyes National Seashore",
+      "Name": "Point Reyes National Seashore",
       "Address": "Point Reyes National Seashore, 1 Bear Valley Rd.",
       "City": "Point Reyes Station",
       "State": "CA",
@@ -3602,7 +3604,7 @@
     },
     {
       "Location Number": "poex",
-      "Location Name": "Pony Express National Historic Trail",
+      "Name": "Pony Express National Historic Trail",
       "Address": "National Park Service, 324 S. State St., Suite 200",
       "City": "Salt Lake City",
       "State": "UT",
@@ -3615,7 +3617,7 @@
     },
     {
       "Location Number": "poch",
-      "Location Name": "Port Chicago Naval Magazine National Memorial",
+      "Name": "Port Chicago Naval Magazine National Memorial",
       "Address": "Port Chicago Naval Magazine NM, 4202 Alhambra Ave.",
       "City": "Martinez",
       "State": "CA",
@@ -3628,7 +3630,7 @@
     },
     {
       "Location Number": "POHE",
-      "Location Name": "Potomac Heritage National Scenic Trail",
+      "Name": "Potomac Heritage National Scenic Trail",
       "Address": "Potomac Heritage National Scenic Trail Office, Post Office Box B",
       "City": "Harpers Ferry",
       "State": "WV",
@@ -3641,7 +3643,7 @@
     },
     {
       "Location Number": "POPO",
-      "Location Name": "Poverty Point National Monument",
+      "Name": "Poverty Point National Monument",
       "Address": "Poverty Point State Historic Site, P.O. Box 276",
       "City": "Epps",
       "State": "LA",
@@ -3654,7 +3656,7 @@
     },
     {
       "Location Number": "puho",
-      "Location Name": "Pu`uhonua o Honaunau National Historical Park",
+      "Name": "Pu`uhonua o Honaunau National Historical Park",
       "Address": "PuÔuhonua o Honaunau National Historical Park",
       "City": "Captain Cook",
       "State": "HI",
@@ -3667,7 +3669,7 @@
     },
     {
       "Location Number": "puhe",
-      "Location Name": "Pu'ukohola Heiau National Historic Site",
+      "Name": "Pu'ukohola Heiau National Historic Site",
       "Address": "Superintendent, 62-3601 Kawaihae Road",
       "City": "Kawaihae",
       "State": "HI",
@@ -3680,7 +3682,7 @@
     },
     {
       "Location Number": "RABR",
-      "Location Name": "Rainbow Bridge National Monument",
+      "Name": "Rainbow Bridge National Monument",
       "Address": "Rainbow Bridge NM, PO Box 1507",
       "City": "Page",
       "State": "Arizona",
@@ -3693,7 +3695,7 @@
     },
     {
       "Location Number": "redw",
-      "Location Name": "Redwood National and State Parks",
+      "Name": "Redwood National and State Parks",
       "Address": "Redwood National & State Parks, 1111 Second Street",
       "City": "Crescent City",
       "State": "California",
@@ -3706,7 +3708,7 @@
     },
     {
       "Location Number": "rigr",
-      "Location Name": "Rio Grande Wild & Scenic River",
+      "Name": "Rio Grande Wild & Scenic River",
       "Address": "Rio Grande Wild & Scenic River c/o Big Bend National Park, PO Box 129",
       "City": "Big Bend National Park",
       "State": "TX",
@@ -3719,7 +3721,7 @@
     },
     {
       "Location Number": "romo",
-      "Location Name": "Rocky Mountain National Park",
+      "Name": "Rocky Mountain National Park",
       "Address": "Rocky Mountain National Park, 1000 Highway 36",
       "City": "Estes Park",
       "State": "Colorado",
@@ -3732,7 +3734,7 @@
     },
     {
       "Location Number": "ROWI",
-      "Location Name": "Roger Williams National Memorial",
+      "Name": "Roger Williams National Memorial",
       "Address": "Roger Williams National Memorial, 282 North Main Street",
       "City": "Providence",
       "State": "RI",
@@ -3745,7 +3747,7 @@
     },
     {
       "Location Number": "ROCA",
-      "Location Name": "Roosevelt Campobello International Park",
+      "Name": "Roosevelt Campobello International Park",
       "Address": "Executive Secretary, P.O. Box 97",
       "City": "Lubec",
       "State": "Maine",
@@ -3758,7 +3760,7 @@
     },
     {
       "Location Number": "rori",
-      "Location Name": "Rosie the Riveter / WWII Home Front National Historical Park",
+      "Name": "Rosie the Riveter / WWII Home Front National Historical Park",
       "Address": "PO Box 336, Station A",
       "City": "Richmond",
       "State": "CA",
@@ -3771,7 +3773,7 @@
     },
     {
       "Location Number": "ruca",
-      "Location Name": "Russell Cave National Monument",
+      "Name": "Russell Cave National Monument",
       "Address": "Russell Cave National Monument, 3729 County Road 98",
       "City": "Bridgeport",
       "State": "Alabama",
@@ -3784,7 +3786,7 @@
     },
     {
       "Location Number": "SAHI",
-      "Location Name": "Sagamore Hill American National Historic Site",
+      "Name": "Sagamore Hill American National Historic Site",
       "Address": "20 Sagamore Hill Road",
       "City": "Oyster Bay",
       "State": "New York",
@@ -3797,7 +3799,7 @@
     },
     {
       "Location Number": "sagu",
-      "Location Name": "Saguaro National Park",
+      "Name": "Saguaro National Park",
       "Address": "Saguaro National Park, 3693 South Old Spanish Trail",
       "City": "Tucson",
       "State": "Arizona",
@@ -3810,7 +3812,7 @@
     },
     {
       "Location Number": "SACR",
-      "Location Name": "Saint Croix Island International Historic Site",
+      "Name": "Saint Croix Island International Historic Site",
       "Address": "c/o Acadia National Park, P.O. Box 177",
       "City": "Bar Harbor",
       "State": "ME",
@@ -3823,7 +3825,7 @@
     },
     {
       "Location Number": "sacn",
-      "Location Name": "Saint Croix National Scenic Riverway",
+      "Name": "Saint Croix National Scenic Riverway",
       "Address": "401 North Hamilton Street",
       "City": "Saint Croix Falls",
       "State": "Wisconsin",
@@ -3836,7 +3838,7 @@
     },
     {
       "Location Number": "SAPA",
-      "Location Name": "Saint Paul's Church National Historic Site",
+      "Name": "Saint Paul's Church National Historic Site",
       "Address": "St. Paul's Church National Historic Site, 897 South Columbus Ave.",
       "City": "Mount Vernon",
       "State": "NY",
@@ -3849,7 +3851,7 @@
     },
     {
       "Location Number": "SAGA",
-      "Location Name": "Saint-Gaudens National Historic Site",
+      "Name": "Saint-Gaudens National Historic Site",
       "Address": "139 Saint-Gaudens Road",
       "City": "Cornish",
       "State": "NH",
@@ -3862,7 +3864,7 @@
     },
     {
       "Location Number": "SAMA",
-      "Location Name": "Salem Maritime National Historic Site",
+      "Name": "Salem Maritime National Historic Site",
       "Address": "Salem Maritime National Historic Site, 160 Derby Street",
       "City": "Salem",
       "State": "MA",
@@ -3875,7 +3877,7 @@
     },
     {
       "Location Number": "SAPU",
-      "Location Name": "Salinas Pueblo Missions National Monument",
+      "Name": "Salinas Pueblo Missions National Monument",
       "Address": "P.O. Box 517",
       "City": "Mountainair",
       "State": "New Mexico",
@@ -3888,7 +3890,7 @@
     },
     {
       "Location Number": "saan",
-      "Location Name": "San Antonio Missions National Historical Park",
+      "Name": "San Antonio Missions National Historical Park",
       "Address": "San Antonio Missions National Historical Park, 2202 Roosevelt Avenue",
       "City": "San Antonio",
       "State": "Texas",
@@ -3901,7 +3903,7 @@
     },
     {
       "Location Number": "safr",
-      "Location Name": "San Francisco Maritime National Historical Park",
+      "Name": "San Francisco Maritime National Historical Park",
       "Address": "San Francisco Maritime NHP, Fort Mason Center, Building E",
       "City": "San Francisco",
       "State": "CA",
@@ -3914,7 +3916,7 @@
     },
     {
       "Location Number": "SAJU",
-      "Location Name": "San Juan National Historic Site",
+      "Name": "San Juan National Historic Site",
       "Address": "San Juan NHS, 501 Calle Norzagaray",
       "City": "San Juan",
       "State": "Puerto Rico",
@@ -3927,7 +3929,7 @@
     },
     {
       "Location Number": "sand",
-      "Location Name": "Sand Creek Massacre National Historic Site",
+      "Name": "Sand Creek Massacre National Historic Site",
       "Address": "PO Box 249, 910 Wansted",
       "City": "Eads",
       "State": "CO",
@@ -3940,7 +3942,7 @@
     },
     {
       "Location Number": "safe",
-      "Location Name": "Santa Fe National Historic Trail",
+      "Name": "Santa Fe National Historic Trail",
       "Address": "National Trails Intermountain Region, PO Box 728",
       "City": "Santa Fe",
       "State": "New Mexico",
@@ -3953,7 +3955,7 @@
     },
     {
       "Location Number": "samo",
-      "Location Name": "Santa Monica Mountains National Recreation Area",
+      "Name": "Santa Monica Mountains National Recreation Area",
       "Address": "401 West Hillcrest Drive",
       "City": "Thousand Oaks",
       "State": "CA",
@@ -3966,7 +3968,7 @@
     },
     {
       "Location Number": "SARA",
-      "Location Name": "Saratoga National Historical Park",
+      "Name": "Saratoga National Historical Park",
       "Address": "648 Route 32",
       "City": "Stillwater",
       "State": "NY",
@@ -3979,7 +3981,7 @@
     },
     {
       "Location Number": "SAIR",
-      "Location Name": "Saugus Iron Works National Historic Site",
+      "Name": "Saugus Iron Works National Historic Site",
       "Address": "244 Central Street",
       "City": "Saugus",
       "State": "MA",
@@ -3992,7 +3994,7 @@
     },
     {
       "Location Number": "SCBL",
-      "Location Name": "Scotts Bluff National Monument",
+      "Name": "Scotts Bluff National Monument",
       "Address": "P.O. Box 27",
       "City": "Gering",
       "State": "Nebraska",
@@ -4005,7 +4007,7 @@
     },
     {
       "Location Number": "semo",
-      "Location Name": "Selma To Montgomery National Historic Trail",
+      "Name": "Selma To Montgomery National Historic Trail",
       "Address": "7002 US Highway 80, P.O. Box 595",
       "City": "Hayneville",
       "State": "AL",
@@ -4018,7 +4020,7 @@
     },
     {
       "Location Number": "seki",
-      "Location Name": "Sequoia & Kings Canyon National Park",
+      "Name": "Sequoia & Kings Canyon National Park",
       "Address": "Sequoia & Kings Canyon National Parks, 47050 Generals Highway",
       "City": "Three Rivers",
       "State": "CA",
@@ -4031,7 +4033,7 @@
     },
     {
       "Location Number": "SHIL",
-      "Location Name": "Shiloh National Military Park",
+      "Name": "Shiloh National Military Park",
       "Address": "Shiloh National Military Park, 1055 Pittsburg Landing Road",
       "City": "Shiloh",
       "State": "Tennessee",
@@ -4044,7 +4046,7 @@
     },
     {
       "Location Number": "sitk",
-      "Location Name": "Sitka National Historical Park",
+      "Name": "Sitka National Historical Park",
       "Address": "Sitka National Historical Park, 103 Monastery Street",
       "City": "Sitka",
       "State": "Alaska",
@@ -4057,7 +4059,7 @@
     },
     {
       "Location Number": "SLBE",
-      "Location Name": "Sleeping Bear Dunes National Lakeshore",
+      "Name": "Sleeping Bear Dunes National Lakeshore",
       "Address": "Sleeping Bear Dunes National Lakeshore, 9922 Front Street",
       "City": "Empire",
       "State": "MI",
@@ -4070,7 +4072,7 @@
     },
     {
       "Location Number": "SPAR",
-      "Location Name": "Springfield Armory National Historic Site",
+      "Name": "Springfield Armory National Historic Site",
       "Address": "Springfield Armory NHS, One Armory Square, Suite 2",
       "City": "Springfield",
       "State": "Massachusetts",
@@ -4083,7 +4085,7 @@
     },
     {
       "Location Number": "STSP",
-      "Location Name": "Star-Spangled Banner National Historic Trail",
+      "Name": "Star-Spangled Banner National Historic Trail",
       "Address": "National Park Service, 410 Severn Avenue, Suite 314",
       "City": "Annapolis",
       "State": "MD",
@@ -4096,7 +4098,7 @@
     },
     {
       "Location Number": "STLI",
-      "Location Name": "Statue of Liberty National Monument",
+      "Name": "Statue of Liberty National Monument",
       "Address": "National Park Service, Statue of Liberty National Monument, Liberty Island",
       "City": "New York",
       "State": "NY",
@@ -4109,7 +4111,7 @@
     },
     {
       "Location Number": "STEA",
-      "Location Name": "Steamtown National Historic Site",
+      "Name": "Steamtown National Historic Site",
       "Address": "Click the Contact Us link to your left, 150 South Washington Ave",
       "City": "Scranton",
       "State": "PA",
@@ -4122,7 +4124,7 @@
     },
     {
       "Location Number": "STRI",
-      "Location Name": "Stones River National Battlefield",
+      "Name": "Stones River National Battlefield",
       "Address": "3501 Old Nashville Highway",
       "City": "Murfreesboro",
       "State": "TN",
@@ -4135,7 +4137,7 @@
     },
     {
       "Location Number": "sucr",
-      "Location Name": "Sunset Crater Volcano National Monument",
+      "Name": "Sunset Crater Volcano National Monument",
       "Address": "Superintendent, Flagstaff Area National Monuments, 6400 N. Hwy 89",
       "City": "Flagstaff",
       "State": "AZ",
@@ -4148,7 +4150,7 @@
     },
     {
       "Location Number": "TAPR",
-      "Location Name": "Tallgrass Prairie National Preserve",
+      "Name": "Tallgrass Prairie National Preserve",
       "Address": "Tallgrass Prairie National Preserve, P.O. Box 585",
       "City": "Cottonwood Falls",
       "State": "KS",
@@ -4161,7 +4163,7 @@
     },
     {
       "Location Number": "THKO",
-      "Location Name": "Thaddeus Kosciuszko National Memorial",
+      "Name": "Thaddeus Kosciuszko National Memorial",
       "Address": "INHP, 143 S. Third Street",
       "City": "Philadelphia",
       "State": "Pennsylvania",
@@ -4174,7 +4176,7 @@
     },
     {
       "Location Number": "THRB",
-      "Location Name": "Theodore Roosevelt Birthplace National Historic Site",
+      "Name": "Theodore Roosevelt Birthplace National Historic Site",
       "Address": "Theodore Roosevelt Birthplace NHS, 28 East 20th Street",
       "City": "New York",
       "State": "NY",
@@ -4187,7 +4189,7 @@
     },
     {
       "Location Number": "THRI",
-      "Location Name": "Theodore Roosevelt Inaugural National Historic Site",
+      "Name": "Theodore Roosevelt Inaugural National Historic Site",
       "Address": "Theodore Roosevelt Inaugural National Historic SIte, 641 Delaware Avenue",
       "City": "Buffalo",
       "State": "NY",
@@ -4200,7 +4202,7 @@
     },
     {
       "Location Number": "THCO",
-      "Location Name": "Thomas Cole National Historic Site",
+      "Name": "Thomas Cole National Historic Site",
       "Address": "Thomas Cole NHS/Cedar Grove, PO Box 426, 218 Spring St",
       "City": "Catskill",
       "State": "NY",
@@ -4213,7 +4215,7 @@
     },
     {
       "Location Number": "EDIS",
-      "Location Name": "Thomas Edison National Historical Park",
+      "Name": "Thomas Edison National Historical Park",
       "Address": "Thomas Edison National Historical Park, 211 Main Street",
       "City": "West Orange",
       "State": "New Jersey",
@@ -4226,7 +4228,7 @@
     },
     {
       "Location Number": "THST",
-      "Location Name": "Thomas Stone National Historic Site",
+      "Name": "Thomas Stone National Historic Site",
       "Address": "6655 Rose Hill Rd",
       "City": "Port Tobacco",
       "State": "MD",
@@ -4239,7 +4241,7 @@
     },
     {
       "Location Number": "TICA",
-      "Location Name": "Timpanogos Cave National Monument",
+      "Name": "Timpanogos Cave National Monument",
       "Address": "R.R. 3 Box 200",
       "City": "American Fork",
       "State": "Utah",
@@ -4252,7 +4254,7 @@
     },
     {
       "Location Number": "foca",
-      "Location Name": "Timucuan Ecological and Historic Preserve & Fort Caroline National Memorial",
+      "Name": "Timucuan Ecological and Historic Preserve & Fort Caroline National Memorial",
       "Address": "12713 Fort Caroline Road",
       "City": "Jacksonville",
       "State": "Florida",
@@ -4265,7 +4267,7 @@
     },
     {
       "Location Number": "tont",
-      "Location Name": "Tonto National Monument",
+      "Name": "Tonto National Monument",
       "Address": "Tonto National Monument, 26260 N Az Hwy 188 # 2",
       "City": "Roosevelt",
       "State": "AZ",
@@ -4278,7 +4280,7 @@
     },
     {
       "Location Number": "TOSY",
-      "Location Name": "Touro Synagogue National Historic Site",
+      "Name": "Touro Synagogue National Historic Site",
       "Address": "Touro Synagogue Foundation, 85 Touro Street",
       "City": "Newport",
       "State": "RI",
@@ -4291,7 +4293,7 @@
     },
     {
       "Location Number": "trte",
-      "Location Name": "Trail of Tears National Historic Trail",
+      "Name": "Trail of Tears National Historic Trail",
       "Address": "National Trails Intermountain Region, P.O. Box 728",
       "City": "Santa Fe",
       "State": "New Mexico",
@@ -4304,7 +4306,7 @@
     },
     {
       "Location Number": "tule",
-      "Location Name": "Tule Lake Unit",
+      "Name": "Tule Lake Unit",
       "Address": "Tule Lake Unit, P.O. Box 1240",
       "City": "Tulelake",
       "State": "CA",
@@ -4317,7 +4319,7 @@
     },
     {
       "Location Number": "tuma",
-      "Location Name": "Tumacacori National Historical Park",
+      "Name": "Tumacacori National Historical Park",
       "Address": "Superintendent, P. O. Box 8067",
       "City": "Tumac&aacute;cori",
       "State": "Arizona",
@@ -4330,7 +4332,7 @@
     },
     {
       "Location Number": "TUPE",
-      "Location Name": "Tupelo National Battlefield",
+      "Name": "Tupelo National Battlefield",
       "Address": "Tupelo National Battlefield, 2680 Natchez Trace Parkway",
       "City": "Tupelo",
       "State": "MS",
@@ -4343,7 +4345,7 @@
     },
     {
       "Location Number": "tuai",
-      "Location Name": "Tuskegee Airmen National Historic Site",
+      "Name": "Tuskegee Airmen National Historic Site",
       "Address": "Tuskegee Airmen NHS, 1616 Chappie James Ave.",
       "City": "Tuskegee",
       "State": "AL",
@@ -4356,7 +4358,7 @@
     },
     {
       "Location Number": "tuin",
-      "Location Name": "Tuskegee Institute National Historic Site",
+      "Name": "Tuskegee Institute National Historic Site",
       "Address": "Tuskegee Institute National Historic Site, 1212 West Montgomery Road",
       "City": "Tuskegee",
       "State": "AL",
@@ -4369,7 +4371,7 @@
     },
     {
       "Location Number": "tuzi",
-      "Location Name": "Tuzigoot National Monument",
+      "Name": "Tuzigoot National Monument",
       "Address": "Tuzigoot National Monument, P.O. Box 219",
       "City": "Camp Verde",
       "State": "Arizona",
@@ -4382,7 +4384,7 @@
     },
     {
       "Location Number": "ULSG",
-      "Location Name": "Ulysses S Grant National Historic Site",
+      "Name": "Ulysses S Grant National Historic Site",
       "Address": "Superintendent, 7400 Grant Road",
       "City": "St. Louis",
       "State": "MO",
@@ -4395,7 +4397,7 @@
     },
     {
       "Location Number": "UPDE",
-      "Location Name": "Upper Delaware Scenic and Recreational River",
+      "Name": "Upper Delaware Scenic and Recreational River",
       "Address": "Superintendent, 274 River Road",
       "City": "Beach Lake",
       "State": "PA",
@@ -4408,7 +4410,7 @@
     },
     {
       "Location Number": "VAFO",
-      "Location Name": "Valley Forge National Historical Park",
+      "Name": "Valley Forge National Historical Park",
       "Address": "1400 North Outer Line Drive",
       "City": "King of Prussia",
       "State": "PA",
@@ -4421,7 +4423,7 @@
     },
     {
       "Location Number": "VAMA",
-      "Location Name": "Vanderbilt Mansion National Historic Site",
+      "Name": "Vanderbilt Mansion National Historic Site",
       "Address": "National Park Service, 4097 Albany Post Road",
       "City": "Hyde Park",
       "State": "New York",
@@ -4434,7 +4436,7 @@
     },
     {
       "Location Number": "VICK",
-      "Location Name": "Vicksburg National Military Park",
+      "Name": "Vicksburg National Military Park",
       "Address": "Vicksburg National Military Park, 3201 Clay Street",
       "City": "Vicksburg",
       "State": "Mississippi",
@@ -4447,7 +4449,7 @@
     },
     {
       "Location Number": "VIIS",
-      "Location Name": "Virgin Islands National Park",
+      "Name": "Virgin Islands National Park",
       "Address": "Virgin Islands National Park, 1300 Cruz Bay Creek",
       "City": "St. John",
       "State": "VI",
@@ -4460,7 +4462,7 @@
     },
     {
       "Location Number": "VOYA",
-      "Location Name": "Voyageurs National Park",
+      "Name": "Voyageurs National Park",
       "Address": "Voyageurs National Park, 360 Highway 11 East",
       "City": "International Falls",
       "State": "Minnesota",
@@ -4473,7 +4475,7 @@
     },
     {
       "Location Number": "waca",
-      "Location Name": "Walnut Canyon National Monument",
+      "Name": "Walnut Canyon National Monument",
       "Address": "Superintendent, Flagstaff Area National Monuments, 6400 N. Hwy 89",
       "City": "Flagstaff",
       "State": "AZ",
@@ -4486,7 +4488,7 @@
     },
     {
       "Location Number": "wapa",
-      "Location Name": "War in the Pacific National Historical Park",
+      "Name": "War in the Pacific National Historical Park",
       "Address": "Superintendent, 135 Murray Boulevard",
       "City": "Hag&aring;t&ntilde;a",
       "State": "Guam",
@@ -4499,7 +4501,7 @@
     },
     {
       "Location Number": "wefa",
-      "Location Name": "Weir Farm National Historic Site",
+      "Name": "Weir Farm National Historic Site",
       "Address": "Weir Farm NHS, 735 Nod Hill Road",
       "City": "Wilton",
       "State": "CT",
@@ -4512,7 +4514,7 @@
     },
     {
       "Location Number": "whis",
-      "Location Name": "Whiskeytown National Recreational Area",
+      "Name": "Whiskeytown National Recreational Area",
       "Address": "P.O. Box 188, 14412 Kennedy Memorial Drive",
       "City": "Whiskeytown",
       "State": "CA",
@@ -4525,7 +4527,7 @@
     },
     {
       "Location Number": "WHSA",
-      "Location Name": "White Sands National Monument",
+      "Name": "White Sands National Monument",
       "Address": "White Sands National Monument, PO Box 1086",
       "City": "Holloman AFB",
       "State": "NM",
@@ -4538,7 +4540,7 @@
     },
     {
       "Location Number": "WIHO",
-      "Location Name": "William Howard Taft National Historic Site",
+      "Name": "William Howard Taft National Historic Site",
       "Address": "William Howard Taft National Historic Site, 2038 Auburn Ave.",
       "City": "Cincinnati",
       "State": "Ohio",
@@ -4551,7 +4553,7 @@
     },
     {
       "Location Number": "WORI",
-      "Location Name": "Women's Rights National Historical Park",
+      "Name": "Women's Rights National Historical Park",
       "Address": "Superintendent, 136 Fall Street",
       "City": "Seneca Falls",
       "State": "New York",
@@ -4564,7 +4566,7 @@
     },
     {
       "Location Number": "wrst",
-      "Location Name": "Wrangell-St. Elias National Park & Preserve",
+      "Name": "Wrangell-St. Elias National Park & Preserve",
       "Address": "Wrangell-St. Elias National Park, PO Box 439",
       "City": "Copper Center",
       "State": "AK",
@@ -4577,7 +4579,7 @@
     },
     {
       "Location Number": "WRBR",
-      "Location Name": "Wright Brothers National Memorial",
+      "Name": "Wright Brothers National Memorial",
       "Address": "Wright Brothers National Memorial, 1401 National Park Drive",
       "City": "Manteo",
       "State": "North Carolina",
@@ -4590,7 +4592,7 @@
     },
     {
       "Location Number": "wupa",
-      "Location Name": "Wupatki National Monument",
+      "Name": "Wupatki National Monument",
       "Address": "Superintendent, Flagstaff Area National Monuments, 6400 N. Hwy 89",
       "City": "Flagstaff",
       "State": "AZ",
@@ -4603,7 +4605,7 @@
     },
     {
       "Location Number": "YELL",
-      "Location Name": "Yellowstone National Park",
+      "Name": "Yellowstone National Park",
       "Address": "P.O. Box 168",
       "City": "Yellowstone National Park",
       "State": "WY",
@@ -4616,7 +4618,7 @@
     },
     {
       "Location Number": "yose",
-      "Location Name": "Yosemite National Park",
+      "Name": "Yosemite National Park",
       "Address": "PO Box 577",
       "City": "Yosemite National Park",
       "State": "CA",
@@ -4629,7 +4631,7 @@
     },
     {
       "Location Number": "yuho",
-      "Location Name": "Yucca House National Monument",
+      "Name": "Yucca House National Monument",
       "Address": "c/o Mesa Verde National Park, P.O. Box 8",
       "City": "Mesa Verde",
       "State": "Colorado",
@@ -4642,7 +4644,7 @@
     },
     {
       "Location Number": "yuch",
-      "Location Name": "Yukon Charley Rivers National Preserve",
+      "Name": "Yukon Charley Rivers National Preserve",
       "Address": "Eagle Visitor Center, P.O. Box 167",
       "City": "Eagle",
       "State": "AK",
@@ -4655,7 +4657,7 @@
     },
     {
       "Location Number": "ZION",
-      "Location Name": "Zion National Park",
+      "Name": "Zion National Park",
       "Address": "Zion National Park",
       "City": "Springdale",
       "State": "Utah",
@@ -4667,3 +4669,4 @@
       "Location":{"coordinates": [-112.941626,37.240801],"type":"Point"}
     }
   ]
+}

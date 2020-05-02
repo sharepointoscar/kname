@@ -16,14 +16,10 @@ limitations under the License.
 package cmd
 
 import (
-	"encoding/json"
 	"fmt"
+	"github.com/sharepointoscar/kname/themes"
 	"github.com/spf13/cobra"
-	"io/ioutil"
-	"math/rand"
-	"os"
 	"strings"
-	"time"
 )
 
 // generateNameCmd represents the generateName command
@@ -34,23 +30,23 @@ var generateNameCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 
 		_theme, _ := rootCmd.Flags().GetString("theme")
+		_usedTheme := themes.NewTheme(_theme)
+
+		fmt.Println("what theme???", _usedTheme.Name)
 
 		if strings.Compare(_theme, "yoga") == 0 {
 
-			//fmt.Println("generate-name theme: yoga ")
-			var _clusterName = genYogaPoseName()
+			var _clusterName = _usedTheme.ClusterName
 			fmt.Println(_clusterName)
 
-		} else if strings.Compare(_theme, "cocktails") == 0 {
+		} else if strings.Compare(_usedTheme.Name, "cocktails") == 0 {
 
-			//fmt.Println("generate-name theme: Cocktail ")
-			var _clusterName = genCocktailName()
+			var _clusterName = _usedTheme.ClusterName
 			fmt.Println(_clusterName)
 
 		} else if strings.Compare(_theme, "national-parks") == 0 {
 
-			//fmt.Println("generate-name theme: National Parks")
-			var _clusterName = genNationalParkName()
+			var _clusterName = _usedTheme.ClusterName
 			fmt.Println(_clusterName)
 		} else {
 			fmt.Println("theme not supported. Want to contribute and create it? Fork the repo!")
@@ -58,88 +54,6 @@ var generateNameCmd = &cobra.Command{
 	},
 }
 
-func genYogaPoseName() string {
-
-	jsonFileYoga, err := os.Open("data/yoga.json")
-
-	// if we os.Open returns an error then handle it
-	if err != nil {
-		fmt.Println(err)
-	}
-
-	// defer the closing of our jsonFile so that we can parse it later on
-	defer jsonFileYoga.Close()
-
-	// read our opened jsonFile as a byte array.
-	byteValue, _ := ioutil.ReadAll(jsonFileYoga)
-
-	type YogaPose struct {
-		Sanksrit string `json:"sanskritName"`
-		English  string `json:"englishName"`
-	}
-
-	type YogaPoses struct {
-		YogaPoses []YogaPose `json:"poses"`
-	}
-
-	var _poses YogaPoses
-
-	json.Unmarshal(byteValue, &_poses)
-
-	rand.Seed(time.Now().UnixNano())
-	var randomPose = _poses.YogaPoses[rand.Intn(len(_poses.YogaPoses))]
-
-	_poseName := strings.ToLower(strings.Replace(randomPose.Sanksrit, " ", "", -1))
-
-	return _poseName
-}
-func genNationalParkName() string { return string("logic for theme not implemented yet.") }
-func genCocktailName() string {
-
-	jsonFile, err := os.Open("data/cocktails.json")
-
-	// if we os.Open returns an error then handle it
-	if err != nil {
-		fmt.Println(err)
-	}
-
-	// defer the closing of our jsonFile so that we can parse it later on
-	defer jsonFile.Close()
-
-	// read our opened jsonFile as a byte array.
-	byteValue, _ := ioutil.ReadAll(jsonFile)
-
-	type Cocktail struct {
-		Name  string `json:"Name"`
-		Glass string `json:"Glass"`
-	}
-
-	type Cocktails struct {
-		Cocktails []Cocktail `json:"cocktails"`
-	}
-
-	var _cocktails Cocktails
-
-	json.Unmarshal(byteValue, &_cocktails)
-
-	rand.Seed(time.Now().UnixNano())
-	var randomCocktail = _cocktails.Cocktails[rand.Intn(len(_cocktails.Cocktails))]
-
-	_cocktailName := strings.ToLower(strings.Replace(randomCocktail.Name, " ", "", -1))
-
-	//fmt.Println(_cocktailName)
-
-	return _cocktailName
-
-	//fmt.Println("Cocktail Name :", randomCocktail.Name+"\n")
-	//fmt.Println("Cocktail Glass :", randomCocktail.Glass+"\n")
-
-	// for i := 0; i < len(_cocktails.Cocktails); i++ {
-	// 	fmt.Println("Cocktail Name: " + _cocktails.Cocktails[i].Name)
-	// 	fmt.Println("Glass : " + _cocktails.Cocktails[i].Glass)
-
-	// }
-}
 func init() {
 	rootCmd.AddCommand(generateNameCmd)
 
