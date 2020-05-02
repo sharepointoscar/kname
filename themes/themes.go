@@ -10,14 +10,14 @@ import (
 	"time"
 )
 
-// Theme is a struct
+// Theme is a struct to define a theme's properties.
 type Theme struct {
 	Name        string
 	ClusterName string
 }
 
 // NewTheme This func is uppercased. Packages that import `theme` can instantiate a
-// new theme using this method. This allows us more control around car creation.
+// new theme using this method. This allows us more control around theme creation.
 func NewTheme(t string) Theme {
 
 	_theme := Theme{
@@ -26,22 +26,22 @@ func NewTheme(t string) Theme {
 
 	if strings.Compare(_theme.Name, "yoga") == 0 {
 
-		fmt.Println("using yoga theme object")
-		fmt.Println("generating clustername based on yoga pose name...")
+		//fmt.Println("using yoga theme object")
+		//fmt.Println("generating clustername based on yoga pose name...")
 
 		_theme.ClusterName = getYogaPoseName()
 
 	} else if strings.Compare(_theme.Name, "cocktails") == 0 {
 
-		fmt.Println("using cocktails theme object")
-		fmt.Println("generating clustername based on cocktail name...")
+		//fmt.Println("using cocktails theme object")
+		//fmt.Println("generating clustername based on cocktail name...")
 
 		_theme.ClusterName = getCocktailName()
 
 	} else if strings.Compare(_theme.Name, "national-parks") == 0 {
 
-		fmt.Println("using national-parks theme object")
-		fmt.Println("generating clustername based on National Park name...")
+		//fmt.Println("using national-parks theme object")
+		//fmt.Println("generating clustername based on National Park name...")
 
 		_theme.ClusterName = getNationalParkName()
 

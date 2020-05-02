@@ -9,5 +9,5 @@ import (
 
 func TestKname(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "Kname Suite")
+	RunSpecs(t, "Test Suite")
 }

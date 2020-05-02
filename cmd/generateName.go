@@ -32,8 +32,6 @@ var generateNameCmd = &cobra.Command{
 		_theme, _ := rootCmd.Flags().GetString("theme")
 		_usedTheme := themes.NewTheme(_theme)
 
-		fmt.Println("what theme???", _usedTheme.Name)
-
 		if strings.Compare(_theme, "yoga") == 0 {
 
 			var _clusterName = _usedTheme.ClusterName
