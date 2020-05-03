@@ -8,18 +8,46 @@ import (
 
 var _ = Describe("Theme", func() {
 
-	var (
-		_theme = themes.NewTheme("cocktails")
-	)
+	Describe("Yoga Theme", func() {
 
-	BeforeEach(func() {
+		var (
+			_theme = themes.NewTheme("yoga")
+		)
+
+		It("Name should contain any of: yoga", func() {
+			Expect(_theme.Name).To(Equal("yoga"))
+		})
+		It("It should generate cluster name based on theme", func() {
+
+			Expect(_theme.ClusterName).ToNot(BeEmpty())
+		})
 
 	})
 
-	Describe("Theme name", func() {
+	Describe("Cocktail Theme", func() {
 
-		It("Name should contain any of: 'yoga','cocktails' or 'national-parks", func() {
+		var (
+			_theme = themes.NewTheme("cocktails")
+		)
+
+		It("Name should contain any of: cocktails", func() {
 			Expect(_theme.Name).To(Equal("cocktails"))
+		})
+		It("It should generate cluster name based on theme", func() {
+
+			Expect(_theme.ClusterName).ToNot(BeEmpty())
+		})
+
+	})
+
+	Describe("National Parks Theme", func() {
+
+		var (
+			_theme = themes.NewTheme("national-parks")
+		)
+
+		It("Name should contain any of: cocktails", func() {
+			Expect(_theme.Name).To(Equal("national-parks"))
 		})
 		It("It should generate cluster name based on theme", func() {
 
